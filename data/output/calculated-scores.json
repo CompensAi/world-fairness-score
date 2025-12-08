@@ -1,0 +1,1782 @@
+[
+  {
+    "iso3": "AUS",
+    "name": "Australia",
+    "region": "oceania",
+    "subregion": "australasia",
+    "fairnessScore": 84,
+    "dimensions": {
+      "democraticVoice": 91,
+      "pressFreedom": 86,
+      "justiceAccess": 83,
+      "economicOpportunity": 74,
+      "workplaceRights": 88,
+      "healthcareAccess": 82,
+      "housingSecurity": 76,
+      "consumerProtection": 84,
+      "governmentResponsiveness": 82,
+      "socialInclusion": 88
+    },
+    "sourcesUsed": 8
+  },
+  {
+    "iso3": "AUT",
+    "name": "Austria",
+    "region": "europe",
+    "subregion": "western",
+    "fairnessScore": 81,
+    "dimensions": {
+      "democraticVoice": 87,
+      "pressFreedom": 86,
+      "justiceAccess": 76,
+      "economicOpportunity": 76,
+      "workplaceRights": 86,
+      "healthcareAccess": 77,
+      "housingSecurity": 76,
+      "consumerProtection": 75,
+      "governmentResponsiveness": 76,
+      "socialInclusion": 86
+    },
+    "sourcesUsed": 8
+  },
+  {
+    "iso3": "BEL",
+    "name": "Belgium",
+    "region": "europe",
+    "subregion": "western",
+    "fairnessScore": 81,
+    "dimensions": {
+      "democraticVoice": 88,
+      "pressFreedom": 86,
+      "justiceAccess": 77,
+      "economicOpportunity": 79,
+      "workplaceRights": 85,
+      "healthcareAccess": 71,
+      "housingSecurity": 78,
+      "consumerProtection": 74,
+      "governmentResponsiveness": 75,
+      "socialInclusion": 85
+    },
+    "sourcesUsed": 8
+  },
+  {
+    "iso3": "NOR",
+    "name": "Norway",
+    "region": "europe",
+    "subregion": "nordic",
+    "fairnessScore": 72,
+    "dimensions": {
+      "democraticVoice": 100,
+      "pressFreedom": 95,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 100,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 100
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "FIN",
+    "name": "Finland",
+    "region": "europe",
+    "subregion": "nordic",
+    "fairnessScore": 71,
+    "dimensions": {
+      "democraticVoice": 100,
+      "pressFreedom": 92,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 100,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 100
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "SWE",
+    "name": "Sweden",
+    "region": "europe",
+    "subregion": "nordic",
+    "fairnessScore": 71,
+    "dimensions": {
+      "democraticVoice": 100,
+      "pressFreedom": 93,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 100,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 100
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "DNK",
+    "name": "Denmark",
+    "region": "europe",
+    "subregion": "nordic",
+    "fairnessScore": 71,
+    "dimensions": {
+      "democraticVoice": 100,
+      "pressFreedom": 93,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 97,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 97
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "ISL",
+    "name": "Iceland",
+    "region": "europe",
+    "subregion": "nordic",
+    "fairnessScore": 70,
+    "dimensions": {
+      "democraticVoice": 98,
+      "pressFreedom": 89,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 97,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 97
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "NLD",
+    "name": "Netherlands",
+    "region": "europe",
+    "subregion": "western",
+    "fairnessScore": 70,
+    "dimensions": {
+      "democraticVoice": 98,
+      "pressFreedom": 91,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 97,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 97
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "LUX",
+    "name": "Luxembourg",
+    "region": "europe",
+    "subregion": "western",
+    "fairnessScore": 70,
+    "dimensions": {
+      "democraticVoice": 98,
+      "pressFreedom": 88,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 97,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 97
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "IRL",
+    "name": "Ireland",
+    "region": "europe",
+    "subregion": "western",
+    "fairnessScore": 70,
+    "dimensions": {
+      "democraticVoice": 98,
+      "pressFreedom": 90,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 97,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 97
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "CHE",
+    "name": "Switzerland",
+    "region": "europe",
+    "subregion": "western",
+    "fairnessScore": 70,
+    "dimensions": {
+      "democraticVoice": 98,
+      "pressFreedom": 89,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 95,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 95
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "PRT",
+    "name": "Portugal",
+    "region": "europe",
+    "subregion": "southern",
+    "fairnessScore": 70,
+    "dimensions": {
+      "democraticVoice": 98,
+      "pressFreedom": 90,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 95,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 95
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "CAN",
+    "name": "Canada",
+    "region": "americas",
+    "subregion": "north",
+    "fairnessScore": 70,
+    "dimensions": {
+      "democraticVoice": 100,
+      "pressFreedom": 87,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 97,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 97
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "NZL",
+    "name": "New Zealand",
+    "region": "oceania",
+    "subregion": "australasia",
+    "fairnessScore": 70,
+    "dimensions": {
+      "democraticVoice": 100,
+      "pressFreedom": 89,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 97,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 97
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "DEU",
+    "name": "Germany",
+    "region": "europe",
+    "subregion": "western",
+    "fairnessScore": 69,
+    "dimensions": {
+      "democraticVoice": 98,
+      "pressFreedom": 87,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 92,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 92
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "EST",
+    "name": "Estonia",
+    "region": "europe",
+    "subregion": "baltic",
+    "fairnessScore": 69,
+    "dimensions": {
+      "democraticVoice": 93,
+      "pressFreedom": 90,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 93,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 93
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "JPN",
+    "name": "Japan",
+    "region": "asia",
+    "subregion": "east",
+    "fairnessScore": 69,
+    "dimensions": {
+      "democraticVoice": 98,
+      "pressFreedom": 84,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 93,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 93
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "GBR",
+    "name": "United Kingdom",
+    "region": "europe",
+    "subregion": "western",
+    "fairnessScore": 68,
+    "dimensions": {
+      "democraticVoice": 95,
+      "pressFreedom": 84,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 92,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 92
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "URY",
+    "name": "Uruguay",
+    "region": "americas",
+    "subregion": "south",
+    "fairnessScore": 68,
+    "dimensions": {
+      "democraticVoice": 95,
+      "pressFreedom": 83,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 93,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 93
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "TWN",
+    "name": "Taiwan",
+    "region": "asia",
+    "subregion": "east",
+    "fairnessScore": 68,
+    "dimensions": {
+      "democraticVoice": 93,
+      "pressFreedom": 82,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 93,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 93
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "ESP",
+    "name": "Spain",
+    "region": "europe",
+    "subregion": "southern",
+    "fairnessScore": 67,
+    "dimensions": {
+      "democraticVoice": 90,
+      "pressFreedom": 82,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 92,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 92
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "CZE",
+    "name": "Czech Republic",
+    "region": "europe",
+    "subregion": "central",
+    "fairnessScore": 67,
+    "dimensions": {
+      "democraticVoice": 88,
+      "pressFreedom": 84,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 90,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 90
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "SVN",
+    "name": "Slovenia",
+    "region": "europe",
+    "subregion": "central",
+    "fairnessScore": 67,
+    "dimensions": {
+      "democraticVoice": 90,
+      "pressFreedom": 84,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 92,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 92
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "LVA",
+    "name": "Latvia",
+    "region": "europe",
+    "subregion": "baltic",
+    "fairnessScore": 67,
+    "dimensions": {
+      "democraticVoice": 90,
+      "pressFreedom": 82,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 88,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 88
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "LTU",
+    "name": "Lithuania",
+    "region": "europe",
+    "subregion": "baltic",
+    "fairnessScore": 67,
+    "dimensions": {
+      "democraticVoice": 90,
+      "pressFreedom": 83,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 88,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 88
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "CRI",
+    "name": "Costa Rica",
+    "region": "americas",
+    "subregion": "central",
+    "fairnessScore": 67,
+    "dimensions": {
+      "democraticVoice": 93,
+      "pressFreedom": 82,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 90,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 90
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "CHL",
+    "name": "Chile",
+    "region": "americas",
+    "subregion": "south",
+    "fairnessScore": 67,
+    "dimensions": {
+      "democraticVoice": 90,
+      "pressFreedom": 82,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 92,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 92
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "FRA",
+    "name": "France",
+    "region": "europe",
+    "subregion": "western",
+    "fairnessScore": 66,
+    "dimensions": {
+      "democraticVoice": 90,
+      "pressFreedom": 79,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 87,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 87
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "ITA",
+    "name": "Italy",
+    "region": "europe",
+    "subregion": "southern",
+    "fairnessScore": 66,
+    "dimensions": {
+      "democraticVoice": 88,
+      "pressFreedom": 78,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 90,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 90
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "KOR",
+    "name": "South Korea",
+    "region": "asia",
+    "subregion": "east",
+    "fairnessScore": 65,
+    "dimensions": {
+      "democraticVoice": 88,
+      "pressFreedom": 77,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 82,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 82
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "BWA",
+    "name": "Botswana",
+    "region": "africa",
+    "subregion": "southern",
+    "fairnessScore": 65,
+    "dimensions": {
+      "democraticVoice": 74,
+      "pressFreedom": 71,
+      "justiceAccess": 62,
+      "economicOpportunity": 59,
+      "workplaceRights": 69,
+      "healthcareAccess": 59,
+      "housingSecurity": 59,
+      "consumerProtection": 62,
+      "governmentResponsiveness": 61,
+      "socialInclusion": 69
+    },
+    "sourcesUsed": 7
+  },
+  {
+    "iso3": "GRC",
+    "name": "Greece",
+    "region": "europe",
+    "subregion": "southern",
+    "fairnessScore": 64,
+    "dimensions": {
+      "democraticVoice": 83,
+      "pressFreedom": 75,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 87,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 87
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "SVK",
+    "name": "Slovakia",
+    "region": "europe",
+    "subregion": "central",
+    "fairnessScore": 64,
+    "dimensions": {
+      "democraticVoice": 85,
+      "pressFreedom": 77,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 83,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 83
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "ROU",
+    "name": "Romania",
+    "region": "europe",
+    "subregion": "eastern",
+    "fairnessScore": 64,
+    "dimensions": {
+      "democraticVoice": 80,
+      "pressFreedom": 80,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 80,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 80
+    },
+    "sourcesUsed": 3
+  },
+  {
+    "iso3": "USA",
+    "name": "United States",
+    "region": "americas",
+    "subregion": "north",
+    "fairnessScore": 64,
+    "dimensions": {
+      "democraticVoice": 83,
+      "pressFreedom": 77,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 83,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 83
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "POL",
+    "name": "Poland",
+    "region": "europe",
+    "subregion": "central",
+    "fairnessScore": 63,
+    "dimensions": {
+      "democraticVoice": 83,
+      "pressFreedom": 74,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 82,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 82
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "ZAF",
+    "name": "South Africa",
+    "region": "africa",
+    "subregion": "southern",
+    "fairnessScore": 62,
+    "dimensions": {
+      "democraticVoice": 83,
+      "pressFreedom": 71,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 77,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 77
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "BGR",
+    "name": "Bulgaria",
+    "region": "europe",
+    "subregion": "eastern",
+    "fairnessScore": 61,
+    "dimensions": {
+      "democraticVoice": 70,
+      "pressFreedom": 77,
+      "justiceAccess": 53,
+      "economicOpportunity": 55,
+      "workplaceRights": 68,
+      "healthcareAccess": 51,
+      "housingSecurity": 54,
+      "consumerProtection": 49,
+      "governmentResponsiveness": 53,
+      "socialInclusion": 68
+    },
+    "sourcesUsed": 7
+  },
+  {
+    "iso3": "GHA",
+    "name": "Ghana",
+    "region": "africa",
+    "subregion": "west",
+    "fairnessScore": 61,
+    "dimensions": {
+      "democraticVoice": 78,
+      "pressFreedom": 70,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 77,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 77
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "ARG",
+    "name": "Argentina",
+    "region": "americas",
+    "subregion": "south",
+    "fairnessScore": 60,
+    "dimensions": {
+      "democraticVoice": 75,
+      "pressFreedom": 77,
+      "justiceAccess": 52,
+      "economicOpportunity": 47,
+      "workplaceRights": 73,
+      "healthcareAccess": 42,
+      "housingSecurity": 46,
+      "consumerProtection": 43,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 73
+    },
+    "sourcesUsed": 8
+  },
+  {
+    "iso3": "ALB",
+    "name": "Albania",
+    "region": "europe",
+    "subregion": "balkans",
+    "fairnessScore": 58,
+    "dimensions": {
+      "democraticVoice": 60,
+      "pressFreedom": 60,
+      "justiceAccess": 48,
+      "economicOpportunity": 69,
+      "workplaceRights": 61,
+      "healthcareAccess": 55,
+      "housingSecurity": 67,
+      "consumerProtection": 49,
+      "governmentResponsiveness": 51,
+      "socialInclusion": 61
+    },
+    "sourcesUsed": 8
+  },
+  {
+    "iso3": "HUN",
+    "name": "Hungary",
+    "region": "europe",
+    "subregion": "central",
+    "fairnessScore": 57,
+    "dimensions": {
+      "democraticVoice": 60,
+      "pressFreedom": 66,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 72,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 72
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "COL",
+    "name": "Colombia",
+    "region": "americas",
+    "subregion": "south",
+    "fairnessScore": 57,
+    "dimensions": {
+      "democraticVoice": 75,
+      "pressFreedom": 56,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 63,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 63
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "SEN",
+    "name": "Senegal",
+    "region": "africa",
+    "subregion": "west",
+    "fairnessScore": 57,
+    "dimensions": {
+      "democraticVoice": 70,
+      "pressFreedom": 57,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 68,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 68
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "MKD",
+    "name": "North Macedonia",
+    "region": "europe",
+    "subregion": "balkans",
+    "fairnessScore": 56,
+    "dimensions": {
+      "democraticVoice": 65,
+      "pressFreedom": 60,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 68,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 68
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "MNE",
+    "name": "Montenegro",
+    "region": "europe",
+    "subregion": "balkans",
+    "fairnessScore": 56,
+    "dimensions": {
+      "democraticVoice": 63,
+      "pressFreedom": 63,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 67,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 67
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "PER",
+    "name": "Peru",
+    "region": "americas",
+    "subregion": "south",
+    "fairnessScore": 56,
+    "dimensions": {
+      "democraticVoice": 70,
+      "pressFreedom": 53,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 70,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 70
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "IDN",
+    "name": "Indonesia",
+    "region": "asia",
+    "subregion": "southeast",
+    "fairnessScore": 56,
+    "dimensions": {
+      "democraticVoice": 70,
+      "pressFreedom": 56,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 67,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 67
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "ISR",
+    "name": "Israel",
+    "region": "asia",
+    "subregion": "middle-east",
+    "fairnessScore": 56,
+    "dimensions": {
+      "democraticVoice": 70,
+      "pressFreedom": 53,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 70,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 70
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "UKR",
+    "name": "Ukraine",
+    "region": "europe",
+    "subregion": "eastern",
+    "fairnessScore": 55,
+    "dimensions": {
+      "democraticVoice": 55,
+      "pressFreedom": 61,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 65,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 65
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "MDA",
+    "name": "Moldova",
+    "region": "europe",
+    "subregion": "eastern",
+    "fairnessScore": 55,
+    "dimensions": {
+      "democraticVoice": 60,
+      "pressFreedom": 60,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 63,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 63
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "SRB",
+    "name": "Serbia",
+    "region": "europe",
+    "subregion": "balkans",
+    "fairnessScore": 55,
+    "dimensions": {
+      "democraticVoice": 55,
+      "pressFreedom": 63,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 65,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 65
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "IND",
+    "name": "India",
+    "region": "asia",
+    "subregion": "south",
+    "fairnessScore": 55,
+    "dimensions": {
+      "democraticVoice": 65,
+      "pressFreedom": 54,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 67,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 67
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "PHL",
+    "name": "Philippines",
+    "region": "asia",
+    "subregion": "southeast",
+    "fairnessScore": 55,
+    "dimensions": {
+      "democraticVoice": 65,
+      "pressFreedom": 52,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 63,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 63
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "MEX",
+    "name": "Mexico",
+    "region": "americas",
+    "subregion": "north",
+    "fairnessScore": 54,
+    "dimensions": {
+      "democraticVoice": 68,
+      "pressFreedom": 48,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 58,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 58
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "GEO",
+    "name": "Georgia",
+    "region": "europe",
+    "subregion": "caucasus",
+    "fairnessScore": 53,
+    "dimensions": {
+      "democraticVoice": 53,
+      "pressFreedom": 58,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 62,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 62
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "ECU",
+    "name": "Ecuador",
+    "region": "americas",
+    "subregion": "south",
+    "fairnessScore": 53,
+    "dimensions": {
+      "democraticVoice": 60,
+      "pressFreedom": 46,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 62,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 62
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "KEN",
+    "name": "Kenya",
+    "region": "africa",
+    "subregion": "east",
+    "fairnessScore": 53,
+    "dimensions": {
+      "democraticVoice": 60,
+      "pressFreedom": 54,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 58,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 58
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "BRA",
+    "name": "Brazil",
+    "region": "americas",
+    "subregion": "south",
+    "fairnessScore": 52,
+    "dimensions": {
+      "democraticVoice": 70,
+      "pressFreedom": 59,
+      "justiceAccess": 49,
+      "economicOpportunity": 34,
+      "workplaceRights": 65,
+      "healthcareAccess": 39,
+      "housingSecurity": 35,
+      "consumerProtection": 40,
+      "governmentResponsiveness": 47,
+      "socialInclusion": 65
+    },
+    "sourcesUsed": 8
+  },
+  {
+    "iso3": "MYS",
+    "name": "Malaysia",
+    "region": "asia",
+    "subregion": "southeast",
+    "fairnessScore": 51,
+    "dimensions": {
+      "democraticVoice": 55,
+      "pressFreedom": 45,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 58,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 58
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "NGA",
+    "name": "Nigeria",
+    "region": "africa",
+    "subregion": "west",
+    "fairnessScore": 51,
+    "dimensions": {
+      "democraticVoice": 55,
+      "pressFreedom": 45,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 55,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 55
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "LBN",
+    "name": "Lebanon",
+    "region": "asia",
+    "subregion": "middle-east",
+    "fairnessScore": 50,
+    "dimensions": {
+      "democraticVoice": 55,
+      "pressFreedom": 41,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 55,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 55
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "THA",
+    "name": "Thailand",
+    "region": "asia",
+    "subregion": "southeast",
+    "fairnessScore": 48,
+    "dimensions": {
+      "democraticVoice": 40,
+      "pressFreedom": 44,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 50,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 50
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "SGP",
+    "name": "Singapore",
+    "region": "asia",
+    "subregion": "southeast",
+    "fairnessScore": 48,
+    "dimensions": {
+      "democraticVoice": 43,
+      "pressFreedom": 41,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 53,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 53
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "TZA",
+    "name": "Tanzania",
+    "region": "africa",
+    "subregion": "east",
+    "fairnessScore": 47,
+    "dimensions": {
+      "democraticVoice": 43,
+      "pressFreedom": 40,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 48,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 48
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "TUN",
+    "name": "Tunisia",
+    "region": "africa",
+    "subregion": "north",
+    "fairnessScore": 46,
+    "dimensions": {
+      "democraticVoice": 40,
+      "pressFreedom": 31,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 55,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 55
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "MAR",
+    "name": "Morocco",
+    "region": "africa",
+    "subregion": "north",
+    "fairnessScore": 44,
+    "dimensions": {
+      "democraticVoice": 30,
+      "pressFreedom": 36,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 42,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 42
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "IRQ",
+    "name": "Iraq",
+    "region": "asia",
+    "subregion": "middle-east",
+    "fairnessScore": 44,
+    "dimensions": {
+      "democraticVoice": 43,
+      "pressFreedom": 22,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 43,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 43
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "region": "europe",
+    "subregion": "balkans",
+    "fairnessScore": 43,
+    "dimensions": {
+      "democraticVoice": 51,
+      "pressFreedom": 52,
+      "justiceAccess": 41,
+      "economicOpportunity": 31,
+      "workplaceRights": 53,
+      "healthcareAccess": 31,
+      "housingSecurity": 31,
+      "consumerProtection": 35,
+      "governmentResponsiveness": 38,
+      "socialInclusion": 53
+    },
+    "sourcesUsed": 7
+  },
+  {
+    "iso3": "JOR",
+    "name": "Jordan",
+    "region": "asia",
+    "subregion": "middle-east",
+    "fairnessScore": 42,
+    "dimensions": {
+      "democraticVoice": 28,
+      "pressFreedom": 34,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 37,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 37
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "ETH",
+    "name": "Ethiopia",
+    "region": "africa",
+    "subregion": "east",
+    "fairnessScore": 41,
+    "dimensions": {
+      "democraticVoice": 25,
+      "pressFreedom": 31,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 37,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 37
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "ARE",
+    "name": "United Arab Emirates",
+    "region": "asia",
+    "subregion": "middle-east",
+    "fairnessScore": 38,
+    "dimensions": {
+      "democraticVoice": 13,
+      "pressFreedom": 31,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 27,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 27
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "VNM",
+    "name": "Vietnam",
+    "region": "asia",
+    "subregion": "southeast",
+    "fairnessScore": 36,
+    "dimensions": {
+      "democraticVoice": 8,
+      "pressFreedom": 20,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 27,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 27
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "RWA",
+    "name": "Rwanda",
+    "region": "africa",
+    "subregion": "east",
+    "fairnessScore": 36,
+    "dimensions": {
+      "democraticVoice": 18,
+      "pressFreedom": 14,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 25,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 25
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "RUS",
+    "name": "Russia",
+    "region": "europe",
+    "subregion": "eastern",
+    "fairnessScore": 35,
+    "dimensions": {
+      "democraticVoice": 13,
+      "pressFreedom": 22,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 18,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 18
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "VEN",
+    "name": "Venezuela",
+    "region": "americas",
+    "subregion": "south",
+    "fairnessScore": 35,
+    "dimensions": {
+      "democraticVoice": 10,
+      "pressFreedom": 20,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 23,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 23
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "EGY",
+    "name": "Egypt",
+    "region": "africa",
+    "subregion": "north",
+    "fairnessScore": 35,
+    "dimensions": {
+      "democraticVoice": 15,
+      "pressFreedom": 17,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 20,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 20
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "IRN",
+    "name": "Iran",
+    "region": "asia",
+    "subregion": "middle-east",
+    "fairnessScore": 34,
+    "dimensions": {
+      "democraticVoice": 10,
+      "pressFreedom": 14,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 17,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 17
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "CUB",
+    "name": "Cuba",
+    "region": "americas",
+    "subregion": "caribbean",
+    "fairnessScore": 33,
+    "dimensions": {
+      "democraticVoice": 3,
+      "pressFreedom": 14,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 18,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 18
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "NIC",
+    "name": "Nicaragua",
+    "region": "americas",
+    "subregion": "central",
+    "fairnessScore": 33,
+    "dimensions": {
+      "democraticVoice": 10,
+      "pressFreedom": 10,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 17,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 17
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "CHN",
+    "name": "China",
+    "region": "asia",
+    "subregion": "east",
+    "fairnessScore": 32,
+    "dimensions": {
+      "democraticVoice": 0,
+      "pressFreedom": 12,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 15,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 15
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "MMR",
+    "name": "Myanmar",
+    "region": "asia",
+    "subregion": "southeast",
+    "fairnessScore": 32,
+    "dimensions": {
+      "democraticVoice": 3,
+      "pressFreedom": 12,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 15,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 15
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "SAU",
+    "name": "Saudi Arabia",
+    "region": "asia",
+    "subregion": "middle-east",
+    "fairnessScore": 32,
+    "dimensions": {
+      "democraticVoice": 3,
+      "pressFreedom": 15,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 12,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 12
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "BLR",
+    "name": "Belarus",
+    "region": "europe",
+    "subregion": "eastern",
+    "fairnessScore": 29,
+    "dimensions": {
+      "democraticVoice": 10,
+      "pressFreedom": 18,
+      "justiceAccess": 27,
+      "economicOpportunity": 66,
+      "workplaceRights": 14,
+      "healthcareAccess": 30,
+      "housingSecurity": 60,
+      "consumerProtection": 34,
+      "governmentResponsiveness": 27,
+      "socialInclusion": 14
+    },
+    "sourcesUsed": 8
+  },
+  {
+    "iso3": "AZE",
+    "name": "Azerbaijan",
+    "region": "europe",
+    "subregion": "caucasus",
+    "fairnessScore": 29,
+    "dimensions": {
+      "democraticVoice": 12,
+      "pressFreedom": 18,
+      "justiceAccess": 24,
+      "economicOpportunity": 49,
+      "workplaceRights": 18,
+      "healthcareAccess": 49,
+      "housingSecurity": 49,
+      "consumerProtection": 38,
+      "governmentResponsiveness": 31,
+      "socialInclusion": 18
+    },
+    "sourcesUsed": 7
+  },
+  {
+    "iso3": "PRK",
+    "name": "North Korea",
+    "region": "asia",
+    "subregion": "east",
+    "fairnessScore": 29,
+    "dimensions": {
+      "democraticVoice": 0,
+      "pressFreedom": 6,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 5,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 5
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "SYR",
+    "name": "Syria",
+    "region": "asia",
+    "subregion": "middle-east",
+    "fairnessScore": 29,
+    "dimensions": {
+      "democraticVoice": 0,
+      "pressFreedom": 5,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 2,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 2
+    },
+    "sourcesUsed": 4
+  },
+  {
+    "iso3": "ERI",
+    "name": "Eritrea",
+    "region": "africa",
+    "subregion": "east",
+    "fairnessScore": 29,
+    "dimensions": {
+      "democraticVoice": 0,
+      "pressFreedom": 4,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 3,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 3
+    },
+    "sourcesUsed": 4
+  }
+]

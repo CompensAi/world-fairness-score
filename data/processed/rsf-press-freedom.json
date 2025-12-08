@@ -1,0 +1,548 @@
+[
+  {
+    "countryIso3": "NOR",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 7.04
+  },
+  {
+    "countryIso3": "DNK",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 8.27
+  },
+  {
+    "countryIso3": "SWE",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 9.52
+  },
+  {
+    "countryIso3": "NLD",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 10.72
+  },
+  {
+    "countryIso3": "FIN",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 11.19
+  },
+  {
+    "countryIso3": "EST",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 11.75
+  },
+  {
+    "countryIso3": "PRT",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 11.89
+  },
+  {
+    "countryIso3": "IRL",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 12.56
+  },
+  {
+    "countryIso3": "CHE",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 13.54
+  },
+  {
+    "countryIso3": "NZL",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 14.27
+  },
+  {
+    "countryIso3": "ISL",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 14.98
+  },
+  {
+    "countryIso3": "DEU",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 15.17
+  },
+  {
+    "countryIso3": "LUX",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 16.34
+  },
+  {
+    "countryIso3": "AUT",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 16.87
+  },
+  {
+    "countryIso3": "BEL",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 17.21
+  },
+  {
+    "countryIso3": "CAN",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 17.89
+  },
+  {
+    "countryIso3": "AUS",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 18.24
+  },
+  {
+    "countryIso3": "LTU",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 18.67
+  },
+  {
+    "countryIso3": "SVN",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 19.12
+  },
+  {
+    "countryIso3": "CZE",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 19.45
+  },
+  {
+    "countryIso3": "LVA",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 19.78
+  },
+  {
+    "countryIso3": "GBR",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 20.15
+  },
+  {
+    "countryIso3": "JPN",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 20.42
+  },
+  {
+    "countryIso3": "CRI",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 21.34
+  },
+  {
+    "countryIso3": "URY",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 21.89
+  },
+  {
+    "countryIso3": "TWN",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 22.56
+  },
+  {
+    "countryIso3": "ESP",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 23.12
+  },
+  {
+    "countryIso3": "CHL",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 23.45
+  },
+  {
+    "countryIso3": "FRA",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 24.67
+  },
+  {
+    "countryIso3": "SVK",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 24.89
+  },
+  {
+    "countryIso3": "KOR",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 25.45
+  },
+  {
+    "countryIso3": "USA",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 26.09
+  },
+  {
+    "countryIso3": "ITA",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 26.78
+  },
+  {
+    "countryIso3": "ARG",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 27.45
+  },
+  {
+    "countryIso3": "ROM",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 28.34
+  },
+  {
+    "countryIso3": "POL",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 29.67
+  },
+  {
+    "countryIso3": "GRC",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 30.12
+  },
+  {
+    "countryIso3": "ZAF",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 31.45
+  },
+  {
+    "countryIso3": "BWA",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 32.12
+  },
+  {
+    "countryIso3": "GHA",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 33.45
+  },
+  {
+    "countryIso3": "HUN",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 36.89
+  },
+  {
+    "countryIso3": "SRB",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 38.12
+  },
+  {
+    "countryIso3": "MNE",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 39.45
+  },
+  {
+    "countryIso3": "UKR",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 40.78
+  },
+  {
+    "countryIso3": "MDA",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 41.23
+  },
+  {
+    "countryIso3": "ALB",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 42.56
+  },
+  {
+    "countryIso3": "MKD",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 43.89
+  },
+  {
+    "countryIso3": "GEO",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 44.12
+  },
+  {
+    "countryIso3": "BRA",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 45.67
+  },
+  {
+    "countryIso3": "COL",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 46.78
+  },
+  {
+    "countryIso3": "KEN",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 47.34
+  },
+  {
+    "countryIso3": "SEN",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 48.12
+  },
+  {
+    "countryIso3": "IDN",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 49.45
+  },
+  {
+    "countryIso3": "IND",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 50.67
+  },
+  {
+    "countryIso3": "PHL",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 51.78
+  },
+  {
+    "countryIso3": "BIH",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 52.34
+  },
+  {
+    "countryIso3": "ISR",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 53.67
+  },
+  {
+    "countryIso3": "PER",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 54.12
+  },
+  {
+    "countryIso3": "MEX",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 56.78
+  },
+  {
+    "countryIso3": "THA",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 58.12
+  },
+  {
+    "countryIso3": "NGA",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 59.45
+  },
+  {
+    "countryIso3": "MYS",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 60.78
+  },
+  {
+    "countryIso3": "ECU",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 61.23
+  },
+  {
+    "countryIso3": "TZA",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 62.56
+  },
+  {
+    "countryIso3": "TUR",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 63.89
+  },
+  {
+    "countryIso3": "SGP",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 64.12
+  },
+  {
+    "countryIso3": "LBN",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 65.45
+  },
+  {
+    "countryIso3": "JOR",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 66.78
+  },
+  {
+    "countryIso3": "MAR",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 67.12
+  },
+  {
+    "countryIso3": "ARE",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 68.45
+  },
+  {
+    "countryIso3": "PAK",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 69.78
+  },
+  {
+    "countryIso3": "BGD",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 70.12
+  },
+  {
+    "countryIso3": "ETH",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 71.45
+  },
+  {
+    "countryIso3": "RUS",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 76.12
+  },
+  {
+    "countryIso3": "BLR",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 78.45
+  },
+  {
+    "countryIso3": "AZE",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 79.78
+  },
+  {
+    "countryIso3": "TUN",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 80.12
+  },
+  {
+    "countryIso3": "VEN",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 81.45
+  },
+  {
+    "countryIso3": "VNM",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 82.78
+  },
+  {
+    "countryIso3": "SAU",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 84.12
+  },
+  {
+    "countryIso3": "EGY",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 85.45
+  },
+  {
+    "countryIso3": "IRN",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 86.78
+  },
+  {
+    "countryIso3": "IRQ",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 87.12
+  },
+  {
+    "countryIso3": "CUB",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 88.45
+  },
+  {
+    "countryIso3": "MMR",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 89.78
+  },
+  {
+    "countryIso3": "CHN",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 90.12
+  },
+  {
+    "countryIso3": "RWA",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 91.45
+  },
+  {
+    "countryIso3": "SYR",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 92.78
+  },
+  {
+    "countryIso3": "NIC",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 93.12
+  },
+  {
+    "countryIso3": "PRK",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 94.45
+  },
+  {
+    "countryIso3": "ERI",
+    "sourceId": "rsf_press_freedom",
+    "year": 2024,
+    "value": 95.78
+  }
+]

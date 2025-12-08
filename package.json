@@ -1,0 +1,39 @@
+{
+  "name": "world-fairness-score",
+  "version": "1.0.0",
+  "description": "Open-source index measuring how fairly citizens are treated across 190+ countries",
+  "main": "generate.ts",
+  "scripts": {
+    "fetch:freedom-house": "npx tsx fetch/freedom-house.ts",
+    "fetch:rsf": "npx tsx fetch/rsf-press-freedom.ts",
+    "fetch:world-bank": "npx tsx fetch/world-bank.ts",
+    "fetch:all": "npm run fetch:freedom-house && npm run fetch:rsf && npm run fetch:world-bank",
+    "generate": "npx tsx generate.ts",
+    "validate": "npx tsx calculate.ts --validate",
+    "build": "npm run fetch:all && npm run generate"
+  },
+  "keywords": [
+    "fairness",
+    "democracy",
+    "freedom",
+    "index",
+    "world",
+    "countries",
+    "data",
+    "open-source"
+  ],
+  "author": "Compens.ai",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CompensAi/world-fairness-score.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CompensAi/world-fairness-score/issues"
+  },
+  "homepage": "https://compens.ai/en/global-unfairness",
+  "devDependencies": {
+    "tsx": "^4.21.0",
+    "typescript": "^5.0.0"
+  }
+}

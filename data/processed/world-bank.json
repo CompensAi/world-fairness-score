@@ -1,0 +1,710 @@
+[
+  {
+    "countryIso3": "ALB",
+    "sourceId": "world_bank_gini",
+    "year": 2020,
+    "value": 29.4
+  },
+  {
+    "countryIso3": "ALB",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": 0.168997228145599
+  },
+  {
+    "countryIso3": "ALB",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": 0.250855356454849
+  },
+  {
+    "countryIso3": "ALB",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": -0.332218527793884
+  },
+  {
+    "countryIso3": "AGO",
+    "sourceId": "world_bank_gini",
+    "year": 2018,
+    "value": 51.3
+  },
+  {
+    "countryIso3": "AGO",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": -0.737252414226532
+  },
+  {
+    "countryIso3": "AGO",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": -1.00890958309174
+  },
+  {
+    "countryIso3": "AGO",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": -0.60992020368576
+  },
+  {
+    "countryIso3": "ARG",
+    "sourceId": "world_bank_gini",
+    "year": 2023,
+    "value": 42.4
+  },
+  {
+    "countryIso3": "ARG",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": 0.533921837806702
+  },
+  {
+    "countryIso3": "ARG",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": -0.377517342567444
+  },
+  {
+    "countryIso3": "ARG",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": -0.360883951187134
+  },
+  {
+    "countryIso3": "ARM",
+    "sourceId": "world_bank_gini",
+    "year": 2023,
+    "value": 27.2
+  },
+  {
+    "countryIso3": "ARM",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": 0.0767075568437576
+  },
+  {
+    "countryIso3": "ARM",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": -0.184129968285561
+  },
+  {
+    "countryIso3": "ARM",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": 0.0583996474742889
+  },
+  {
+    "countryIso3": "AUS",
+    "sourceId": "world_bank_gini",
+    "year": 2020,
+    "value": 33.8
+  },
+  {
+    "countryIso3": "AUS",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": 1.50660192966461
+  },
+  {
+    "countryIso3": "AUS",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": 1.58987963199615
+  },
+  {
+    "countryIso3": "AUS",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": 1.78120493888855
+  },
+  {
+    "countryIso3": "AUT",
+    "sourceId": "world_bank_gini",
+    "year": 2023,
+    "value": 31.2
+  },
+  {
+    "countryIso3": "AUT",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": 1.41124832630157
+  },
+  {
+    "countryIso3": "AUT",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": 1.32668149471283
+  },
+  {
+    "countryIso3": "AUT",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": 1.1336532831192
+  },
+  {
+    "countryIso3": "BGD",
+    "sourceId": "world_bank_gini",
+    "year": 2022,
+    "value": 30.9
+  },
+  {
+    "countryIso3": "BGD",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": -0.753886342048645
+  },
+  {
+    "countryIso3": "BGD",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": -0.697334110736847
+  },
+  {
+    "countryIso3": "BGD",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": -1.12086641788483
+  },
+  {
+    "countryIso3": "BLR",
+    "sourceId": "world_bank_gini",
+    "year": 2020,
+    "value": 24.4
+  },
+  {
+    "countryIso3": "BLR",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": -1.66739654541016
+  },
+  {
+    "countryIso3": "BLR",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": -0.991465747356415
+  },
+  {
+    "countryIso3": "BLR",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": -0.665028035640717
+  },
+  {
+    "countryIso3": "BEL",
+    "sourceId": "world_bank_gini",
+    "year": 2023,
+    "value": 26.8
+  },
+  {
+    "countryIso3": "BEL",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": 1.32572901248932
+  },
+  {
+    "countryIso3": "BEL",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": 1.03702199459076
+  },
+  {
+    "countryIso3": "BEL",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": 1.3368444442749
+  },
+  {
+    "countryIso3": "BLZ",
+    "sourceId": "world_bank_gini",
+    "year": 2018,
+    "value": 39.9
+  },
+  {
+    "countryIso3": "BLZ",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": 0.539004623889923
+  },
+  {
+    "countryIso3": "BLZ",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": -0.376311779022217
+  },
+  {
+    "countryIso3": "BLZ",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": -0.226113811135292
+  },
+  {
+    "countryIso3": "BEN",
+    "sourceId": "world_bank_gini",
+    "year": 2021,
+    "value": 34.4
+  },
+  {
+    "countryIso3": "BEN",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": -0.218986943364143
+  },
+  {
+    "countryIso3": "BEN",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": -0.218984127044678
+  },
+  {
+    "countryIso3": "BEN",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": -0.0495794489979744
+  },
+  {
+    "countryIso3": "BTN",
+    "sourceId": "world_bank_gini",
+    "year": 2022,
+    "value": 28.5
+  },
+  {
+    "countryIso3": "BTN",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": 0.200142219662666
+  },
+  {
+    "countryIso3": "BTN",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": 0.566305339336395
+  },
+  {
+    "countryIso3": "BTN",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": 1.53142273426056
+  },
+  {
+    "countryIso3": "BOL",
+    "sourceId": "world_bank_gini",
+    "year": 2023,
+    "value": 42.1
+  },
+  {
+    "countryIso3": "BOL",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": -0.265191316604614
+  },
+  {
+    "countryIso3": "BOL",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": -0.639481067657471
+  },
+  {
+    "countryIso3": "BOL",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": -0.838301062583923
+  },
+  {
+    "countryIso3": "BRA",
+    "sourceId": "world_bank_gini",
+    "year": 2023,
+    "value": 51.6
+  },
+  {
+    "countryIso3": "BRA",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": 0.382853865623474
+  },
+  {
+    "countryIso3": "BRA",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": -0.546764314174652
+  },
+  {
+    "countryIso3": "BRA",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": -0.503643155097961
+  },
+  {
+    "countryIso3": "BGR",
+    "sourceId": "world_bank_gini",
+    "year": 2023,
+    "value": 39.5
+  },
+  {
+    "countryIso3": "BGR",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": 0.388988107442856
+  },
+  {
+    "countryIso3": "BGR",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": 0.047112051397562
+  },
+  {
+    "countryIso3": "BGR",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": -0.137721657752991
+  },
+  {
+    "countryIso3": "BFA",
+    "sourceId": "world_bank_gini",
+    "year": 2021,
+    "value": 37.4
+  },
+  {
+    "countryIso3": "BFA",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": -0.809887170791626
+  },
+  {
+    "countryIso3": "BFA",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": -0.826227486133575
+  },
+  {
+    "countryIso3": "BFA",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": -0.169615507125854
+  },
+  {
+    "countryIso3": "BDI",
+    "sourceId": "world_bank_gini",
+    "year": 2020,
+    "value": 37.5
+  },
+  {
+    "countryIso3": "BDI",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": -1.36691832542419
+  },
+  {
+    "countryIso3": "BDI",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": -1.20011341571808
+  },
+  {
+    "countryIso3": "BDI",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": -1.55602598190308
+  },
+  {
+    "countryIso3": "AFG",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": -1.85290133953094
+  },
+  {
+    "countryIso3": "AFG",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": -1.98701369762421
+  },
+  {
+    "countryIso3": "AFG",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": -1.15493178367615
+  },
+  {
+    "countryIso3": "DZA",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": -0.979883790016174
+  },
+  {
+    "countryIso3": "DZA",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": -0.670135140419006
+  },
+  {
+    "countryIso3": "DZA",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": -0.589308321475983
+  },
+  {
+    "countryIso3": "ASM",
+    "sourceId": "wgi_voice",
+    "year": 2022,
+    "value": 0.952084183692932
+  },
+  {
+    "countryIso3": "ASM",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": 0.654167771339417
+  },
+  {
+    "countryIso3": "ASM",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": 1.25135612487793
+  },
+  {
+    "countryIso3": "AND",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": 0.996939778327942
+  },
+  {
+    "countryIso3": "AND",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": 1.4754387140274
+  },
+  {
+    "countryIso3": "AND",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": 1.25135612487793
+  },
+  {
+    "countryIso3": "ATG",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": 0.741840481758118
+  },
+  {
+    "countryIso3": "ATG",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": 0.380410820245743
+  },
+  {
+    "countryIso3": "ATG",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": 0.326792687177658
+  },
+  {
+    "countryIso3": "ABW",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": 1.0191752910614
+  },
+  {
+    "countryIso3": "ABW",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": 0.795440852642059
+  },
+  {
+    "countryIso3": "ABW",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": 0.709075331687927
+  },
+  {
+    "countryIso3": "AZE",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": -1.41153395175934
+  },
+  {
+    "countryIso3": "AZE",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": -0.0326422192156315
+  },
+  {
+    "countryIso3": "AZE",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": -1.19547140598297
+  },
+  {
+    "countryIso3": "BHS",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": 0.860349118709564
+  },
+  {
+    "countryIso3": "BHS",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": 0.270353257656097
+  },
+  {
+    "countryIso3": "BHS",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": 1.26691007614136
+  },
+  {
+    "countryIso3": "BHR",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": -1.37783300876617
+  },
+  {
+    "countryIso3": "BHR",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": 0.697198748588562
+  },
+  {
+    "countryIso3": "BHR",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": 0.177784815430641
+  },
+  {
+    "countryIso3": "BRB",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": 1.16219222545624
+  },
+  {
+    "countryIso3": "BRB",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": 0.380443245172501
+  },
+  {
+    "countryIso3": "BRB",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": 1.34458589553833
+  },
+  {
+    "countryIso3": "BIH",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": -0.319465935230255
+  },
+  {
+    "countryIso3": "BIH",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": -0.967812538146973
+  },
+  {
+    "countryIso3": "BIH",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": -0.581560015678406
+  },
+  {
+    "countryIso3": "BWA",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": 0.504056930541992
+  },
+  {
+    "countryIso3": "BWA",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": 0.430828422307968
+  },
+  {
+    "countryIso3": "BWA",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": 0.685792088508606
+  },
+  {
+    "countryIso3": "BRN",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": -0.715453028678894
+  },
+  {
+    "countryIso3": "BRN",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": 1.4017870426178
+  },
+  {
+    "countryIso3": "BRN",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": 1.27803611755371
+  },
+  {
+    "countryIso3": "CPV",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": 0.958101332187653
+  },
+  {
+    "countryIso3": "CPV",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": 0.0136766647920012
+  },
+  {
+    "countryIso3": "CPV",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": 0.984857201576233
+  },
+  {
+    "countryIso3": "KHM",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": -1.29242181777954
+  },
+  {
+    "countryIso3": "KHM",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": -0.305874288082123
+  },
+  {
+    "countryIso3": "KHM",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": -1.29921674728394
+  },
+  {
+    "countryIso3": "CMR",
+    "sourceId": "wgi_voice",
+    "year": 2023,
+    "value": -1.0663970708847
+  },
+  {
+    "countryIso3": "CMR",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": -0.906262576580048
+  },
+  {
+    "countryIso3": "CMR",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": -1.16255974769592
+  },
+  {
+    "countryIso3": "BMU",
+    "sourceId": "wgi_effectiveness",
+    "year": 2023,
+    "value": 1.20168173313141
+  },
+  {
+    "countryIso3": "BMU",
+    "sourceId": "wgi_corruption",
+    "year": 2023,
+    "value": 1.25135612487793
+  }
+]

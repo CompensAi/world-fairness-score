@@ -1,0 +1,1604 @@
+[
+  {
+    "countryIso3": "NOR",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 40
+  },
+  {
+    "countryIso3": "NOR",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 60
+  },
+  {
+    "countryIso3": "NOR",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 100
+  },
+  {
+    "countryIso3": "FIN",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 40
+  },
+  {
+    "countryIso3": "FIN",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 60
+  },
+  {
+    "countryIso3": "FIN",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 100
+  },
+  {
+    "countryIso3": "SWE",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 40
+  },
+  {
+    "countryIso3": "SWE",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 60
+  },
+  {
+    "countryIso3": "SWE",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 100
+  },
+  {
+    "countryIso3": "DNK",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 40
+  },
+  {
+    "countryIso3": "DNK",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 58
+  },
+  {
+    "countryIso3": "DNK",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 98
+  },
+  {
+    "countryIso3": "ISL",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 39
+  },
+  {
+    "countryIso3": "ISL",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 58
+  },
+  {
+    "countryIso3": "ISL",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 97
+  },
+  {
+    "countryIso3": "NLD",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 39
+  },
+  {
+    "countryIso3": "NLD",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 58
+  },
+  {
+    "countryIso3": "NLD",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 97
+  },
+  {
+    "countryIso3": "LUX",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 39
+  },
+  {
+    "countryIso3": "LUX",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 58
+  },
+  {
+    "countryIso3": "LUX",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 97
+  },
+  {
+    "countryIso3": "IRL",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 39
+  },
+  {
+    "countryIso3": "IRL",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 58
+  },
+  {
+    "countryIso3": "IRL",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 97
+  },
+  {
+    "countryIso3": "CHE",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 39
+  },
+  {
+    "countryIso3": "CHE",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 57
+  },
+  {
+    "countryIso3": "CHE",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 96
+  },
+  {
+    "countryIso3": "DEU",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 39
+  },
+  {
+    "countryIso3": "DEU",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 55
+  },
+  {
+    "countryIso3": "DEU",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 94
+  },
+  {
+    "countryIso3": "AUT",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 37
+  },
+  {
+    "countryIso3": "AUT",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 56
+  },
+  {
+    "countryIso3": "AUT",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 93
+  },
+  {
+    "countryIso3": "BEL",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 38
+  },
+  {
+    "countryIso3": "BEL",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 55
+  },
+  {
+    "countryIso3": "BEL",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 93
+  },
+  {
+    "countryIso3": "GBR",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 38
+  },
+  {
+    "countryIso3": "GBR",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 55
+  },
+  {
+    "countryIso3": "GBR",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 93
+  },
+  {
+    "countryIso3": "FRA",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 36
+  },
+  {
+    "countryIso3": "FRA",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 52
+  },
+  {
+    "countryIso3": "FRA",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 88
+  },
+  {
+    "countryIso3": "PRT",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 39
+  },
+  {
+    "countryIso3": "PRT",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 57
+  },
+  {
+    "countryIso3": "PRT",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 96
+  },
+  {
+    "countryIso3": "ESP",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 36
+  },
+  {
+    "countryIso3": "ESP",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 55
+  },
+  {
+    "countryIso3": "ESP",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 91
+  },
+  {
+    "countryIso3": "ITA",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 35
+  },
+  {
+    "countryIso3": "ITA",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 54
+  },
+  {
+    "countryIso3": "ITA",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 89
+  },
+  {
+    "countryIso3": "GRC",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 33
+  },
+  {
+    "countryIso3": "GRC",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 52
+  },
+  {
+    "countryIso3": "GRC",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 85
+  },
+  {
+    "countryIso3": "CZE",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 35
+  },
+  {
+    "countryIso3": "CZE",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 54
+  },
+  {
+    "countryIso3": "CZE",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 89
+  },
+  {
+    "countryIso3": "SVN",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 36
+  },
+  {
+    "countryIso3": "SVN",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 55
+  },
+  {
+    "countryIso3": "SVN",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 91
+  },
+  {
+    "countryIso3": "EST",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 37
+  },
+  {
+    "countryIso3": "EST",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 56
+  },
+  {
+    "countryIso3": "EST",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 93
+  },
+  {
+    "countryIso3": "LVA",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 36
+  },
+  {
+    "countryIso3": "LVA",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 53
+  },
+  {
+    "countryIso3": "LVA",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 89
+  },
+  {
+    "countryIso3": "LTU",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 36
+  },
+  {
+    "countryIso3": "LTU",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 53
+  },
+  {
+    "countryIso3": "LTU",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 89
+  },
+  {
+    "countryIso3": "POL",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 33
+  },
+  {
+    "countryIso3": "POL",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 49
+  },
+  {
+    "countryIso3": "POL",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 82
+  },
+  {
+    "countryIso3": "SVK",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 34
+  },
+  {
+    "countryIso3": "SVK",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 50
+  },
+  {
+    "countryIso3": "SVK",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 84
+  },
+  {
+    "countryIso3": "HUN",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 24
+  },
+  {
+    "countryIso3": "HUN",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 43
+  },
+  {
+    "countryIso3": "HUN",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 67
+  },
+  {
+    "countryIso3": "UKR",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 22
+  },
+  {
+    "countryIso3": "UKR",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 39
+  },
+  {
+    "countryIso3": "UKR",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 61
+  },
+  {
+    "countryIso3": "MDA",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 24
+  },
+  {
+    "countryIso3": "MDA",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 38
+  },
+  {
+    "countryIso3": "MDA",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 62
+  },
+  {
+    "countryIso3": "GEO",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 21
+  },
+  {
+    "countryIso3": "GEO",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 37
+  },
+  {
+    "countryIso3": "GEO",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 58
+  },
+  {
+    "countryIso3": "ROU",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 32
+  },
+  {
+    "countryIso3": "ROU",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 48
+  },
+  {
+    "countryIso3": "ROU",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 80
+  },
+  {
+    "countryIso3": "BGR",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 31
+  },
+  {
+    "countryIso3": "BGR",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 46
+  },
+  {
+    "countryIso3": "BGR",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 77
+  },
+  {
+    "countryIso3": "SRB",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 22
+  },
+  {
+    "countryIso3": "SRB",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 39
+  },
+  {
+    "countryIso3": "SRB",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 61
+  },
+  {
+    "countryIso3": "MKD",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 26
+  },
+  {
+    "countryIso3": "MKD",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 41
+  },
+  {
+    "countryIso3": "MKD",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 67
+  },
+  {
+    "countryIso3": "ALB",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 26
+  },
+  {
+    "countryIso3": "ALB",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 41
+  },
+  {
+    "countryIso3": "ALB",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 67
+  },
+  {
+    "countryIso3": "BIH",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 22
+  },
+  {
+    "countryIso3": "BIH",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 37
+  },
+  {
+    "countryIso3": "BIH",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 59
+  },
+  {
+    "countryIso3": "MNE",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 25
+  },
+  {
+    "countryIso3": "MNE",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 40
+  },
+  {
+    "countryIso3": "MNE",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 65
+  },
+  {
+    "countryIso3": "RUS",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 5
+  },
+  {
+    "countryIso3": "RUS",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 11
+  },
+  {
+    "countryIso3": "RUS",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 16
+  },
+  {
+    "countryIso3": "BLR",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 2
+  },
+  {
+    "countryIso3": "BLR",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 6
+  },
+  {
+    "countryIso3": "BLR",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 8
+  },
+  {
+    "countryIso3": "AZE",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 2
+  },
+  {
+    "countryIso3": "AZE",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 8
+  },
+  {
+    "countryIso3": "AZE",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 10
+  },
+  {
+    "countryIso3": "CAN",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 40
+  },
+  {
+    "countryIso3": "CAN",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 58
+  },
+  {
+    "countryIso3": "CAN",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 98
+  },
+  {
+    "countryIso3": "USA",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 33
+  },
+  {
+    "countryIso3": "USA",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 50
+  },
+  {
+    "countryIso3": "USA",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 83
+  },
+  {
+    "countryIso3": "CRI",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 37
+  },
+  {
+    "countryIso3": "CRI",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 54
+  },
+  {
+    "countryIso3": "CRI",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 91
+  },
+  {
+    "countryIso3": "URY",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 38
+  },
+  {
+    "countryIso3": "URY",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 56
+  },
+  {
+    "countryIso3": "URY",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 94
+  },
+  {
+    "countryIso3": "CHL",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 36
+  },
+  {
+    "countryIso3": "CHL",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 55
+  },
+  {
+    "countryIso3": "CHL",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 91
+  },
+  {
+    "countryIso3": "ARG",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 34
+  },
+  {
+    "countryIso3": "ARG",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 51
+  },
+  {
+    "countryIso3": "ARG",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 85
+  },
+  {
+    "countryIso3": "BRA",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 31
+  },
+  {
+    "countryIso3": "BRA",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 43
+  },
+  {
+    "countryIso3": "BRA",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 74
+  },
+  {
+    "countryIso3": "MEX",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 27
+  },
+  {
+    "countryIso3": "MEX",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 35
+  },
+  {
+    "countryIso3": "MEX",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 62
+  },
+  {
+    "countryIso3": "COL",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 30
+  },
+  {
+    "countryIso3": "COL",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 38
+  },
+  {
+    "countryIso3": "COL",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 68
+  },
+  {
+    "countryIso3": "PER",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 28
+  },
+  {
+    "countryIso3": "PER",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 42
+  },
+  {
+    "countryIso3": "PER",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 70
+  },
+  {
+    "countryIso3": "ECU",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 24
+  },
+  {
+    "countryIso3": "ECU",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 37
+  },
+  {
+    "countryIso3": "ECU",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 61
+  },
+  {
+    "countryIso3": "VEN",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 4
+  },
+  {
+    "countryIso3": "VEN",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 14
+  },
+  {
+    "countryIso3": "VEN",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 18
+  },
+  {
+    "countryIso3": "CUB",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 1
+  },
+  {
+    "countryIso3": "CUB",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 11
+  },
+  {
+    "countryIso3": "CUB",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 12
+  },
+  {
+    "countryIso3": "NIC",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 4
+  },
+  {
+    "countryIso3": "NIC",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 10
+  },
+  {
+    "countryIso3": "NIC",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 14
+  },
+  {
+    "countryIso3": "JPN",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 39
+  },
+  {
+    "countryIso3": "JPN",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 56
+  },
+  {
+    "countryIso3": "JPN",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 95
+  },
+  {
+    "countryIso3": "KOR",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 35
+  },
+  {
+    "countryIso3": "KOR",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 49
+  },
+  {
+    "countryIso3": "KOR",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 84
+  },
+  {
+    "countryIso3": "TWN",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 37
+  },
+  {
+    "countryIso3": "TWN",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 56
+  },
+  {
+    "countryIso3": "TWN",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 93
+  },
+  {
+    "countryIso3": "AUS",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 39
+  },
+  {
+    "countryIso3": "AUS",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 57
+  },
+  {
+    "countryIso3": "AUS",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 96
+  },
+  {
+    "countryIso3": "NZL",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 40
+  },
+  {
+    "countryIso3": "NZL",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 58
+  },
+  {
+    "countryIso3": "NZL",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 98
+  },
+  {
+    "countryIso3": "IND",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 26
+  },
+  {
+    "countryIso3": "IND",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 40
+  },
+  {
+    "countryIso3": "IND",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 66
+  },
+  {
+    "countryIso3": "IDN",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 28
+  },
+  {
+    "countryIso3": "IDN",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 40
+  },
+  {
+    "countryIso3": "IDN",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 68
+  },
+  {
+    "countryIso3": "PHL",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 26
+  },
+  {
+    "countryIso3": "PHL",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 38
+  },
+  {
+    "countryIso3": "PHL",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 64
+  },
+  {
+    "countryIso3": "THA",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 16
+  },
+  {
+    "countryIso3": "THA",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 30
+  },
+  {
+    "countryIso3": "THA",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 46
+  },
+  {
+    "countryIso3": "MYS",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 22
+  },
+  {
+    "countryIso3": "MYS",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 35
+  },
+  {
+    "countryIso3": "MYS",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 57
+  },
+  {
+    "countryIso3": "SGP",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 17
+  },
+  {
+    "countryIso3": "SGP",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 32
+  },
+  {
+    "countryIso3": "SGP",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 49
+  },
+  {
+    "countryIso3": "CHN",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 0
+  },
+  {
+    "countryIso3": "CHN",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 9
+  },
+  {
+    "countryIso3": "CHN",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 9
+  },
+  {
+    "countryIso3": "VNM",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 3
+  },
+  {
+    "countryIso3": "VNM",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 16
+  },
+  {
+    "countryIso3": "VNM",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 19
+  },
+  {
+    "countryIso3": "PRK",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 0
+  },
+  {
+    "countryIso3": "PRK",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 3
+  },
+  {
+    "countryIso3": "PRK",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 3
+  },
+  {
+    "countryIso3": "MMR",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 1
+  },
+  {
+    "countryIso3": "MMR",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 9
+  },
+  {
+    "countryIso3": "MMR",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 10
+  },
+  {
+    "countryIso3": "ISR",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 28
+  },
+  {
+    "countryIso3": "ISR",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 42
+  },
+  {
+    "countryIso3": "ISR",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 70
+  },
+  {
+    "countryIso3": "TUN",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 16
+  },
+  {
+    "countryIso3": "TUN",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 33
+  },
+  {
+    "countryIso3": "TUN",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 49
+  },
+  {
+    "countryIso3": "LBN",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 22
+  },
+  {
+    "countryIso3": "LBN",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 33
+  },
+  {
+    "countryIso3": "LBN",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 55
+  },
+  {
+    "countryIso3": "JOR",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 11
+  },
+  {
+    "countryIso3": "JOR",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 22
+  },
+  {
+    "countryIso3": "JOR",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 33
+  },
+  {
+    "countryIso3": "MAR",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 12
+  },
+  {
+    "countryIso3": "MAR",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 25
+  },
+  {
+    "countryIso3": "MAR",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 37
+  },
+  {
+    "countryIso3": "ARE",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 5
+  },
+  {
+    "countryIso3": "ARE",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 16
+  },
+  {
+    "countryIso3": "ARE",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 21
+  },
+  {
+    "countryIso3": "SAU",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 1
+  },
+  {
+    "countryIso3": "SAU",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 7
+  },
+  {
+    "countryIso3": "SAU",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 8
+  },
+  {
+    "countryIso3": "IRN",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 4
+  },
+  {
+    "countryIso3": "IRN",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 10
+  },
+  {
+    "countryIso3": "IRN",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 14
+  },
+  {
+    "countryIso3": "EGY",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 6
+  },
+  {
+    "countryIso3": "EGY",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 12
+  },
+  {
+    "countryIso3": "EGY",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 18
+  },
+  {
+    "countryIso3": "IRQ",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 17
+  },
+  {
+    "countryIso3": "IRQ",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 26
+  },
+  {
+    "countryIso3": "IRQ",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 43
+  },
+  {
+    "countryIso3": "SYR",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 0
+  },
+  {
+    "countryIso3": "SYR",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 1
+  },
+  {
+    "countryIso3": "SYR",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 1
+  },
+  {
+    "countryIso3": "ZAF",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 33
+  },
+  {
+    "countryIso3": "ZAF",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 46
+  },
+  {
+    "countryIso3": "ZAF",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 79
+  },
+  {
+    "countryIso3": "BWA",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 33
+  },
+  {
+    "countryIso3": "BWA",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 46
+  },
+  {
+    "countryIso3": "BWA",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 79
+  },
+  {
+    "countryIso3": "GHA",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 31
+  },
+  {
+    "countryIso3": "GHA",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 46
+  },
+  {
+    "countryIso3": "GHA",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 77
+  },
+  {
+    "countryIso3": "SEN",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 28
+  },
+  {
+    "countryIso3": "SEN",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 41
+  },
+  {
+    "countryIso3": "SEN",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 69
+  },
+  {
+    "countryIso3": "KEN",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 24
+  },
+  {
+    "countryIso3": "KEN",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 35
+  },
+  {
+    "countryIso3": "KEN",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 59
+  },
+  {
+    "countryIso3": "NGA",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 22
+  },
+  {
+    "countryIso3": "NGA",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 33
+  },
+  {
+    "countryIso3": "NGA",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 55
+  },
+  {
+    "countryIso3": "TZA",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 17
+  },
+  {
+    "countryIso3": "TZA",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 29
+  },
+  {
+    "countryIso3": "TZA",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 46
+  },
+  {
+    "countryIso3": "ETH",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 10
+  },
+  {
+    "countryIso3": "ETH",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 22
+  },
+  {
+    "countryIso3": "ETH",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 32
+  },
+  {
+    "countryIso3": "RWA",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 7
+  },
+  {
+    "countryIso3": "RWA",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 15
+  },
+  {
+    "countryIso3": "RWA",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 22
+  },
+  {
+    "countryIso3": "ERI",
+    "sourceId": "freedom_house_political",
+    "year": 2024,
+    "value": 0
+  },
+  {
+    "countryIso3": "ERI",
+    "sourceId": "freedom_house_civil",
+    "year": 2024,
+    "value": 2
+  },
+  {
+    "countryIso3": "ERI",
+    "sourceId": "freedom_house_total",
+    "year": 2024,
+    "value": 2
+  }
+]
