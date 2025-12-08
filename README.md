@@ -36,11 +36,19 @@ world-fairness-score/
 │   ├── freedom-house.ts   # Freedom House data (2024)
 │   ├── rsf-press-freedom.ts  # Reporters Without Borders (2024)
 │   └── world-bank.ts      # World Bank API (GINI, WGI)
-└── data/                  # Raw and processed data
+└── data/
     ├── raw/               # Downloaded source files
     ├── processed/         # Normalized data points
-    └── output/            # Final calculated scores
+    ├── output/            # Final calculated scores
+    │   ├── calculated-scores.json   # Detailed results with all metadata
+    │   └── world-fairness-data.json # Frontend-compatible format
+    └── map/
+        └── countries-110m.json      # TopoJSON world map (Crimea as Ukraine)
 ```
+
+## Map Data
+
+The `data/map/countries-110m.json` file is a TopoJSON world map based on [Visionscarto World Atlas](https://github.com/visionscarto/world-atlas) which correctly shows Crimea as part of Ukraine (UN-recognized borders).
 
 ## 10 Fairness Dimensions
 

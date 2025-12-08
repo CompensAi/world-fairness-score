@@ -148,6 +148,52 @@ const DIMENSION_MAPPINGS: DimensionMapping[] = [
 // HELPER FUNCTIONS
 // ============================================
 
+// Generate key facts based on scores
+function generateKeyFacts(score: number, dimensions: Record<string, number>, name: string): string[] {
+  const facts: string[] = [];
+
+  // Find strongest dimension
+  const sortedDims = Object.entries(dimensions).sort((a, b) => b[1] - a[1]);
+  const strongest = sortedDims[0];
+  const weakest = sortedDims[sortedDims.length - 1];
+
+  const dimLabels: Record<string, string> = {
+    democraticVoice: 'democratic institutions',
+    pressFreedom: 'press freedom',
+    justiceAccess: 'justice system',
+    economicOpportunity: 'economic opportunity',
+    workplaceRights: 'workplace rights',
+    healthcareAccess: 'healthcare access',
+    housingSecurity: 'housing security',
+    consumerProtection: 'consumer protection',
+    governmentResponsiveness: 'government responsiveness',
+    socialInclusion: 'social inclusion',
+  };
+
+  if (strongest[1] >= 70) {
+    facts.push(`Strong ${dimLabels[strongest[0]] || strongest[0]} (${strongest[1]}%)`);
+  }
+
+  if (weakest[1] <= 40) {
+    facts.push(`Challenges in ${dimLabels[weakest[0]] || weakest[0]} (${weakest[1]}%)`);
+  }
+
+  if (score >= 80) {
+    facts.push('Among the world\'s fairest societies');
+  } else if (score >= 65) {
+    facts.push('Above-average fairness globally');
+  } else if (score <= 35) {
+    facts.push('Significant fairness challenges');
+  }
+
+  // Ensure at least one fact
+  if (facts.length === 0) {
+    facts.push(`Overall fairness score: ${score}%`);
+  }
+
+  return facts;
+}
+
 function normalizeValue(value: number, config: SourceConfig): number {
   const [min, max] = config.inputRange;
   const clamped = Math.max(min, Math.min(max, value));
@@ -231,6 +277,9 @@ interface CountryMeta {
   subregion: string;
   population: number;
   gdpPerCapita: number;
+  trend?: 'improving' | 'declining' | 'stable';
+  trendChange?: number;
+  keyFacts?: string[];
 }
 
 const COUNTRY_METADATA: Record<string, CountryMeta> = {
@@ -376,6 +425,11 @@ function generateScores() {
     fairnessScore: number;
     dimensions: Record<string, number>;
     sourcesUsed: number;
+    population: number;
+    gdpPerCapita: number;
+    trend: 'improving' | 'declining' | 'stable';
+    trendChange: number;
+    keyFacts: string[];
   }> = [];
 
   for (const [iso3, sourceValues] of countryData.entries()) {
@@ -393,6 +447,11 @@ function generateScores() {
       fairnessScore,
       dimensions,
       sourcesUsed: sourceValues.size,
+      population: meta.population,
+      gdpPerCapita: meta.gdpPerCapita,
+      trend: meta.trend || 'stable',
+      trendChange: meta.trendChange || 0,
+      keyFacts: meta.keyFacts || generateKeyFacts(fairnessScore, dimensions, meta.name),
     });
   }
 
@@ -421,6 +480,25 @@ function generateScores() {
   fs.mkdirSync(path.dirname(outputPath), { recursive: true });
   fs.writeFileSync(outputPath, JSON.stringify(results, null, 2));
   console.log(`\nSaved detailed results to ${outputPath}`);
+
+  // Generate frontend-compatible format (with 'id' instead of 'iso3')
+  const frontendData = results.map(r => ({
+    id: r.iso3,
+    name: r.name,
+    region: r.region,
+    subregion: r.subregion,
+    fairnessScore: r.fairnessScore,
+    population: r.population,
+    gdpPerCapita: r.gdpPerCapita,
+    dimensions: r.dimensions,
+    trend: r.trend,
+    trendChange: r.trendChange,
+    keyFacts: r.keyFacts,
+  }));
+
+  const frontendPath = path.join(__dirname, 'data/output/world-fairness-data.json');
+  fs.writeFileSync(frontendPath, JSON.stringify(frontendData, null, 2));
+  console.log(`Saved frontend-compatible data to ${frontendPath}`);
 
   // Generate comparison report
   generateComparisonReport(results);
