@@ -1,0 +1,1 @@
+# world-fairness-score
