@@ -1,0 +1,1050 @@
+[
+  {
+    "countryIso3": "DNK",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 100,
+    "originalRating": 1,
+    "category": "Sporadic violations"
+  },
+  {
+    "countryIso3": "FIN",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 100,
+    "originalRating": 1,
+    "category": "Sporadic violations"
+  },
+  {
+    "countryIso3": "NOR",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 100,
+    "originalRating": 1,
+    "category": "Sporadic violations"
+  },
+  {
+    "countryIso3": "SWE",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 100,
+    "originalRating": 1,
+    "category": "Sporadic violations"
+  },
+  {
+    "countryIso3": "ISL",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 100,
+    "originalRating": 1,
+    "category": "Sporadic violations"
+  },
+  {
+    "countryIso3": "IRL",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 100,
+    "originalRating": 1,
+    "category": "Sporadic violations"
+  },
+  {
+    "countryIso3": "NLD",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 100,
+    "originalRating": 1,
+    "category": "Sporadic violations"
+  },
+  {
+    "countryIso3": "URY",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 100,
+    "originalRating": 1,
+    "category": "Sporadic violations"
+  },
+  {
+    "countryIso3": "DEU",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 100,
+    "originalRating": 1,
+    "category": "Sporadic violations"
+  },
+  {
+    "countryIso3": "AUT",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 100,
+    "originalRating": 1,
+    "category": "Sporadic violations"
+  },
+  {
+    "countryIso3": "ITA",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 100,
+    "originalRating": 1,
+    "category": "Sporadic violations"
+  },
+  {
+    "countryIso3": "BEL",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 78,
+    "originalRating": 2,
+    "category": "Repeated violations"
+  },
+  {
+    "countryIso3": "FRA",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 78,
+    "originalRating": 2,
+    "category": "Repeated violations"
+  },
+  {
+    "countryIso3": "CAN",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 78,
+    "originalRating": 2,
+    "category": "Repeated violations"
+  },
+  {
+    "countryIso3": "JPN",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 78,
+    "originalRating": 2,
+    "category": "Repeated violations"
+  },
+  {
+    "countryIso3": "AUS",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 78,
+    "originalRating": 2,
+    "category": "Repeated violations"
+  },
+  {
+    "countryIso3": "NZL",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 78,
+    "originalRating": 2,
+    "category": "Repeated violations"
+  },
+  {
+    "countryIso3": "CHE",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 78,
+    "originalRating": 2,
+    "category": "Repeated violations"
+  },
+  {
+    "countryIso3": "ESP",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 78,
+    "originalRating": 2,
+    "category": "Repeated violations"
+  },
+  {
+    "countryIso3": "PRT",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 78,
+    "originalRating": 2,
+    "category": "Repeated violations"
+  },
+  {
+    "countryIso3": "CZE",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 78,
+    "originalRating": 2,
+    "category": "Repeated violations"
+  },
+  {
+    "countryIso3": "SVK",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 78,
+    "originalRating": 2,
+    "category": "Repeated violations"
+  },
+  {
+    "countryIso3": "SVN",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 78,
+    "originalRating": 2,
+    "category": "Repeated violations"
+  },
+  {
+    "countryIso3": "CHL",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 78,
+    "originalRating": 2,
+    "category": "Repeated violations"
+  },
+  {
+    "countryIso3": "ARG",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 78,
+    "originalRating": 2,
+    "category": "Repeated violations"
+  },
+  {
+    "countryIso3": "ZAF",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 78,
+    "originalRating": 2,
+    "category": "Repeated violations"
+  },
+  {
+    "countryIso3": "GHA",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 78,
+    "originalRating": 2,
+    "category": "Repeated violations"
+  },
+  {
+    "countryIso3": "BWA",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 78,
+    "originalRating": 2,
+    "category": "Repeated violations"
+  },
+  {
+    "countryIso3": "MUS",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 78,
+    "originalRating": 2,
+    "category": "Repeated violations"
+  },
+  {
+    "countryIso3": "JAM",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 78,
+    "originalRating": 2,
+    "category": "Repeated violations"
+  },
+  {
+    "countryIso3": "TTO",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 78,
+    "originalRating": 2,
+    "category": "Repeated violations"
+  },
+  {
+    "countryIso3": "USA",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "GBR",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "POL",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "HUN",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "GRC",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "ROU",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "BGR",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "HRV",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "MKD",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "MEX",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "BRA",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "PER",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "BOL",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "DOM",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "SEN",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "KEN",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "IND",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "IDN",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "MYS",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "KOR",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "TWN",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "JOR",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "MAR",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "TUN",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "GEO",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "MDA",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "UKR",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "MNG",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "LKA",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "NPL",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 56,
+    "originalRating": 3,
+    "category": "Regular violations"
+  },
+  {
+    "countryIso3": "CHN",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "RUS",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "TUR",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "IRN",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "PAK",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "VNM",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "THA",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "PHL",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "COL",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "GTM",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "HND",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "SLV",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "NIC",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "ECU",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "PRY",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "HTI",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "NGA",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "CIV",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "CMR",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "UGA",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "TZA",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "ETH",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "ZWE",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "ZMB",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "MOZ",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "AGO",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "DZA",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "EGY",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "SAU",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "ARE",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "QAT",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "KWT",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "BHR",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "OMN",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "KAZ",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "AZE",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "KHM",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "LAO",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "BRN",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "SGP",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "HKG",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "ARM",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "SRB",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "ALB",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "BIH",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "MNE",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "LBN",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 33,
+    "originalRating": 4,
+    "category": "Systematic violations"
+  },
+  {
+    "countryIso3": "BGD",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 11,
+    "originalRating": 5,
+    "category": "No guarantee of rights"
+  },
+  {
+    "countryIso3": "MMR",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 11,
+    "originalRating": 5,
+    "category": "No guarantee of rights"
+  },
+  {
+    "countryIso3": "BLR",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 11,
+    "originalRating": 5,
+    "category": "No guarantee of rights"
+  },
+  {
+    "countryIso3": "VEN",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 11,
+    "originalRating": 5,
+    "category": "No guarantee of rights"
+  },
+  {
+    "countryIso3": "IRQ",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 11,
+    "originalRating": 5,
+    "category": "No guarantee of rights"
+  },
+  {
+    "countryIso3": "SDN",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 11,
+    "originalRating": 5,
+    "category": "No guarantee of rights"
+  },
+  {
+    "countryIso3": "COD",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 11,
+    "originalRating": 5,
+    "category": "No guarantee of rights"
+  },
+  {
+    "countryIso3": "SWZ",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 11,
+    "originalRating": 5,
+    "category": "No guarantee of rights"
+  },
+  {
+    "countryIso3": "TKM",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 11,
+    "originalRating": 5,
+    "category": "No guarantee of rights"
+  },
+  {
+    "countryIso3": "UZB",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 11,
+    "originalRating": 5,
+    "category": "No guarantee of rights"
+  },
+  {
+    "countryIso3": "TJK",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 11,
+    "originalRating": 5,
+    "category": "No guarantee of rights"
+  },
+  {
+    "countryIso3": "KGZ",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 11,
+    "originalRating": 5,
+    "category": "No guarantee of rights"
+  },
+  {
+    "countryIso3": "AFG",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 0,
+    "originalRating": 5.5,
+    "category": "No guarantee - breakdown of rule of law"
+  },
+  {
+    "countryIso3": "SYR",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 0,
+    "originalRating": 5.5,
+    "category": "No guarantee - breakdown of rule of law"
+  },
+  {
+    "countryIso3": "YEM",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 0,
+    "originalRating": 5.5,
+    "category": "No guarantee - breakdown of rule of law"
+  },
+  {
+    "countryIso3": "LBY",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 0,
+    "originalRating": 5.5,
+    "category": "No guarantee - breakdown of rule of law"
+  },
+  {
+    "countryIso3": "SOM",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 0,
+    "originalRating": 5.5,
+    "category": "No guarantee - breakdown of rule of law"
+  },
+  {
+    "countryIso3": "SSD",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 0,
+    "originalRating": 5.5,
+    "category": "No guarantee - breakdown of rule of law"
+  },
+  {
+    "countryIso3": "CAF",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 0,
+    "originalRating": 5.5,
+    "category": "No guarantee - breakdown of rule of law"
+  },
+  {
+    "countryIso3": "ERI",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 0,
+    "originalRating": 5.5,
+    "category": "No guarantee - breakdown of rule of law"
+  },
+  {
+    "countryIso3": "PRK",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 0,
+    "originalRating": 5.5,
+    "category": "No guarantee - breakdown of rule of law"
+  },
+  {
+    "countryIso3": "CUB",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 11,
+    "originalRating": 5,
+    "category": "No guarantee of rights"
+  },
+  {
+    "countryIso3": "PSE",
+    "sourceId": "ituc_gri",
+    "year": 2024,
+    "value": 0,
+    "originalRating": 5.5,
+    "category": "No guarantee - breakdown of rule of law"
+  }
+]

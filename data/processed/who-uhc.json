@@ -1,0 +1,884 @@
+[
+  {
+    "countryIso3": "JPN",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 89
+  },
+  {
+    "countryIso3": "KOR",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 88
+  },
+  {
+    "countryIso3": "AUS",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 87
+  },
+  {
+    "countryIso3": "SGP",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 86
+  },
+  {
+    "countryIso3": "CAN",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 86
+  },
+  {
+    "countryIso3": "CHE",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 86
+  },
+  {
+    "countryIso3": "DEU",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 86
+  },
+  {
+    "countryIso3": "FRA",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 86
+  },
+  {
+    "countryIso3": "NLD",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 86
+  },
+  {
+    "countryIso3": "AUT",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 85
+  },
+  {
+    "countryIso3": "BEL",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 85
+  },
+  {
+    "countryIso3": "DNK",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 85
+  },
+  {
+    "countryIso3": "FIN",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 85
+  },
+  {
+    "countryIso3": "ISL",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 85
+  },
+  {
+    "countryIso3": "NOR",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 85
+  },
+  {
+    "countryIso3": "SWE",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 85
+  },
+  {
+    "countryIso3": "GBR",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 85
+  },
+  {
+    "countryIso3": "IRL",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 84
+  },
+  {
+    "countryIso3": "NZL",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 84
+  },
+  {
+    "countryIso3": "ESP",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 84
+  },
+  {
+    "countryIso3": "PRT",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 83
+  },
+  {
+    "countryIso3": "ITA",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 83
+  },
+  {
+    "countryIso3": "CZE",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 82
+  },
+  {
+    "countryIso3": "SVN",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 82
+  },
+  {
+    "countryIso3": "ISR",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 81
+  },
+  {
+    "countryIso3": "USA",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 81
+  },
+  {
+    "countryIso3": "ARE",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 80
+  },
+  {
+    "countryIso3": "QAT",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 80
+  },
+  {
+    "countryIso3": "POL",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 79
+  },
+  {
+    "countryIso3": "EST",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 78
+  },
+  {
+    "countryIso3": "HRV",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 78
+  },
+  {
+    "countryIso3": "LTU",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 78
+  },
+  {
+    "countryIso3": "SVK",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 78
+  },
+  {
+    "countryIso3": "LVA",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 77
+  },
+  {
+    "countryIso3": "HUN",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 76
+  },
+  {
+    "countryIso3": "CHL",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 76
+  },
+  {
+    "countryIso3": "URY",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 76
+  },
+  {
+    "countryIso3": "KWT",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 76
+  },
+  {
+    "countryIso3": "SAU",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 75
+  },
+  {
+    "countryIso3": "OMN",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 75
+  },
+  {
+    "countryIso3": "BHR",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 74
+  },
+  {
+    "countryIso3": "ARG",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 74
+  },
+  {
+    "countryIso3": "CRI",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 74
+  },
+  {
+    "countryIso3": "MYS",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 73
+  },
+  {
+    "countryIso3": "TUR",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 73
+  },
+  {
+    "countryIso3": "ROU",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 72
+  },
+  {
+    "countryIso3": "BGR",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 72
+  },
+  {
+    "countryIso3": "SRB",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 71
+  },
+  {
+    "countryIso3": "BRA",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 71
+  },
+  {
+    "countryIso3": "MEX",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 71
+  },
+  {
+    "countryIso3": "CHN",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 70
+  },
+  {
+    "countryIso3": "THA",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 70
+  },
+  {
+    "countryIso3": "MKD",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 70
+  },
+  {
+    "countryIso3": "MNE",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 70
+  },
+  {
+    "countryIso3": "IRN",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 69
+  },
+  {
+    "countryIso3": "PAN",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 68
+  },
+  {
+    "countryIso3": "COL",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 67
+  },
+  {
+    "countryIso3": "ECU",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 67
+  },
+  {
+    "countryIso3": "JOR",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 67
+  },
+  {
+    "countryIso3": "ALB",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 66
+  },
+  {
+    "countryIso3": "GEO",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 66
+  },
+  {
+    "countryIso3": "ARM",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 65
+  },
+  {
+    "countryIso3": "PER",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 65
+  },
+  {
+    "countryIso3": "VNM",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 65
+  },
+  {
+    "countryIso3": "TUN",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 65
+  },
+  {
+    "countryIso3": "DZA",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 64
+  },
+  {
+    "countryIso3": "DOM",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 64
+  },
+  {
+    "countryIso3": "AZE",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 64
+  },
+  {
+    "countryIso3": "PRY",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 63
+  },
+  {
+    "countryIso3": "BOL",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 63
+  },
+  {
+    "countryIso3": "SLV",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 63
+  },
+  {
+    "countryIso3": "UKR",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 62
+  },
+  {
+    "countryIso3": "MDA",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 62
+  },
+  {
+    "countryIso3": "EGY",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 62
+  },
+  {
+    "countryIso3": "PHL",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 61
+  },
+  {
+    "countryIso3": "IDN",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 61
+  },
+  {
+    "countryIso3": "MNG",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 61
+  },
+  {
+    "countryIso3": "LKA",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 61
+  },
+  {
+    "countryIso3": "MAR",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 60
+  },
+  {
+    "countryIso3": "IRQ",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 60
+  },
+  {
+    "countryIso3": "KAZ",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 59
+  },
+  {
+    "countryIso3": "KGZ",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 58
+  },
+  {
+    "countryIso3": "UZB",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 58
+  },
+  {
+    "countryIso3": "TJK",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 57
+  },
+  {
+    "countryIso3": "TKM",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 56
+  },
+  {
+    "countryIso3": "HND",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 56
+  },
+  {
+    "countryIso3": "GTM",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 56
+  },
+  {
+    "countryIso3": "NIC",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 55
+  },
+  {
+    "countryIso3": "NPL",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 54
+  },
+  {
+    "countryIso3": "IND",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 54
+  },
+  {
+    "countryIso3": "BGD",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 52
+  },
+  {
+    "countryIso3": "LAO",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 51
+  },
+  {
+    "countryIso3": "KHM",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 51
+  },
+  {
+    "countryIso3": "BTN",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 51
+  },
+  {
+    "countryIso3": "GHA",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 50
+  },
+  {
+    "countryIso3": "ZAF",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 50
+  },
+  {
+    "countryIso3": "BWA",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 50
+  },
+  {
+    "countryIso3": "NAM",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 50
+  },
+  {
+    "countryIso3": "RWA",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 49
+  },
+  {
+    "countryIso3": "SEN",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 49
+  },
+  {
+    "countryIso3": "KEN",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 49
+  },
+  {
+    "countryIso3": "ZMB",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 48
+  },
+  {
+    "countryIso3": "JAM",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 48
+  },
+  {
+    "countryIso3": "MMR",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 47
+  },
+  {
+    "countryIso3": "TZA",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 47
+  },
+  {
+    "countryIso3": "UGA",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 46
+  },
+  {
+    "countryIso3": "MWI",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 46
+  },
+  {
+    "countryIso3": "CIV",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 45
+  },
+  {
+    "countryIso3": "CMR",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 45
+  },
+  {
+    "countryIso3": "ZWE",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 44
+  },
+  {
+    "countryIso3": "PAK",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 43
+  },
+  {
+    "countryIso3": "NGA",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 43
+  },
+  {
+    "countryIso3": "BEN",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 42
+  },
+  {
+    "countryIso3": "AGO",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 41
+  },
+  {
+    "countryIso3": "GAB",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 41
+  },
+  {
+    "countryIso3": "COG",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 41
+  },
+  {
+    "countryIso3": "TGO",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 41
+  },
+  {
+    "countryIso3": "GIN",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 40
+  },
+  {
+    "countryIso3": "MLI",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 40
+  },
+  {
+    "countryIso3": "MOZ",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 39
+  },
+  {
+    "countryIso3": "ETH",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 39
+  },
+  {
+    "countryIso3": "BFA",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 38
+  },
+  {
+    "countryIso3": "NER",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 38
+  },
+  {
+    "countryIso3": "MRT",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 38
+  },
+  {
+    "countryIso3": "LBR",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 37
+  },
+  {
+    "countryIso3": "SLE",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 36
+  },
+  {
+    "countryIso3": "COD",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 35
+  },
+  {
+    "countryIso3": "MDG",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 35
+  },
+  {
+    "countryIso3": "SDN",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 34
+  },
+  {
+    "countryIso3": "AFG",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 34
+  },
+  {
+    "countryIso3": "YEM",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 32
+  },
+  {
+    "countryIso3": "HTI",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 30
+  },
+  {
+    "countryIso3": "SOM",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 25
+  },
+  {
+    "countryIso3": "SSD",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 24
+  },
+  {
+    "countryIso3": "CAF",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 23
+  },
+  {
+    "countryIso3": "TWN",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 84
+  },
+  {
+    "countryIso3": "HKG",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 83
+  },
+  {
+    "countryIso3": "LBN",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 61
+  },
+  {
+    "countryIso3": "PSE",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 52
+  },
+  {
+    "countryIso3": "LBY",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 55
+  },
+  {
+    "countryIso3": "SYR",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 40
+  },
+  {
+    "countryIso3": "CUB",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 75
+  },
+  {
+    "countryIso3": "VEN",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 50
+  },
+  {
+    "countryIso3": "BLR",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 72
+  },
+  {
+    "countryIso3": "RUS",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 70
+  },
+  {
+    "countryIso3": "PRK",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 45
+  },
+  {
+    "countryIso3": "ERI",
+    "sourceId": "who_uhc_index",
+    "year": 2021,
+    "value": 35
+  }
+]

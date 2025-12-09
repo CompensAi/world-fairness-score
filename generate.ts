@@ -38,15 +38,66 @@ interface SourceConfig {
 // SOURCE NORMALIZATION CONFIG
 // ============================================
 
-const SOURCE_CONFIGS: Record<string, SourceConfig> = {
-  freedom_house_political: { inputRange: [0, 40], invert: false },
-  freedom_house_civil: { inputRange: [0, 60], invert: false },
-  freedom_house_total: { inputRange: [0, 100], invert: false },
-  rsf_press_freedom: { inputRange: [0, 100], invert: true },
-  world_bank_gini: { inputRange: [20, 65], invert: true },
-  wgi_voice: { inputRange: [-2.5, 2.5], invert: false },
-  wgi_effectiveness: { inputRange: [-2.5, 2.5], invert: false },
-  wgi_corruption: { inputRange: [-2.5, 2.5], invert: false },
+const SOURCE_CONFIGS: Record<string, SourceConfig & { name: string; url: string }> = {
+  // Freedom House
+  freedom_house_political: {
+    inputRange: [0, 40], invert: false,
+    name: 'Freedom House Political Rights',
+    url: 'https://freedomhouse.org/report/freedom-world'
+  },
+  freedom_house_civil: {
+    inputRange: [0, 60], invert: false,
+    name: 'Freedom House Civil Liberties',
+    url: 'https://freedomhouse.org/report/freedom-world'
+  },
+  freedom_house_total: {
+    inputRange: [0, 100], invert: false,
+    name: 'Freedom House Total Score',
+    url: 'https://freedomhouse.org/report/freedom-world'
+  },
+  // RSF
+  rsf_press_freedom: {
+    inputRange: [0, 100], invert: true,
+    name: 'RSF Press Freedom Index',
+    url: 'https://rsf.org/en/index'
+  },
+  // World Bank
+  world_bank_gini: {
+    inputRange: [20, 65], invert: true,
+    name: 'World Bank GINI Index',
+    url: 'https://data.worldbank.org/indicator/SI.POV.GINI'
+  },
+  wgi_voice: {
+    inputRange: [-2.5, 2.5], invert: false,
+    name: 'World Bank Voice & Accountability',
+    url: 'https://data.worldbank.org/indicator/VA.EST'
+  },
+  wgi_effectiveness: {
+    inputRange: [-2.5, 2.5], invert: false,
+    name: 'World Bank Government Effectiveness',
+    url: 'https://data.worldbank.org/indicator/GE.EST'
+  },
+  wgi_corruption: {
+    inputRange: [-2.5, 2.5], invert: false,
+    name: 'World Bank Control of Corruption',
+    url: 'https://data.worldbank.org/indicator/CC.EST'
+  },
+  // NEW SOURCES
+  who_uhc_index: {
+    inputRange: [0, 100], invert: false,
+    name: 'WHO UHC Service Coverage Index',
+    url: 'https://data.who.int/indicators/i/3805B1E'
+  },
+  transparency_cpi: {
+    inputRange: [0, 100], invert: false,
+    name: 'Transparency International CPI',
+    url: 'https://www.transparency.org/en/cpi/2024'
+  },
+  ituc_gri: {
+    inputRange: [0, 100], invert: false, // Already normalized in fetcher
+    name: 'ITUC Global Rights Index',
+    url: 'https://www.ituc-csi.org/global-rights-index'
+  },
 };
 
 // ============================================
@@ -75,8 +126,9 @@ const DIMENSION_MAPPINGS: DimensionMapping[] = [
   {
     dimension: 'democraticVoice',
     sources: [
-      { sourceId: 'freedom_house_political', weight: 0.6 },
-      { sourceId: 'wgi_voice', weight: 0.4 },
+      { sourceId: 'freedom_house_political', weight: 0.5 },
+      { sourceId: 'wgi_voice', weight: 0.5 },
+      // TODO: Add V-Dem Electoral Democracy Index
     ],
   },
   {
@@ -84,13 +136,16 @@ const DIMENSION_MAPPINGS: DimensionMapping[] = [
     sources: [
       { sourceId: 'rsf_press_freedom', weight: 0.7 },
       { sourceId: 'freedom_house_civil', weight: 0.3 },
+      // TODO: Add V-Dem Freedom of Expression
     ],
   },
   {
     dimension: 'justiceAccess',
     sources: [
-      { sourceId: 'wgi_voice', weight: 0.5 },
-      { sourceId: 'wgi_corruption', weight: 0.5 },
+      { sourceId: 'wgi_corruption', weight: 0.4 },
+      { sourceId: 'transparency_cpi', weight: 0.4 },
+      { sourceId: 'wgi_voice', weight: 0.2 },
+      // TODO: Add WJP Rule of Law Index
     ],
   },
   {
@@ -98,41 +153,47 @@ const DIMENSION_MAPPINGS: DimensionMapping[] = [
     sources: [
       { sourceId: 'world_bank_gini', weight: 0.6 },
       { sourceId: 'wgi_effectiveness', weight: 0.4 },
+      // TODO: Add UNDP HDI
     ],
   },
   {
     dimension: 'workplaceRights',
     sources: [
-      { sourceId: 'freedom_house_civil', weight: 0.5 },
-      { sourceId: 'wgi_voice', weight: 0.5 },
+      { sourceId: 'ituc_gri', weight: 0.6 },
+      { sourceId: 'freedom_house_civil', weight: 0.2 },
+      { sourceId: 'wgi_voice', weight: 0.2 },
     ],
   },
   {
     dimension: 'healthcareAccess',
     sources: [
-      { sourceId: 'wgi_effectiveness', weight: 1.0 },
+      { sourceId: 'who_uhc_index', weight: 0.7 },
+      { sourceId: 'wgi_effectiveness', weight: 0.3 },
     ],
   },
   {
     dimension: 'housingSecurity',
     sources: [
-      { sourceId: 'wgi_effectiveness', weight: 0.5 },
-      { sourceId: 'world_bank_gini', weight: 0.5 },
+      { sourceId: 'wgi_effectiveness', weight: 0.4 },
+      { sourceId: 'world_bank_gini', weight: 0.4 },
+      { sourceId: 'transparency_cpi', weight: 0.2 },
+      // Note: No dedicated housing index available with open data
     ],
   },
   {
     dimension: 'consumerProtection',
     sources: [
-      { sourceId: 'wgi_corruption', weight: 0.5 },
-      { sourceId: 'wgi_effectiveness', weight: 0.5 },
+      { sourceId: 'transparency_cpi', weight: 0.5 },
+      { sourceId: 'wgi_corruption', weight: 0.3 },
+      { sourceId: 'wgi_effectiveness', weight: 0.2 },
     ],
   },
   {
     dimension: 'governmentResponsiveness',
     sources: [
-      { sourceId: 'wgi_voice', weight: 0.4 },
-      { sourceId: 'wgi_effectiveness', weight: 0.3 },
-      { sourceId: 'wgi_corruption', weight: 0.3 },
+      { sourceId: 'wgi_voice', weight: 0.35 },
+      { sourceId: 'wgi_effectiveness', weight: 0.35 },
+      { sourceId: 'transparency_cpi', weight: 0.3 },
     ],
   },
   {
@@ -140,6 +201,7 @@ const DIMENSION_MAPPINGS: DimensionMapping[] = [
     sources: [
       { sourceId: 'freedom_house_civil', weight: 0.5 },
       { sourceId: 'wgi_voice', weight: 0.5 },
+      // TODO: Add UNDP Gender Inequality Index
     ],
   },
 ];
@@ -393,6 +455,120 @@ const COUNTRY_METADATA: Record<string, CountryMeta> = {
   ETH: { name: 'Ethiopia', region: 'africa', subregion: 'east', population: 118, gdpPerCapita: 944 },
   RWA: { name: 'Rwanda', region: 'africa', subregion: 'east', population: 13, gdpPerCapita: 822 },
   ERI: { name: 'Eritrea', region: 'africa', subregion: 'east', population: 3.6, gdpPerCapita: 643 },
+
+  // More Africa
+  NAM: { name: 'Namibia', region: 'africa', subregion: 'southern', population: 2.5, gdpPerCapita: 4866 },
+  CPV: { name: 'Cape Verde', region: 'africa', subregion: 'west', population: 0.6, gdpPerCapita: 3603 },
+  MUS: { name: 'Mauritius', region: 'africa', subregion: 'east', population: 1.3, gdpPerCapita: 10216 },
+  BEN: { name: 'Benin', region: 'africa', subregion: 'west', population: 13, gdpPerCapita: 1319 },
+  LSO: { name: 'Lesotho', region: 'africa', subregion: 'southern', population: 2.2, gdpPerCapita: 1118 },
+  MWI: { name: 'Malawi', region: 'africa', subregion: 'southern', population: 20, gdpPerCapita: 625 },
+  ZMB: { name: 'Zambia', region: 'africa', subregion: 'southern', population: 19, gdpPerCapita: 1095 },
+  LBR: { name: 'Liberia', region: 'africa', subregion: 'west', population: 5.2, gdpPerCapita: 672 },
+  SLE: { name: 'Sierra Leone', region: 'africa', subregion: 'west', population: 8.4, gdpPerCapita: 516 },
+  CIV: { name: "Côte d'Ivoire", region: 'africa', subregion: 'west', population: 27, gdpPerCapita: 2549 },
+  GMB: { name: 'Gambia', region: 'africa', subregion: 'west', population: 2.5, gdpPerCapita: 751 },
+  NER: { name: 'Niger', region: 'africa', subregion: 'west', population: 26, gdpPerCapita: 554 },
+  BFA: { name: 'Burkina Faso', region: 'africa', subregion: 'west', population: 22, gdpPerCapita: 831 },
+  MLI: { name: 'Mali', region: 'africa', subregion: 'west', population: 22, gdpPerCapita: 918 },
+  MOZ: { name: 'Mozambique', region: 'africa', subregion: 'southern', population: 32, gdpPerCapita: 504 },
+  AGO: { name: 'Angola', region: 'africa', subregion: 'southern', population: 34, gdpPerCapita: 1896 },
+  ZWE: { name: 'Zimbabwe', region: 'africa', subregion: 'southern', population: 16, gdpPerCapita: 1464 },
+  UGA: { name: 'Uganda', region: 'africa', subregion: 'east', population: 47, gdpPerCapita: 883 },
+  COD: { name: 'DR Congo', region: 'africa', subregion: 'central', population: 95, gdpPerCapita: 577 },
+  COG: { name: 'Congo', region: 'africa', subregion: 'central', population: 5.8, gdpPerCapita: 2280 },
+  CMR: { name: 'Cameroon', region: 'africa', subregion: 'central', population: 28, gdpPerCapita: 1662 },
+  TGO: { name: 'Togo', region: 'africa', subregion: 'west', population: 8.6, gdpPerCapita: 915 },
+  GIN: { name: 'Guinea', region: 'africa', subregion: 'west', population: 14, gdpPerCapita: 1166 },
+  GAB: { name: 'Gabon', region: 'africa', subregion: 'central', population: 2.3, gdpPerCapita: 8017 },
+  GNQ: { name: 'Equatorial Guinea', region: 'africa', subregion: 'central', population: 1.5, gdpPerCapita: 7273 },
+  TCD: { name: 'Chad', region: 'africa', subregion: 'central', population: 17, gdpPerCapita: 710 },
+  CAF: { name: 'Central African Republic', region: 'africa', subregion: 'central', population: 5, gdpPerCapita: 461 },
+  SDN: { name: 'Sudan', region: 'africa', subregion: 'north', population: 45, gdpPerCapita: 449 },
+  SSD: { name: 'South Sudan', region: 'africa', subregion: 'east', population: 11, gdpPerCapita: 393 },
+  SOM: { name: 'Somalia', region: 'africa', subregion: 'east', population: 17, gdpPerCapita: 447 },
+  DJI: { name: 'Djibouti', region: 'africa', subregion: 'east', population: 1, gdpPerCapita: 3428 },
+  BDI: { name: 'Burundi', region: 'africa', subregion: 'east', population: 12, gdpPerCapita: 259 },
+  MRT: { name: 'Mauritania', region: 'africa', subregion: 'west', population: 4.8, gdpPerCapita: 1679 },
+  MDG: { name: 'Madagascar', region: 'africa', subregion: 'east', population: 29, gdpPerCapita: 515 },
+  SWZ: { name: 'Eswatini', region: 'africa', subregion: 'southern', population: 1.2, gdpPerCapita: 3987 },
+  DZA: { name: 'Algeria', region: 'africa', subregion: 'north', population: 45, gdpPerCapita: 3691 },
+  LBY: { name: 'Libya', region: 'africa', subregion: 'north', population: 7, gdpPerCapita: 6018 },
+  SYC: { name: 'Seychelles', region: 'africa', subregion: 'east', population: 0.1, gdpPerCapita: 14653 },
+  COM: { name: 'Comoros', region: 'africa', subregion: 'east', population: 0.9, gdpPerCapita: 1402 },
+  GNB: { name: 'Guinea-Bissau', region: 'africa', subregion: 'west', population: 2, gdpPerCapita: 778 },
+  STP: { name: 'São Tomé and Príncipe', region: 'africa', subregion: 'central', population: 0.2, gdpPerCapita: 2181 },
+
+  // More Asia
+  PAK: { name: 'Pakistan', region: 'asia', subregion: 'south', population: 231, gdpPerCapita: 1505 },
+  BGD: { name: 'Bangladesh', region: 'asia', subregion: 'south', population: 170, gdpPerCapita: 2458 },
+  NPL: { name: 'Nepal', region: 'asia', subregion: 'south', population: 30, gdpPerCapita: 1208 },
+  LKA: { name: 'Sri Lanka', region: 'asia', subregion: 'south', population: 22, gdpPerCapita: 3815 },
+  KHM: { name: 'Cambodia', region: 'asia', subregion: 'southeast', population: 17, gdpPerCapita: 1625 },
+  LAO: { name: 'Laos', region: 'asia', subregion: 'southeast', population: 7.4, gdpPerCapita: 2551 },
+  MNG: { name: 'Mongolia', region: 'asia', subregion: 'east', population: 3.4, gdpPerCapita: 4566 },
+  KAZ: { name: 'Kazakhstan', region: 'asia', subregion: 'central', population: 19, gdpPerCapita: 10373 },
+  UZB: { name: 'Uzbekistan', region: 'asia', subregion: 'central', population: 34, gdpPerCapita: 1983 },
+  TKM: { name: 'Turkmenistan', region: 'asia', subregion: 'central', population: 6.1, gdpPerCapita: 7612 },
+  TJK: { name: 'Tajikistan', region: 'asia', subregion: 'central', population: 10, gdpPerCapita: 894 },
+  KGZ: { name: 'Kyrgyzstan', region: 'asia', subregion: 'central', population: 6.7, gdpPerCapita: 1276 },
+  AFG: { name: 'Afghanistan', region: 'asia', subregion: 'south', population: 40, gdpPerCapita: 364 },
+  BTN: { name: 'Bhutan', region: 'asia', subregion: 'south', population: 0.8, gdpPerCapita: 3266 },
+  MDV: { name: 'Maldives', region: 'asia', subregion: 'south', population: 0.5, gdpPerCapita: 10366 },
+  TLS: { name: 'Timor-Leste', region: 'asia', subregion: 'southeast', population: 1.3, gdpPerCapita: 1456 },
+  BRN: { name: 'Brunei', region: 'asia', subregion: 'southeast', population: 0.4, gdpPerCapita: 31449 },
+  HKG: { name: 'Hong Kong', region: 'asia', subregion: 'east', population: 7.5, gdpPerCapita: 48983 },
+
+  // More Middle East
+  QAT: { name: 'Qatar', region: 'asia', subregion: 'middle-east', population: 2.9, gdpPerCapita: 66838 },
+  KWT: { name: 'Kuwait', region: 'asia', subregion: 'middle-east', population: 4.3, gdpPerCapita: 24812 },
+  BHR: { name: 'Bahrain', region: 'asia', subregion: 'middle-east', population: 1.5, gdpPerCapita: 25293 },
+  OMN: { name: 'Oman', region: 'asia', subregion: 'middle-east', population: 5.2, gdpPerCapita: 19509 },
+  YEM: { name: 'Yemen', region: 'asia', subregion: 'middle-east', population: 32, gdpPerCapita: 691 },
+  PSE: { name: 'Palestine', region: 'asia', subregion: 'middle-east', population: 5.2, gdpPerCapita: 3664 },
+  TUR: { name: 'Turkey', region: 'asia', subregion: 'middle-east', population: 85, gdpPerCapita: 9586 },
+  ARM: { name: 'Armenia', region: 'europe', subregion: 'caucasus', population: 3, gdpPerCapita: 4966 },
+  CYP: { name: 'Cyprus', region: 'europe', subregion: 'southern', population: 1.2, gdpPerCapita: 28159 },
+  MLT: { name: 'Malta', region: 'europe', subregion: 'southern', population: 0.5, gdpPerCapita: 32912 },
+
+  // More Americas
+  PAN: { name: 'Panama', region: 'americas', subregion: 'central', population: 4.4, gdpPerCapita: 14617 },
+  JAM: { name: 'Jamaica', region: 'americas', subregion: 'caribbean', population: 3, gdpPerCapita: 5741 },
+  TTO: { name: 'Trinidad and Tobago', region: 'americas', subregion: 'caribbean', population: 1.4, gdpPerCapita: 15764 },
+  DOM: { name: 'Dominican Republic', region: 'americas', subregion: 'caribbean', population: 11, gdpPerCapita: 9700 },
+  BOL: { name: 'Bolivia', region: 'americas', subregion: 'south', population: 12, gdpPerCapita: 3500 },
+  PRY: { name: 'Paraguay', region: 'americas', subregion: 'south', population: 7.2, gdpPerCapita: 5414 },
+  GTM: { name: 'Guatemala', region: 'americas', subregion: 'central', population: 18, gdpPerCapita: 5025 },
+  SLV: { name: 'El Salvador', region: 'americas', subregion: 'central', population: 6.5, gdpPerCapita: 4551 },
+  HND: { name: 'Honduras', region: 'americas', subregion: 'central', population: 10, gdpPerCapita: 2831 },
+  HTI: { name: 'Haiti', region: 'americas', subregion: 'caribbean', population: 11, gdpPerCapita: 1653 },
+  GUY: { name: 'Guyana', region: 'americas', subregion: 'south', population: 0.8, gdpPerCapita: 9913 },
+  SUR: { name: 'Suriname', region: 'americas', subregion: 'south', population: 0.6, gdpPerCapita: 5155 },
+  BHS: { name: 'Bahamas', region: 'americas', subregion: 'caribbean', population: 0.4, gdpPerCapita: 32245 },
+  BRB: { name: 'Barbados', region: 'americas', subregion: 'caribbean', population: 0.3, gdpPerCapita: 16703 },
+  BLZ: { name: 'Belize', region: 'americas', subregion: 'central', population: 0.4, gdpPerCapita: 6094 },
+
+  // Oceania
+  PNG: { name: 'Papua New Guinea', region: 'oceania', subregion: 'melanesia', population: 9.1, gdpPerCapita: 2845 },
+  FJI: { name: 'Fiji', region: 'oceania', subregion: 'melanesia', population: 0.9, gdpPerCapita: 5316 },
+  SLB: { name: 'Solomon Islands', region: 'oceania', subregion: 'melanesia', population: 0.7, gdpPerCapita: 2379 },
+  VUT: { name: 'Vanuatu', region: 'oceania', subregion: 'melanesia', population: 0.3, gdpPerCapita: 3105 },
+  WSM: { name: 'Samoa', region: 'oceania', subregion: 'polynesia', population: 0.2, gdpPerCapita: 4067 },
+  TON: { name: 'Tonga', region: 'oceania', subregion: 'polynesia', population: 0.1, gdpPerCapita: 4903 },
+  KIR: { name: 'Kiribati', region: 'oceania', subregion: 'micronesia', population: 0.1, gdpPerCapita: 1693 },
+  MHL: { name: 'Marshall Islands', region: 'oceania', subregion: 'micronesia', population: 0.06, gdpPerCapita: 4073 },
+  FSM: { name: 'Micronesia', region: 'oceania', subregion: 'micronesia', population: 0.1, gdpPerCapita: 3584 },
+  PLW: { name: 'Palau', region: 'oceania', subregion: 'micronesia', population: 0.02, gdpPerCapita: 14907 },
+  NRU: { name: 'Nauru', region: 'oceania', subregion: 'micronesia', population: 0.01, gdpPerCapita: 10220 },
+  TUV: { name: 'Tuvalu', region: 'oceania', subregion: 'polynesia', population: 0.01, gdpPerCapita: 4673 },
+
+  // Small European states
+  AND: { name: 'Andorra', region: 'europe', subregion: 'southern', population: 0.08, gdpPerCapita: 40886 },
+  MCO: { name: 'Monaco', region: 'europe', subregion: 'western', population: 0.04, gdpPerCapita: 190513 },
+  SMR: { name: 'San Marino', region: 'europe', subregion: 'southern', population: 0.03, gdpPerCapita: 47622 },
+  LIE: { name: 'Liechtenstein', region: 'europe', subregion: 'western', population: 0.04, gdpPerCapita: 180366 },
+  HRV: { name: 'Croatia', region: 'europe', subregion: 'balkans', population: 4, gdpPerCapita: 17685 },
+  XKX: { name: 'Kosovo', region: 'europe', subregion: 'balkans', population: 1.8, gdpPerCapita: 5016 },
 };
 
 // ============================================
@@ -520,10 +696,16 @@ function generateComparisonReport(
   console.log('- RSF Press Freedom Index 2024');
   console.log('- World Bank Governance Indicators 2023');
   console.log('- World Bank GINI Index (latest available)');
+  console.log('- ITUC Global Rights Index 2024 (Workers\' Rights)');
+  console.log('- Transparency International CPI 2024 (Corruption)');
+  console.log('- WHO UHC Service Coverage Index 2021 (Healthcare)');
   console.log('\nVerification links:');
   console.log('- https://freedomhouse.org/countries/freedom-world/scores');
   console.log('- https://rsf.org/en/index');
   console.log('- https://data.worldbank.org/indicator/VA.EST');
+  console.log('- https://www.ituc-csi.org/global-rights-index');
+  console.log('- https://www.transparency.org/en/cpi/2024');
+  console.log('- https://data.who.int/indicators/i/3805B1E');
 }
 
 // Run

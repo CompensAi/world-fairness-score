@@ -1,29 +1,253 @@
 [
   {
-    "iso3": "AUS",
-    "name": "Australia",
-    "region": "oceania",
-    "subregion": "australasia",
-    "fairnessScore": 84,
+    "iso3": "DNK",
+    "name": "Denmark",
+    "region": "europe",
+    "subregion": "nordic",
+    "fairnessScore": 89,
     "dimensions": {
-      "democraticVoice": 91,
-      "pressFreedom": 86,
-      "justiceAccess": 83,
-      "economicOpportunity": 74,
-      "workplaceRights": 88,
-      "healthcareAccess": 82,
-      "housingSecurity": 76,
-      "consumerProtection": 84,
-      "governmentResponsiveness": 82,
-      "socialInclusion": 88
+      "democraticVoice": 100,
+      "pressFreedom": 93,
+      "justiceAccess": 90,
+      "economicOpportunity": 50,
+      "workplaceRights": 99,
+      "healthcareAccess": 85,
+      "housingSecurity": 90,
+      "consumerProtection": 90,
+      "governmentResponsiveness": 90,
+      "socialInclusion": 97
     },
-    "sourcesUsed": 8,
-    "population": 26,
-    "gdpPerCapita": 64674,
+    "sourcesUsed": 7,
+    "population": 5.9,
+    "gdpPerCapita": 67803,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Strong democratic institutions (91%)",
+      "Strong democratic institutions (100%)",
+      "Among the world's fairest societies"
+    ]
+  },
+  {
+    "iso3": "FIN",
+    "name": "Finland",
+    "region": "europe",
+    "subregion": "nordic",
+    "fairnessScore": 88,
+    "dimensions": {
+      "democraticVoice": 100,
+      "pressFreedom": 92,
+      "justiceAccess": 88,
+      "economicOpportunity": 50,
+      "workplaceRights": 100,
+      "healthcareAccess": 85,
+      "housingSecurity": 88,
+      "consumerProtection": 88,
+      "governmentResponsiveness": 88,
+      "socialInclusion": 100
+    },
+    "sourcesUsed": 7,
+    "population": 5.5,
+    "gdpPerCapita": 53655,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (100%)",
+      "Among the world's fairest societies"
+    ]
+  },
+  {
+    "iso3": "NOR",
+    "name": "Norway",
+    "region": "europe",
+    "subregion": "nordic",
+    "fairnessScore": 87,
+    "dimensions": {
+      "democraticVoice": 100,
+      "pressFreedom": 95,
+      "justiceAccess": 84,
+      "economicOpportunity": 50,
+      "workplaceRights": 100,
+      "healthcareAccess": 85,
+      "housingSecurity": 84,
+      "consumerProtection": 84,
+      "governmentResponsiveness": 84,
+      "socialInclusion": 100
+    },
+    "sourcesUsed": 7,
+    "population": 5.5,
+    "gdpPerCapita": 89154,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (100%)",
+      "Among the world's fairest societies"
+    ]
+  },
+  {
+    "iso3": "SWE",
+    "name": "Sweden",
+    "region": "europe",
+    "subregion": "nordic",
+    "fairnessScore": 86,
+    "dimensions": {
+      "democraticVoice": 100,
+      "pressFreedom": 93,
+      "justiceAccess": 82,
+      "economicOpportunity": 50,
+      "workplaceRights": 100,
+      "healthcareAccess": 85,
+      "housingSecurity": 82,
+      "consumerProtection": 82,
+      "governmentResponsiveness": 82,
+      "socialInclusion": 100
+    },
+    "sourcesUsed": 7,
+    "population": 10.5,
+    "gdpPerCapita": 55873,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (100%)",
+      "Among the world's fairest societies"
+    ]
+  },
+  {
+    "iso3": "NLD",
+    "name": "Netherlands",
+    "region": "europe",
+    "subregion": "western",
+    "fairnessScore": 85,
+    "dimensions": {
+      "democraticVoice": 98,
+      "pressFreedom": 91,
+      "justiceAccess": 80,
+      "economicOpportunity": 50,
+      "workplaceRights": 99,
+      "healthcareAccess": 86,
+      "housingSecurity": 80,
+      "consumerProtection": 80,
+      "governmentResponsiveness": 80,
+      "socialInclusion": 97
+    },
+    "sourcesUsed": 7,
+    "population": 17.5,
+    "gdpPerCapita": 57768,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong workplace rights (99%)",
+      "Among the world's fairest societies"
+    ]
+  },
+  {
+    "iso3": "NZL",
+    "name": "New Zealand",
+    "region": "oceania",
+    "subregion": "australasia",
+    "fairnessScore": 85,
+    "dimensions": {
+      "democraticVoice": 100,
+      "pressFreedom": 89,
+      "justiceAccess": 87,
+      "economicOpportunity": 50,
+      "workplaceRights": 83,
+      "healthcareAccess": 84,
+      "housingSecurity": 87,
+      "consumerProtection": 87,
+      "governmentResponsiveness": 87,
+      "socialInclusion": 97
+    },
+    "sourcesUsed": 7,
+    "population": 5,
+    "gdpPerCapita": 48781,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (100%)",
+      "Among the world's fairest societies"
+    ]
+  },
+  {
+    "iso3": "IRL",
+    "name": "Ireland",
+    "region": "europe",
+    "subregion": "western",
+    "fairnessScore": 83,
+    "dimensions": {
+      "democraticVoice": 98,
+      "pressFreedom": 90,
+      "justiceAccess": 77,
+      "economicOpportunity": 50,
+      "workplaceRights": 99,
+      "healthcareAccess": 84,
+      "housingSecurity": 77,
+      "consumerProtection": 77,
+      "governmentResponsiveness": 77,
+      "socialInclusion": 97
+    },
+    "sourcesUsed": 7,
+    "population": 5.1,
+    "gdpPerCapita": 99152,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong workplace rights (99%)",
+      "Among the world's fairest societies"
+    ]
+  },
+  {
+    "iso3": "CHE",
+    "name": "Switzerland",
+    "region": "europe",
+    "subregion": "western",
+    "fairnessScore": 83,
+    "dimensions": {
+      "democraticVoice": 98,
+      "pressFreedom": 89,
+      "justiceAccess": 82,
+      "economicOpportunity": 50,
+      "workplaceRights": 82,
+      "healthcareAccess": 86,
+      "housingSecurity": 82,
+      "consumerProtection": 82,
+      "governmentResponsiveness": 82,
+      "socialInclusion": 95
+    },
+    "sourcesUsed": 7,
+    "population": 8.7,
+    "gdpPerCapita": 93457,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (98%)",
+      "Among the world's fairest societies"
+    ]
+  },
+  {
+    "iso3": "DEU",
+    "name": "Germany",
+    "region": "europe",
+    "subregion": "western",
+    "fairnessScore": 83,
+    "dimensions": {
+      "democraticVoice": 98,
+      "pressFreedom": 87,
+      "justiceAccess": 79,
+      "economicOpportunity": 50,
+      "workplaceRights": 98,
+      "healthcareAccess": 86,
+      "housingSecurity": 79,
+      "consumerProtection": 79,
+      "governmentResponsiveness": 79,
+      "socialInclusion": 92
+    },
+    "sourcesUsed": 7,
+    "population": 84,
+    "gdpPerCapita": 48718,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (98%)",
       "Among the world's fairest societies"
     ]
   },
@@ -32,26 +256,110 @@
     "name": "Austria",
     "region": "europe",
     "subregion": "western",
-    "fairnessScore": 81,
+    "fairnessScore": 82,
     "dimensions": {
-      "democraticVoice": 87,
+      "democraticVoice": 86,
       "pressFreedom": 86,
-      "justiceAccess": 76,
+      "justiceAccess": 75,
       "economicOpportunity": 76,
-      "workplaceRights": 86,
-      "healthcareAccess": 77,
+      "workplaceRights": 94,
+      "healthcareAccess": 83,
       "housingSecurity": 76,
       "consumerProtection": 75,
-      "governmentResponsiveness": 76,
+      "governmentResponsiveness": 77,
       "socialInclusion": 86
     },
-    "sourcesUsed": 8,
+    "sourcesUsed": 11,
     "population": 9,
     "gdpPerCapita": 53638,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Strong democratic institutions (87%)",
+      "Strong workplace rights (94%)",
+      "Among the world's fairest societies"
+    ]
+  },
+  {
+    "iso3": "AUS",
+    "name": "Australia",
+    "region": "oceania",
+    "subregion": "australasia",
+    "fairnessScore": 82,
+    "dimensions": {
+      "democraticVoice": 89,
+      "pressFreedom": 86,
+      "justiceAccess": 80,
+      "economicOpportunity": 74,
+      "workplaceRights": 82,
+      "healthcareAccess": 86,
+      "housingSecurity": 75,
+      "consumerProtection": 80,
+      "governmentResponsiveness": 79,
+      "socialInclusion": 88
+    },
+    "sourcesUsed": 11,
+    "population": 26,
+    "gdpPerCapita": 64674,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (89%)",
+      "Among the world's fairest societies"
+    ]
+  },
+  {
+    "iso3": "AND",
+    "name": "Andorra",
+    "region": "europe",
+    "subregion": "southern",
+    "fairnessScore": 82,
+    "dimensions": {
+      "democraticVoice": 83,
+      "pressFreedom": 95,
+      "justiceAccess": 73,
+      "economicOpportunity": 80,
+      "workplaceRights": 83,
+      "healthcareAccess": 80,
+      "housingSecurity": 80,
+      "consumerProtection": 77,
+      "governmentResponsiveness": 75,
+      "socialInclusion": 83
+    },
+    "sourcesUsed": 6,
+    "population": 0.08,
+    "gdpPerCapita": 40886,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong press freedom (95%)",
+      "Among the world's fairest societies"
+    ]
+  },
+  {
+    "iso3": "ISL",
+    "name": "Iceland",
+    "region": "europe",
+    "subregion": "nordic",
+    "fairnessScore": 81,
+    "dimensions": {
+      "democraticVoice": 98,
+      "pressFreedom": 89,
+      "justiceAccess": 70,
+      "economicOpportunity": 50,
+      "workplaceRights": 99,
+      "healthcareAccess": 85,
+      "housingSecurity": 70,
+      "consumerProtection": 70,
+      "governmentResponsiveness": 70,
+      "socialInclusion": 97
+    },
+    "sourcesUsed": 7,
+    "population": 0.4,
+    "gdpPerCapita": 73466,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong workplace rights (99%)",
       "Among the world's fairest societies"
     ]
   },
@@ -62,193 +370,25 @@
     "subregion": "western",
     "fairnessScore": 81,
     "dimensions": {
-      "democraticVoice": 88,
+      "democraticVoice": 86,
       "pressFreedom": 86,
-      "justiceAccess": 77,
+      "justiceAccess": 76,
       "economicOpportunity": 79,
-      "workplaceRights": 85,
-      "healthcareAccess": 71,
-      "housingSecurity": 78,
+      "workplaceRights": 81,
+      "healthcareAccess": 81,
+      "housingSecurity": 77,
       "consumerProtection": 74,
-      "governmentResponsiveness": 75,
+      "governmentResponsiveness": 74,
       "socialInclusion": 85
     },
-    "sourcesUsed": 8,
+    "sourcesUsed": 11,
     "population": 11.6,
     "gdpPerCapita": 51247,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Strong democratic institutions (88%)",
+      "Strong democratic institutions (86%)",
       "Among the world's fairest societies"
-    ]
-  },
-  {
-    "iso3": "NOR",
-    "name": "Norway",
-    "region": "europe",
-    "subregion": "nordic",
-    "fairnessScore": 72,
-    "dimensions": {
-      "democraticVoice": 100,
-      "pressFreedom": 95,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 100,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 100
-    },
-    "sourcesUsed": 4,
-    "population": 5.5,
-    "gdpPerCapita": 89154,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Strong democratic institutions (100%)",
-      "Above-average fairness globally"
-    ]
-  },
-  {
-    "iso3": "FIN",
-    "name": "Finland",
-    "region": "europe",
-    "subregion": "nordic",
-    "fairnessScore": 71,
-    "dimensions": {
-      "democraticVoice": 100,
-      "pressFreedom": 92,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 100,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 100
-    },
-    "sourcesUsed": 4,
-    "population": 5.5,
-    "gdpPerCapita": 53655,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Strong democratic institutions (100%)",
-      "Above-average fairness globally"
-    ]
-  },
-  {
-    "iso3": "SWE",
-    "name": "Sweden",
-    "region": "europe",
-    "subregion": "nordic",
-    "fairnessScore": 71,
-    "dimensions": {
-      "democraticVoice": 100,
-      "pressFreedom": 93,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 100,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 100
-    },
-    "sourcesUsed": 4,
-    "population": 10.5,
-    "gdpPerCapita": 55873,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Strong democratic institutions (100%)",
-      "Above-average fairness globally"
-    ]
-  },
-  {
-    "iso3": "DNK",
-    "name": "Denmark",
-    "region": "europe",
-    "subregion": "nordic",
-    "fairnessScore": 71,
-    "dimensions": {
-      "democraticVoice": 100,
-      "pressFreedom": 93,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 97,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 97
-    },
-    "sourcesUsed": 4,
-    "population": 5.9,
-    "gdpPerCapita": 67803,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Strong democratic institutions (100%)",
-      "Above-average fairness globally"
-    ]
-  },
-  {
-    "iso3": "ISL",
-    "name": "Iceland",
-    "region": "europe",
-    "subregion": "nordic",
-    "fairnessScore": 70,
-    "dimensions": {
-      "democraticVoice": 98,
-      "pressFreedom": 89,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 97,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 97
-    },
-    "sourcesUsed": 4,
-    "population": 0.4,
-    "gdpPerCapita": 73466,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Strong democratic institutions (98%)",
-      "Above-average fairness globally"
-    ]
-  },
-  {
-    "iso3": "NLD",
-    "name": "Netherlands",
-    "region": "europe",
-    "subregion": "western",
-    "fairnessScore": 70,
-    "dimensions": {
-      "democraticVoice": 98,
-      "pressFreedom": 91,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 97,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 97
-    },
-    "sourcesUsed": 4,
-    "population": 17.5,
-    "gdpPerCapita": 57768,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Strong democratic institutions (98%)",
-      "Above-average fairness globally"
     ]
   },
   {
@@ -256,195 +396,27 @@
     "name": "Luxembourg",
     "region": "europe",
     "subregion": "western",
-    "fairnessScore": 70,
+    "fairnessScore": 80,
     "dimensions": {
       "democraticVoice": 98,
       "pressFreedom": 88,
-      "justiceAccess": 50,
+      "justiceAccess": 78,
       "economicOpportunity": 50,
       "workplaceRights": 97,
       "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
+      "housingSecurity": 78,
+      "consumerProtection": 78,
+      "governmentResponsiveness": 78,
       "socialInclusion": 97
     },
-    "sourcesUsed": 4,
+    "sourcesUsed": 5,
     "population": 0.65,
     "gdpPerCapita": 128259,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
       "Strong democratic institutions (98%)",
-      "Above-average fairness globally"
-    ]
-  },
-  {
-    "iso3": "IRL",
-    "name": "Ireland",
-    "region": "europe",
-    "subregion": "western",
-    "fairnessScore": 70,
-    "dimensions": {
-      "democraticVoice": 98,
-      "pressFreedom": 90,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 97,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 97
-    },
-    "sourcesUsed": 4,
-    "population": 5.1,
-    "gdpPerCapita": 99152,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Strong democratic institutions (98%)",
-      "Above-average fairness globally"
-    ]
-  },
-  {
-    "iso3": "CHE",
-    "name": "Switzerland",
-    "region": "europe",
-    "subregion": "western",
-    "fairnessScore": 70,
-    "dimensions": {
-      "democraticVoice": 98,
-      "pressFreedom": 89,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 95,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 95
-    },
-    "sourcesUsed": 4,
-    "population": 8.7,
-    "gdpPerCapita": 93457,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Strong democratic institutions (98%)",
-      "Above-average fairness globally"
-    ]
-  },
-  {
-    "iso3": "PRT",
-    "name": "Portugal",
-    "region": "europe",
-    "subregion": "southern",
-    "fairnessScore": 70,
-    "dimensions": {
-      "democraticVoice": 98,
-      "pressFreedom": 90,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 95,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 95
-    },
-    "sourcesUsed": 4,
-    "population": 10.3,
-    "gdpPerCapita": 24568,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Strong democratic institutions (98%)",
-      "Above-average fairness globally"
-    ]
-  },
-  {
-    "iso3": "CAN",
-    "name": "Canada",
-    "region": "americas",
-    "subregion": "north",
-    "fairnessScore": 70,
-    "dimensions": {
-      "democraticVoice": 100,
-      "pressFreedom": 87,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 97,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 97
-    },
-    "sourcesUsed": 4,
-    "population": 38,
-    "gdpPerCapita": 52085,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Strong democratic institutions (100%)",
-      "Above-average fairness globally"
-    ]
-  },
-  {
-    "iso3": "NZL",
-    "name": "New Zealand",
-    "region": "oceania",
-    "subregion": "australasia",
-    "fairnessScore": 70,
-    "dimensions": {
-      "democraticVoice": 100,
-      "pressFreedom": 89,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 97,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 97
-    },
-    "sourcesUsed": 4,
-    "population": 5,
-    "gdpPerCapita": 48781,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Strong democratic institutions (100%)",
-      "Above-average fairness globally"
-    ]
-  },
-  {
-    "iso3": "DEU",
-    "name": "Germany",
-    "region": "europe",
-    "subregion": "western",
-    "fairnessScore": 69,
-    "dimensions": {
-      "democraticVoice": 98,
-      "pressFreedom": 87,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 92,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 92
-    },
-    "sourcesUsed": 4,
-    "population": 84,
-    "gdpPerCapita": 48718,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Strong democratic institutions (98%)",
-      "Above-average fairness globally"
+      "Among the world's fairest societies"
     ]
   },
   {
@@ -452,27 +424,55 @@
     "name": "Estonia",
     "region": "europe",
     "subregion": "baltic",
-    "fairnessScore": 69,
+    "fairnessScore": 80,
     "dimensions": {
       "democraticVoice": 93,
       "pressFreedom": 90,
-      "justiceAccess": 50,
+      "justiceAccess": 74,
       "economicOpportunity": 50,
       "workplaceRights": 93,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
+      "healthcareAccess": 78,
+      "housingSecurity": 74,
+      "consumerProtection": 74,
+      "governmentResponsiveness": 74,
       "socialInclusion": 93
     },
-    "sourcesUsed": 4,
+    "sourcesUsed": 6,
     "population": 1.3,
     "gdpPerCapita": 27282,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
       "Strong democratic institutions (93%)",
-      "Above-average fairness globally"
+      "Among the world's fairest societies"
+    ]
+  },
+  {
+    "iso3": "CAN",
+    "name": "Canada",
+    "region": "americas",
+    "subregion": "north",
+    "fairnessScore": 80,
+    "dimensions": {
+      "democraticVoice": 100,
+      "pressFreedom": 87,
+      "justiceAccess": 72,
+      "economicOpportunity": 50,
+      "workplaceRights": 83,
+      "healthcareAccess": 86,
+      "housingSecurity": 72,
+      "consumerProtection": 72,
+      "governmentResponsiveness": 72,
+      "socialInclusion": 97
+    },
+    "sourcesUsed": 7,
+    "population": 38,
+    "gdpPerCapita": 52085,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (100%)",
+      "Among the world's fairest societies"
     ]
   },
   {
@@ -480,26 +480,54 @@
     "name": "Japan",
     "region": "asia",
     "subregion": "east",
-    "fairnessScore": 69,
+    "fairnessScore": 80,
     "dimensions": {
       "democraticVoice": 98,
       "pressFreedom": 84,
-      "justiceAccess": 50,
+      "justiceAccess": 73,
       "economicOpportunity": 50,
-      "workplaceRights": 93,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
+      "workplaceRights": 82,
+      "healthcareAccess": 89,
+      "housingSecurity": 73,
+      "consumerProtection": 73,
+      "governmentResponsiveness": 73,
       "socialInclusion": 93
     },
-    "sourcesUsed": 4,
+    "sourcesUsed": 7,
     "population": 125,
     "gdpPerCapita": 33815,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
       "Strong democratic institutions (98%)",
+      "Among the world's fairest societies"
+    ]
+  },
+  {
+    "iso3": "URY",
+    "name": "Uruguay",
+    "region": "americas",
+    "subregion": "south",
+    "fairnessScore": 78,
+    "dimensions": {
+      "democraticVoice": 95,
+      "pressFreedom": 83,
+      "justiceAccess": 70,
+      "economicOpportunity": 50,
+      "workplaceRights": 98,
+      "healthcareAccess": 76,
+      "housingSecurity": 70,
+      "consumerProtection": 70,
+      "governmentResponsiveness": 70,
+      "socialInclusion": 93
+    },
+    "sourcesUsed": 7,
+    "population": 3.5,
+    "gdpPerCapita": 17278,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong workplace rights (98%)",
       "Above-average fairness globally"
     ]
   },
@@ -508,20 +536,20 @@
     "name": "United Kingdom",
     "region": "europe",
     "subregion": "western",
-    "fairnessScore": 68,
+    "fairnessScore": 77,
     "dimensions": {
       "democraticVoice": 95,
       "pressFreedom": 84,
-      "justiceAccess": 50,
+      "justiceAccess": 72,
       "economicOpportunity": 50,
-      "workplaceRights": 92,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
+      "workplaceRights": 65,
+      "healthcareAccess": 85,
+      "housingSecurity": 72,
+      "consumerProtection": 72,
+      "governmentResponsiveness": 72,
       "socialInclusion": 92
     },
-    "sourcesUsed": 4,
+    "sourcesUsed": 7,
     "population": 67,
     "gdpPerCapita": 45850,
     "trend": "stable",
@@ -532,30 +560,114 @@
     ]
   },
   {
-    "iso3": "URY",
-    "name": "Uruguay",
-    "region": "americas",
-    "subregion": "south",
-    "fairnessScore": 68,
+    "iso3": "PRT",
+    "name": "Portugal",
+    "region": "europe",
+    "subregion": "southern",
+    "fairnessScore": 77,
     "dimensions": {
-      "democraticVoice": 95,
-      "pressFreedom": 83,
-      "justiceAccess": 50,
+      "democraticVoice": 98,
+      "pressFreedom": 90,
+      "justiceAccess": 64,
       "economicOpportunity": 50,
-      "workplaceRights": 93,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 93
+      "workplaceRights": 82,
+      "healthcareAccess": 83,
+      "housingSecurity": 64,
+      "consumerProtection": 64,
+      "governmentResponsiveness": 64,
+      "socialInclusion": 95
     },
-    "sourcesUsed": 4,
-    "population": 3.5,
-    "gdpPerCapita": 17278,
+    "sourcesUsed": 7,
+    "population": 10.3,
+    "gdpPerCapita": 24568,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Strong democratic institutions (95%)",
+      "Strong democratic institutions (98%)",
+      "Above-average fairness globally"
+    ]
+  },
+  {
+    "iso3": "FRA",
+    "name": "France",
+    "region": "europe",
+    "subregion": "western",
+    "fairnessScore": 76,
+    "dimensions": {
+      "democraticVoice": 90,
+      "pressFreedom": 79,
+      "justiceAccess": 71,
+      "economicOpportunity": 50,
+      "workplaceRights": 80,
+      "healthcareAccess": 86,
+      "housingSecurity": 71,
+      "consumerProtection": 71,
+      "governmentResponsiveness": 71,
+      "socialInclusion": 87
+    },
+    "sourcesUsed": 7,
+    "population": 68,
+    "gdpPerCapita": 42330,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (90%)",
+      "Above-average fairness globally"
+    ]
+  },
+  {
+    "iso3": "BRB",
+    "name": "Barbados",
+    "region": "americas",
+    "subregion": "caribbean",
+    "fairnessScore": 75,
+    "dimensions": {
+      "democraticVoice": 84,
+      "pressFreedom": 93,
+      "justiceAccess": 76,
+      "economicOpportunity": 58,
+      "workplaceRights": 83,
+      "healthcareAccess": 58,
+      "housingSecurity": 58,
+      "consumerProtection": 69,
+      "governmentResponsiveness": 66,
+      "socialInclusion": 83
+    },
+    "sourcesUsed": 6,
+    "population": 0.3,
+    "gdpPerCapita": 16703,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong press freedom (93%)",
+      "Above-average fairness globally"
+    ]
+  },
+  {
+    "iso3": "LTU",
+    "name": "Lithuania",
+    "region": "europe",
+    "subregion": "baltic",
+    "fairnessScore": 74,
+    "dimensions": {
+      "democraticVoice": 90,
+      "pressFreedom": 83,
+      "justiceAccess": 62,
+      "economicOpportunity": 50,
+      "workplaceRights": 88,
+      "healthcareAccess": 78,
+      "housingSecurity": 62,
+      "consumerProtection": 62,
+      "governmentResponsiveness": 62,
+      "socialInclusion": 88
+    },
+    "sourcesUsed": 6,
+    "population": 2.8,
+    "gdpPerCapita": 23433,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (90%)",
       "Above-average fairness globally"
     ]
   },
@@ -564,20 +676,20 @@
     "name": "Taiwan",
     "region": "asia",
     "subregion": "east",
-    "fairnessScore": 68,
+    "fairnessScore": 74,
     "dimensions": {
       "democraticVoice": 93,
       "pressFreedom": 82,
-      "justiceAccess": 50,
+      "justiceAccess": 67,
       "economicOpportunity": 50,
-      "workplaceRights": 93,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
+      "workplaceRights": 65,
+      "healthcareAccess": 84,
+      "housingSecurity": 67,
+      "consumerProtection": 67,
+      "governmentResponsiveness": 67,
       "socialInclusion": 93
     },
-    "sourcesUsed": 4,
+    "sourcesUsed": 7,
     "population": 24,
     "gdpPerCapita": 32756,
     "trend": "stable",
@@ -588,30 +700,58 @@
     ]
   },
   {
-    "iso3": "ESP",
-    "name": "Spain",
+    "iso3": "SVN",
+    "name": "Slovenia",
     "region": "europe",
-    "subregion": "southern",
-    "fairnessScore": 67,
+    "subregion": "central",
+    "fairnessScore": 73,
     "dimensions": {
       "democraticVoice": 90,
-      "pressFreedom": 82,
-      "justiceAccess": 50,
+      "pressFreedom": 84,
+      "justiceAccess": 61,
       "economicOpportunity": 50,
-      "workplaceRights": 92,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
+      "workplaceRights": 82,
+      "healthcareAccess": 82,
+      "housingSecurity": 61,
+      "consumerProtection": 61,
+      "governmentResponsiveness": 61,
       "socialInclusion": 92
     },
-    "sourcesUsed": 4,
-    "population": 47.4,
-    "gdpPerCapita": 30104,
+    "sourcesUsed": 7,
+    "population": 2.1,
+    "gdpPerCapita": 28439,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Strong workplace rights (92%)",
+      "Strong social inclusion (92%)",
+      "Above-average fairness globally"
+    ]
+  },
+  {
+    "iso3": "CHL",
+    "name": "Chile",
+    "region": "americas",
+    "subregion": "south",
+    "fairnessScore": 73,
+    "dimensions": {
+      "democraticVoice": 90,
+      "pressFreedom": 82,
+      "justiceAccess": 63,
+      "economicOpportunity": 50,
+      "workplaceRights": 82,
+      "healthcareAccess": 76,
+      "housingSecurity": 63,
+      "consumerProtection": 63,
+      "governmentResponsiveness": 63,
+      "socialInclusion": 92
+    },
+    "sourcesUsed": 7,
+    "population": 19,
+    "gdpPerCapita": 15355,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong social inclusion (92%)",
       "Above-average fairness globally"
     ]
   },
@@ -620,54 +760,26 @@
     "name": "Czech Republic",
     "region": "europe",
     "subregion": "central",
-    "fairnessScore": 67,
+    "fairnessScore": 72,
     "dimensions": {
       "democraticVoice": 88,
       "pressFreedom": 84,
-      "justiceAccess": 50,
+      "justiceAccess": 58,
       "economicOpportunity": 50,
-      "workplaceRights": 90,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
+      "workplaceRights": 81,
+      "healthcareAccess": 82,
+      "housingSecurity": 58,
+      "consumerProtection": 58,
+      "governmentResponsiveness": 58,
       "socialInclusion": 90
     },
-    "sourcesUsed": 4,
+    "sourcesUsed": 7,
     "population": 10.5,
     "gdpPerCapita": 26379,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Strong workplace rights (90%)",
-      "Above-average fairness globally"
-    ]
-  },
-  {
-    "iso3": "SVN",
-    "name": "Slovenia",
-    "region": "europe",
-    "subregion": "central",
-    "fairnessScore": 67,
-    "dimensions": {
-      "democraticVoice": 90,
-      "pressFreedom": 84,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 92,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 92
-    },
-    "sourcesUsed": 4,
-    "population": 2.1,
-    "gdpPerCapita": 28439,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Strong workplace rights (92%)",
+      "Strong social inclusion (90%)",
       "Above-average fairness globally"
     ]
   },
@@ -676,50 +788,22 @@
     "name": "Latvia",
     "region": "europe",
     "subregion": "baltic",
-    "fairnessScore": 67,
+    "fairnessScore": 72,
     "dimensions": {
       "democraticVoice": 90,
       "pressFreedom": 82,
-      "justiceAccess": 50,
+      "justiceAccess": 58,
       "economicOpportunity": 50,
       "workplaceRights": 88,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
+      "healthcareAccess": 77,
+      "housingSecurity": 58,
+      "consumerProtection": 58,
+      "governmentResponsiveness": 58,
       "socialInclusion": 88
     },
-    "sourcesUsed": 4,
+    "sourcesUsed": 6,
     "population": 1.9,
     "gdpPerCapita": 21148,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Strong democratic institutions (90%)",
-      "Above-average fairness globally"
-    ]
-  },
-  {
-    "iso3": "LTU",
-    "name": "Lithuania",
-    "region": "europe",
-    "subregion": "baltic",
-    "fairnessScore": 67,
-    "dimensions": {
-      "democraticVoice": 90,
-      "pressFreedom": 83,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 88,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 88
-    },
-    "sourcesUsed": 4,
-    "population": 2.8,
-    "gdpPerCapita": 23433,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
@@ -732,20 +816,20 @@
     "name": "Costa Rica",
     "region": "americas",
     "subregion": "central",
-    "fairnessScore": 67,
+    "fairnessScore": 72,
     "dimensions": {
       "democraticVoice": 93,
       "pressFreedom": 82,
-      "justiceAccess": 50,
+      "justiceAccess": 58,
       "economicOpportunity": 50,
       "workplaceRights": 90,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
+      "healthcareAccess": 74,
+      "housingSecurity": 58,
+      "consumerProtection": 58,
+      "governmentResponsiveness": 58,
       "socialInclusion": 90
     },
-    "sourcesUsed": 4,
+    "sourcesUsed": 6,
     "population": 5.1,
     "gdpPerCapita": 12509,
     "trend": "stable",
@@ -756,86 +840,114 @@
     ]
   },
   {
-    "iso3": "CHL",
-    "name": "Chile",
-    "region": "americas",
-    "subregion": "south",
-    "fairnessScore": 67,
-    "dimensions": {
-      "democraticVoice": 90,
-      "pressFreedom": 82,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 92,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 92
-    },
-    "sourcesUsed": 4,
-    "population": 19,
-    "gdpPerCapita": 15355,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Strong workplace rights (92%)",
-      "Above-average fairness globally"
-    ]
-  },
-  {
-    "iso3": "FRA",
-    "name": "France",
-    "region": "europe",
-    "subregion": "western",
-    "fairnessScore": 66,
-    "dimensions": {
-      "democraticVoice": 90,
-      "pressFreedom": 79,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 87,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 87
-    },
-    "sourcesUsed": 4,
-    "population": 68,
-    "gdpPerCapita": 42330,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Strong democratic institutions (90%)",
-      "Above-average fairness globally"
-    ]
-  },
-  {
     "iso3": "ITA",
     "name": "Italy",
     "region": "europe",
     "subregion": "southern",
-    "fairnessScore": 66,
+    "fairnessScore": 71,
     "dimensions": {
       "democraticVoice": 88,
       "pressFreedom": 78,
-      "justiceAccess": 50,
+      "justiceAccess": 53,
       "economicOpportunity": 50,
-      "workplaceRights": 90,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
+      "workplaceRights": 98,
+      "healthcareAccess": 83,
+      "housingSecurity": 53,
+      "consumerProtection": 53,
+      "governmentResponsiveness": 53,
       "socialInclusion": 90
     },
-    "sourcesUsed": 4,
+    "sourcesUsed": 7,
     "population": 59,
     "gdpPerCapita": 34776,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Strong workplace rights (90%)",
+      "Strong workplace rights (98%)",
+      "Above-average fairness globally"
+    ]
+  },
+  {
+    "iso3": "USA",
+    "name": "United States",
+    "region": "americas",
+    "subregion": "north",
+    "fairnessScore": 71,
+    "dimensions": {
+      "democraticVoice": 83,
+      "pressFreedom": 77,
+      "justiceAccess": 67,
+      "economicOpportunity": 50,
+      "workplaceRights": 63,
+      "healthcareAccess": 81,
+      "housingSecurity": 67,
+      "consumerProtection": 67,
+      "governmentResponsiveness": 67,
+      "socialInclusion": 83
+    },
+    "sourcesUsed": 7,
+    "population": 332,
+    "gdpPerCapita": 76399,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (83%)",
+      "Above-average fairness globally"
+    ]
+  },
+  {
+    "iso3": "BHS",
+    "name": "Bahamas",
+    "region": "americas",
+    "subregion": "caribbean",
+    "fairnessScore": 71,
+    "dimensions": {
+      "democraticVoice": 79,
+      "pressFreedom": 90,
+      "justiceAccess": 69,
+      "economicOpportunity": 55,
+      "workplaceRights": 78,
+      "healthcareAccess": 55,
+      "housingSecurity": 58,
+      "consumerProtection": 66,
+      "governmentResponsiveness": 62,
+      "socialInclusion": 79
+    },
+    "sourcesUsed": 7,
+    "population": 0.4,
+    "gdpPerCapita": 32245,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong press freedom (90%)",
+      "Above-average fairness globally"
+    ]
+  },
+  {
+    "iso3": "ESP",
+    "name": "Spain",
+    "region": "europe",
+    "subregion": "southern",
+    "fairnessScore": 70,
+    "dimensions": {
+      "democraticVoice": 90,
+      "pressFreedom": 82,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 82,
+      "healthcareAccess": 84,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 92
+    },
+    "sourcesUsed": 6,
+    "population": 47.4,
+    "gdpPerCapita": 30104,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong social inclusion (92%)",
       "Above-average fairness globally"
     ]
   },
@@ -844,20 +956,20 @@
     "name": "South Korea",
     "region": "asia",
     "subregion": "east",
-    "fairnessScore": 65,
+    "fairnessScore": 70,
     "dimensions": {
       "democraticVoice": 88,
       "pressFreedom": 77,
-      "justiceAccess": 50,
+      "justiceAccess": 60,
       "economicOpportunity": 50,
-      "workplaceRights": 82,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
+      "workplaceRights": 63,
+      "healthcareAccess": 88,
+      "housingSecurity": 60,
+      "consumerProtection": 60,
+      "governmentResponsiveness": 60,
       "socialInclusion": 82
     },
-    "sourcesUsed": 4,
+    "sourcesUsed": 7,
     "population": 52,
     "gdpPerCapita": 32255,
     "trend": "stable",
@@ -868,42 +980,238 @@
     ]
   },
   {
-    "iso3": "BWA",
-    "name": "Botswana",
-    "region": "africa",
-    "subregion": "southern",
-    "fairnessScore": 65,
+    "iso3": "PLW",
+    "name": "Palau",
+    "region": "oceania",
+    "subregion": "micronesia",
+    "fairnessScore": 70,
     "dimensions": {
-      "democraticVoice": 74,
-      "pressFreedom": 71,
-      "justiceAccess": 62,
-      "economicOpportunity": 59,
-      "workplaceRights": 69,
-      "healthcareAccess": 59,
-      "housingSecurity": 59,
-      "consumerProtection": 62,
-      "governmentResponsiveness": 61,
-      "socialInclusion": 69
+      "democraticVoice": 95,
+      "pressFreedom": 93,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 93,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 93
     },
-    "sourcesUsed": 7,
-    "population": 2.4,
-    "gdpPerCapita": 7348,
+    "sourcesUsed": 3,
+    "population": 0.02,
+    "gdpPerCapita": 14907,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Strong democratic institutions (74%)",
+      "Strong democratic institutions (95%)",
       "Above-average fairness globally"
     ]
   },
   {
-    "iso3": "GRC",
-    "name": "Greece",
+    "iso3": "SMR",
+    "name": "San Marino",
     "region": "europe",
     "subregion": "southern",
-    "fairnessScore": 64,
+    "fairnessScore": 70,
     "dimensions": {
-      "democraticVoice": 83,
-      "pressFreedom": 75,
+      "democraticVoice": 95,
+      "pressFreedom": 95,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 95,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 95
+    },
+    "sourcesUsed": 3,
+    "population": 0.03,
+    "gdpPerCapita": 47622,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (95%)",
+      "Above-average fairness globally"
+    ]
+  },
+  {
+    "iso3": "CYP",
+    "name": "Cyprus",
+    "region": "europe",
+    "subregion": "southern",
+    "fairnessScore": 69,
+    "dimensions": {
+      "democraticVoice": 93,
+      "pressFreedom": 93,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 93,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 93
+    },
+    "sourcesUsed": 3,
+    "population": 1.2,
+    "gdpPerCapita": 28159,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (93%)",
+      "Above-average fairness globally"
+    ]
+  },
+  {
+    "iso3": "MLT",
+    "name": "Malta",
+    "region": "europe",
+    "subregion": "southern",
+    "fairnessScore": 69,
+    "dimensions": {
+      "democraticVoice": 93,
+      "pressFreedom": 92,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 92,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 92
+    },
+    "sourcesUsed": 3,
+    "population": 0.5,
+    "gdpPerCapita": 32912,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (93%)",
+      "Above-average fairness globally"
+    ]
+  },
+  {
+    "iso3": "LIE",
+    "name": "Liechtenstein",
+    "region": "europe",
+    "subregion": "western",
+    "fairnessScore": 69,
+    "dimensions": {
+      "democraticVoice": 93,
+      "pressFreedom": 93,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 93,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 93
+    },
+    "sourcesUsed": 3,
+    "population": 0.04,
+    "gdpPerCapita": 180366,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (93%)",
+      "Above-average fairness globally"
+    ]
+  },
+  {
+    "iso3": "CPV",
+    "name": "Cape Verde",
+    "region": "africa",
+    "subregion": "west",
+    "fairnessScore": 68,
+    "dimensions": {
+      "democraticVoice": 80,
+      "pressFreedom": 88,
+      "justiceAccess": 65,
+      "economicOpportunity": 50,
+      "workplaceRights": 79,
+      "healthcareAccess": 50,
+      "housingSecurity": 53,
+      "consumerProtection": 60,
+      "governmentResponsiveness": 59,
+      "socialInclusion": 79
+    },
+    "sourcesUsed": 7,
+    "population": 0.6,
+    "gdpPerCapita": 3603,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong press freedom (88%)",
+      "Above-average fairness globally"
+    ]
+  },
+  {
+    "iso3": "SVK",
+    "name": "Slovakia",
+    "region": "europe",
+    "subregion": "central",
+    "fairnessScore": 67,
+    "dimensions": {
+      "democraticVoice": 85,
+      "pressFreedom": 77,
+      "justiceAccess": 51,
+      "economicOpportunity": 50,
+      "workplaceRights": 79,
+      "healthcareAccess": 78,
+      "housingSecurity": 51,
+      "consumerProtection": 51,
+      "governmentResponsiveness": 51,
+      "socialInclusion": 83
+    },
+    "sourcesUsed": 7,
+    "population": 5.4,
+    "gdpPerCapita": 21053,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (85%)",
+      "Above-average fairness globally"
+    ]
+  },
+  {
+    "iso3": "MUS",
+    "name": "Mauritius",
+    "region": "africa",
+    "subregion": "east",
+    "fairnessScore": 67,
+    "dimensions": {
+      "democraticVoice": 88,
+      "pressFreedom": 85,
+      "justiceAccess": 53,
+      "economicOpportunity": 50,
+      "workplaceRights": 80,
+      "healthcareAccess": 50,
+      "housingSecurity": 53,
+      "consumerProtection": 53,
+      "governmentResponsiveness": 53,
+      "socialInclusion": 85
+    },
+    "sourcesUsed": 5,
+    "population": 1.3,
+    "gdpPerCapita": 10216,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (88%)",
+      "Above-average fairness globally"
+    ]
+  },
+  {
+    "iso3": "KIR",
+    "name": "Kiribati",
+    "region": "oceania",
+    "subregion": "micronesia",
+    "fairnessScore": 67,
+    "dimensions": {
+      "democraticVoice": 90,
+      "pressFreedom": 87,
       "justiceAccess": 50,
       "economicOpportunity": 50,
       "workplaceRights": 87,
@@ -913,40 +1221,154 @@
       "governmentResponsiveness": 50,
       "socialInclusion": 87
     },
-    "sourcesUsed": 4,
-    "population": 10.4,
-    "gdpPerCapita": 20193,
+    "sourcesUsed": 3,
+    "population": 0.1,
+    "gdpPerCapita": 1693,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Strong workplace rights (87%)"
+      "Strong democratic institutions (90%)",
+      "Above-average fairness globally"
     ]
   },
   {
-    "iso3": "SVK",
-    "name": "Slovakia",
-    "region": "europe",
-    "subregion": "central",
-    "fairnessScore": 64,
+    "iso3": "MHL",
+    "name": "Marshall Islands",
+    "region": "oceania",
+    "subregion": "micronesia",
+    "fairnessScore": 67,
     "dimensions": {
-      "democraticVoice": 85,
-      "pressFreedom": 77,
+      "democraticVoice": 90,
+      "pressFreedom": 88,
       "justiceAccess": 50,
       "economicOpportunity": 50,
-      "workplaceRights": 83,
+      "workplaceRights": 88,
       "healthcareAccess": 50,
       "housingSecurity": 50,
       "consumerProtection": 50,
       "governmentResponsiveness": 50,
-      "socialInclusion": 83
+      "socialInclusion": 88
     },
-    "sourcesUsed": 4,
-    "population": 5.4,
-    "gdpPerCapita": 21053,
+    "sourcesUsed": 3,
+    "population": 0.06,
+    "gdpPerCapita": 4073,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Strong democratic institutions (85%)"
+      "Strong democratic institutions (90%)",
+      "Above-average fairness globally"
+    ]
+  },
+  {
+    "iso3": "FSM",
+    "name": "Micronesia",
+    "region": "oceania",
+    "subregion": "micronesia",
+    "fairnessScore": 67,
+    "dimensions": {
+      "democraticVoice": 90,
+      "pressFreedom": 87,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 87,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 87
+    },
+    "sourcesUsed": 3,
+    "population": 0.1,
+    "gdpPerCapita": 3584,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (90%)",
+      "Above-average fairness globally"
+    ]
+  },
+  {
+    "iso3": "TUV",
+    "name": "Tuvalu",
+    "region": "oceania",
+    "subregion": "polynesia",
+    "fairnessScore": 67,
+    "dimensions": {
+      "democraticVoice": 90,
+      "pressFreedom": 87,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 87,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 87
+    },
+    "sourcesUsed": 3,
+    "population": 0.01,
+    "gdpPerCapita": 4673,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (90%)",
+      "Above-average fairness globally"
+    ]
+  },
+  {
+    "iso3": "HRV",
+    "name": "Croatia",
+    "region": "europe",
+    "subregion": "balkans",
+    "fairnessScore": 67,
+    "dimensions": {
+      "democraticVoice": 83,
+      "pressFreedom": 83,
+      "justiceAccess": 54,
+      "economicOpportunity": 50,
+      "workplaceRights": 63,
+      "healthcareAccess": 78,
+      "housingSecurity": 54,
+      "consumerProtection": 54,
+      "governmentResponsiveness": 54,
+      "socialInclusion": 83
+    },
+    "sourcesUsed": 6,
+    "population": 4,
+    "gdpPerCapita": 17685,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (83%)",
+      "Above-average fairness globally"
+    ]
+  },
+  {
+    "iso3": "POL",
+    "name": "Poland",
+    "region": "europe",
+    "subregion": "central",
+    "fairnessScore": 66,
+    "dimensions": {
+      "democraticVoice": 83,
+      "pressFreedom": 74,
+      "justiceAccess": 55,
+      "economicOpportunity": 50,
+      "workplaceRights": 63,
+      "healthcareAccess": 79,
+      "housingSecurity": 55,
+      "consumerProtection": 55,
+      "governmentResponsiveness": 55,
+      "socialInclusion": 82
+    },
+    "sourcesUsed": 7,
+    "population": 38,
+    "gdpPerCapita": 17841,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (83%)",
+      "Above-average fairness globally"
     ]
   },
   {
@@ -954,9 +1376,202 @@
     "name": "Romania",
     "region": "europe",
     "subregion": "eastern",
+    "fairnessScore": 65,
+    "dimensions": {
+      "democraticVoice": 80,
+      "pressFreedom": 80,
+      "justiceAccess": 52,
+      "economicOpportunity": 50,
+      "workplaceRights": 62,
+      "healthcareAccess": 72,
+      "housingSecurity": 52,
+      "consumerProtection": 52,
+      "governmentResponsiveness": 52,
+      "socialInclusion": 80
+    },
+    "sourcesUsed": 6,
+    "population": 19,
+    "gdpPerCapita": 14858,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (80%)",
+      "Above-average fairness globally"
+    ]
+  },
+  {
+    "iso3": "BWA",
+    "name": "Botswana",
+    "region": "africa",
+    "subregion": "southern",
+    "fairnessScore": 65,
+    "dimensions": {
+      "democraticVoice": 72,
+      "pressFreedom": 71,
+      "justiceAccess": 61,
+      "economicOpportunity": 59,
+      "workplaceRights": 74,
+      "healthcareAccess": 53,
+      "housingSecurity": 59,
+      "consumerProtection": 61,
+      "governmentResponsiveness": 59,
+      "socialInclusion": 69
+    },
+    "sourcesUsed": 10,
+    "population": 2.4,
+    "gdpPerCapita": 7348,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong workplace rights (74%)",
+      "Above-average fairness globally"
+    ]
+  },
+  {
+    "iso3": "WSM",
+    "name": "Samoa",
+    "region": "oceania",
+    "subregion": "polynesia",
+    "fairnessScore": 65,
+    "dimensions": {
+      "democraticVoice": 83,
+      "pressFreedom": 82,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 82,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 82
+    },
+    "sourcesUsed": 3,
+    "population": 0.2,
+    "gdpPerCapita": 4067,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (83%)",
+      "Above-average fairness globally"
+    ]
+  },
+  {
+    "iso3": "STP",
+    "name": "São Tomé and Príncipe",
+    "region": "africa",
+    "subregion": "central",
+    "fairnessScore": 65,
+    "dimensions": {
+      "democraticVoice": 85,
+      "pressFreedom": 82,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 82,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 82
+    },
+    "sourcesUsed": 3,
+    "population": 0.2,
+    "gdpPerCapita": 2181,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (85%)",
+      "Above-average fairness globally"
+    ]
+  },
+  {
+    "iso3": "ISR",
+    "name": "Israel",
+    "region": "asia",
+    "subregion": "middle-east",
+    "fairnessScore": 64,
+    "dimensions": {
+      "democraticVoice": 70,
+      "pressFreedom": 53,
+      "justiceAccess": 63,
+      "economicOpportunity": 50,
+      "workplaceRights": 70,
+      "healthcareAccess": 81,
+      "housingSecurity": 63,
+      "consumerProtection": 63,
+      "governmentResponsiveness": 63,
+      "socialInclusion": 70
+    },
+    "sourcesUsed": 6,
+    "population": 9.3,
+    "gdpPerCapita": 54930,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong healthcare access (81%)"
+    ]
+  },
+  {
+    "iso3": "NAM",
+    "name": "Namibia",
+    "region": "africa",
+    "subregion": "southern",
     "fairnessScore": 64,
     "dimensions": {
       "democraticVoice": 80,
+      "pressFreedom": 77,
+      "justiceAccess": 54,
+      "economicOpportunity": 50,
+      "workplaceRights": 77,
+      "healthcareAccess": 50,
+      "housingSecurity": 54,
+      "consumerProtection": 54,
+      "governmentResponsiveness": 54,
+      "socialInclusion": 77
+    },
+    "sourcesUsed": 5,
+    "population": 2.5,
+    "gdpPerCapita": 4866,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (80%)"
+    ]
+  },
+  {
+    "iso3": "BTN",
+    "name": "Bhutan",
+    "region": "asia",
+    "subregion": "south",
+    "fairnessScore": 64,
+    "dimensions": {
+      "democraticVoice": 55,
+      "pressFreedom": 63,
+      "justiceAccess": 72,
+      "economicOpportunity": 73,
+      "workplaceRights": 59,
+      "healthcareAccess": 54,
+      "housingSecurity": 71,
+      "consumerProtection": 73,
+      "governmentResponsiveness": 58,
+      "socialInclusion": 59
+    },
+    "sourcesUsed": 8,
+    "population": 0.8,
+    "gdpPerCapita": 3266,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong economic opportunity (73%)"
+    ]
+  },
+  {
+    "iso3": "VUT",
+    "name": "Vanuatu",
+    "region": "oceania",
+    "subregion": "melanesia",
+    "fairnessScore": 64,
+    "dimensions": {
+      "democraticVoice": 83,
       "pressFreedom": 80,
       "justiceAccess": 50,
       "economicOpportunity": 50,
@@ -968,35 +1583,8 @@
       "socialInclusion": 80
     },
     "sourcesUsed": 3,
-    "population": 19,
-    "gdpPerCapita": 14858,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Strong democratic institutions (80%)"
-    ]
-  },
-  {
-    "iso3": "USA",
-    "name": "United States",
-    "region": "americas",
-    "subregion": "north",
-    "fairnessScore": 64,
-    "dimensions": {
-      "democraticVoice": 83,
-      "pressFreedom": 77,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 83,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 83
-    },
-    "sourcesUsed": 4,
-    "population": 332,
-    "gdpPerCapita": 76399,
+    "population": 0.3,
+    "gdpPerCapita": 3105,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
@@ -1004,57 +1592,57 @@
     ]
   },
   {
-    "iso3": "POL",
-    "name": "Poland",
+    "iso3": "GRC",
+    "name": "Greece",
     "region": "europe",
-    "subregion": "central",
+    "subregion": "southern",
     "fairnessScore": 63,
     "dimensions": {
       "democraticVoice": 83,
-      "pressFreedom": 74,
-      "justiceAccess": 50,
+      "pressFreedom": 75,
+      "justiceAccess": 54,
       "economicOpportunity": 50,
-      "workplaceRights": 82,
+      "workplaceRights": 64,
       "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 82
+      "housingSecurity": 54,
+      "consumerProtection": 54,
+      "governmentResponsiveness": 54,
+      "socialInclusion": 87
     },
-    "sourcesUsed": 4,
-    "population": 38,
-    "gdpPerCapita": 17841,
+    "sourcesUsed": 6,
+    "population": 10.4,
+    "gdpPerCapita": 20193,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Strong democratic institutions (83%)"
+      "Strong social inclusion (87%)"
     ]
   },
   {
-    "iso3": "ZAF",
-    "name": "South Africa",
-    "region": "africa",
-    "subregion": "southern",
-    "fairnessScore": 62,
+    "iso3": "MCO",
+    "name": "Monaco",
+    "region": "europe",
+    "subregion": "western",
+    "fairnessScore": 63,
     "dimensions": {
-      "democraticVoice": 83,
-      "pressFreedom": 71,
+      "democraticVoice": 75,
+      "pressFreedom": 80,
       "justiceAccess": 50,
       "economicOpportunity": 50,
-      "workplaceRights": 77,
+      "workplaceRights": 80,
       "healthcareAccess": 50,
       "housingSecurity": 50,
       "consumerProtection": 50,
       "governmentResponsiveness": 50,
-      "socialInclusion": 77
+      "socialInclusion": 80
     },
-    "sourcesUsed": 4,
-    "population": 60,
-    "gdpPerCapita": 6001,
+    "sourcesUsed": 3,
+    "population": 0.04,
+    "gdpPerCapita": 190513,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Strong democratic institutions (83%)"
+      "Strong press freedom (80%)"
     ]
   },
   {
@@ -1062,20 +1650,20 @@
     "name": "Bulgaria",
     "region": "europe",
     "subregion": "eastern",
-    "fairnessScore": 61,
+    "fairnessScore": 62,
     "dimensions": {
-      "democraticVoice": 70,
+      "democraticVoice": 68,
       "pressFreedom": 77,
-      "justiceAccess": 53,
+      "justiceAccess": 51,
       "economicOpportunity": 55,
-      "workplaceRights": 68,
-      "healthcareAccess": 51,
+      "workplaceRights": 61,
+      "healthcareAccess": 66,
       "housingSecurity": 54,
       "consumerProtection": 49,
-      "governmentResponsiveness": 53,
+      "governmentResponsiveness": 54,
       "socialInclusion": 68
     },
-    "sourcesUsed": 7,
+    "sourcesUsed": 9,
     "population": 6.9,
     "gdpPerCapita": 12221,
     "trend": "stable",
@@ -1085,14 +1673,124 @@
     ]
   },
   {
-    "iso3": "GHA",
-    "name": "Ghana",
-    "region": "africa",
-    "subregion": "west",
-    "fairnessScore": 61,
+    "iso3": "SGP",
+    "name": "Singapore",
+    "region": "asia",
+    "subregion": "southeast",
+    "fairnessScore": 62,
     "dimensions": {
-      "democraticVoice": 78,
-      "pressFreedom": 70,
+      "democraticVoice": 43,
+      "pressFreedom": 41,
+      "justiceAccess": 84,
+      "economicOpportunity": 50,
+      "workplaceRights": 38,
+      "healthcareAccess": 86,
+      "housingSecurity": 84,
+      "consumerProtection": 84,
+      "governmentResponsiveness": 84,
+      "socialInclusion": 53
+    },
+    "sourcesUsed": 7,
+    "population": 5.5,
+    "gdpPerCapita": 64103,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong healthcare access (86%)",
+      "Challenges in workplace rights (38%)"
+    ]
+  },
+  {
+    "iso3": "TLS",
+    "name": "Timor-Leste",
+    "region": "asia",
+    "subregion": "southeast",
+    "fairnessScore": 62,
+    "dimensions": {
+      "democraticVoice": 80,
+      "pressFreedom": 75,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 75,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 75
+    },
+    "sourcesUsed": 3,
+    "population": 1.3,
+    "gdpPerCapita": 1456,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (80%)"
+    ]
+  },
+  {
+    "iso3": "PAN",
+    "name": "Panama",
+    "region": "americas",
+    "subregion": "central",
+    "fairnessScore": 62,
+    "dimensions": {
+      "democraticVoice": 85,
+      "pressFreedom": 82,
+      "justiceAccess": 36,
+      "economicOpportunity": 50,
+      "workplaceRights": 82,
+      "healthcareAccess": 68,
+      "housingSecurity": 36,
+      "consumerProtection": 36,
+      "governmentResponsiveness": 36,
+      "socialInclusion": 82
+    },
+    "sourcesUsed": 5,
+    "population": 4.4,
+    "gdpPerCapita": 14617,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (85%)",
+      "Challenges in government responsiveness (36%)"
+    ]
+  },
+  {
+    "iso3": "TTO",
+    "name": "Trinidad and Tobago",
+    "region": "americas",
+    "subregion": "caribbean",
+    "fairnessScore": 62,
+    "dimensions": {
+      "democraticVoice": 83,
+      "pressFreedom": 80,
+      "justiceAccess": 45,
+      "economicOpportunity": 50,
+      "workplaceRights": 78,
+      "healthcareAccess": 50,
+      "housingSecurity": 45,
+      "consumerProtection": 45,
+      "governmentResponsiveness": 45,
+      "socialInclusion": 80
+    },
+    "sourcesUsed": 5,
+    "population": 1.4,
+    "gdpPerCapita": 15764,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (83%)"
+    ]
+  },
+  {
+    "iso3": "SYC",
+    "name": "Seychelles",
+    "region": "africa",
+    "subregion": "east",
+    "fairnessScore": 62,
+    "dimensions": {
+      "democraticVoice": 75,
+      "pressFreedom": 77,
       "justiceAccess": 50,
       "economicOpportunity": 50,
       "workplaceRights": 77,
@@ -1102,13 +1800,13 @@
       "governmentResponsiveness": 50,
       "socialInclusion": 77
     },
-    "sourcesUsed": 4,
-    "population": 32,
-    "gdpPerCapita": 2363,
+    "sourcesUsed": 3,
+    "population": 0.1,
+    "gdpPerCapita": 14653,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Strong democratic institutions (78%)"
+      "Strong press freedom (77%)"
     ]
   },
   {
@@ -1116,20 +1814,20 @@
     "name": "Argentina",
     "region": "americas",
     "subregion": "south",
-    "fairnessScore": 60,
+    "fairnessScore": 61,
     "dimensions": {
-      "democraticVoice": 75,
+      "democraticVoice": 73,
       "pressFreedom": 77,
-      "justiceAccess": 52,
+      "justiceAccess": 46,
       "economicOpportunity": 47,
-      "workplaceRights": 73,
-      "healthcareAccess": 42,
-      "housingSecurity": 46,
-      "consumerProtection": 43,
-      "governmentResponsiveness": 50,
+      "workplaceRights": 76,
+      "healthcareAccess": 64,
+      "housingSecurity": 45,
+      "consumerProtection": 42,
+      "governmentResponsiveness": 48,
       "socialInclusion": 73
     },
-    "sourcesUsed": 8,
+    "sourcesUsed": 11,
     "population": 45,
     "gdpPerCapita": 10636,
     "trend": "stable",
@@ -1139,80 +1837,108 @@
     ]
   },
   {
-    "iso3": "ALB",
-    "name": "Albania",
-    "region": "europe",
-    "subregion": "balkans",
-    "fairnessScore": 58,
+    "iso3": "ZAF",
+    "name": "South Africa",
+    "region": "africa",
+    "subregion": "southern",
+    "fairnessScore": 61,
     "dimensions": {
-      "democraticVoice": 60,
-      "pressFreedom": 60,
-      "justiceAccess": 48,
-      "economicOpportunity": 69,
-      "workplaceRights": 61,
-      "healthcareAccess": 55,
-      "housingSecurity": 67,
-      "consumerProtection": 49,
-      "governmentResponsiveness": 51,
-      "socialInclusion": 61
-    },
-    "sourcesUsed": 8,
-    "population": 2.9,
-    "gdpPerCapita": 6494,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Overall fairness score: 58%"
-    ]
-  },
-  {
-    "iso3": "HUN",
-    "name": "Hungary",
-    "region": "europe",
-    "subregion": "central",
-    "fairnessScore": 57,
-    "dimensions": {
-      "democraticVoice": 60,
-      "pressFreedom": 66,
-      "justiceAccess": 50,
+      "democraticVoice": 83,
+      "pressFreedom": 71,
+      "justiceAccess": 45,
       "economicOpportunity": 50,
-      "workplaceRights": 72,
+      "workplaceRights": 78,
       "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 72
+      "housingSecurity": 45,
+      "consumerProtection": 45,
+      "governmentResponsiveness": 45,
+      "socialInclusion": 77
     },
-    "sourcesUsed": 4,
-    "population": 9.7,
-    "gdpPerCapita": 18728,
+    "sourcesUsed": 7,
+    "population": 60,
+    "gdpPerCapita": 6001,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Strong workplace rights (72%)"
+      "Strong democratic institutions (83%)"
     ]
   },
   {
-    "iso3": "COL",
-    "name": "Colombia",
-    "region": "americas",
-    "subregion": "south",
-    "fairnessScore": 57,
+    "iso3": "MNG",
+    "name": "Mongolia",
+    "region": "asia",
+    "subregion": "east",
+    "fairnessScore": 61,
     "dimensions": {
-      "democraticVoice": 75,
-      "pressFreedom": 56,
-      "justiceAccess": 50,
+      "democraticVoice": 85,
+      "pressFreedom": 83,
+      "justiceAccess": 40,
       "economicOpportunity": 50,
       "workplaceRights": 63,
+      "healthcareAccess": 61,
+      "housingSecurity": 40,
+      "consumerProtection": 40,
+      "governmentResponsiveness": 40,
+      "socialInclusion": 83
+    },
+    "sourcesUsed": 6,
+    "population": 3.4,
+    "gdpPerCapita": 4566,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (85%)",
+      "Challenges in government responsiveness (40%)"
+    ]
+  },
+  {
+    "iso3": "JAM",
+    "name": "Jamaica",
+    "region": "americas",
+    "subregion": "caribbean",
+    "fairnessScore": 61,
+    "dimensions": {
+      "democraticVoice": 85,
+      "pressFreedom": 80,
+      "justiceAccess": 43,
+      "economicOpportunity": 50,
+      "workplaceRights": 78,
+      "healthcareAccess": 48,
+      "housingSecurity": 43,
+      "consumerProtection": 43,
+      "governmentResponsiveness": 43,
+      "socialInclusion": 80
+    },
+    "sourcesUsed": 6,
+    "population": 3,
+    "gdpPerCapita": 5741,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (85%)"
+    ]
+  },
+  {
+    "iso3": "GUY",
+    "name": "Guyana",
+    "region": "americas",
+    "subregion": "south",
+    "fairnessScore": 61,
+    "dimensions": {
+      "democraticVoice": 75,
+      "pressFreedom": 73,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 73,
       "healthcareAccess": 50,
       "housingSecurity": 50,
       "consumerProtection": 50,
       "governmentResponsiveness": 50,
-      "socialInclusion": 63
+      "socialInclusion": 73
     },
-    "sourcesUsed": 4,
-    "population": 51,
-    "gdpPerCapita": 6104,
+    "sourcesUsed": 3,
+    "population": 0.8,
+    "gdpPerCapita": 9913,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
@@ -1220,24 +1946,648 @@
     ]
   },
   {
-    "iso3": "SEN",
-    "name": "Senegal",
-    "region": "africa",
-    "subregion": "west",
-    "fairnessScore": 57,
+    "iso3": "SUR",
+    "name": "Suriname",
+    "region": "americas",
+    "subregion": "south",
+    "fairnessScore": 61,
     "dimensions": {
-      "democraticVoice": 70,
-      "pressFreedom": 57,
+      "democraticVoice": 75,
+      "pressFreedom": 73,
       "justiceAccess": 50,
       "economicOpportunity": 50,
-      "workplaceRights": 68,
+      "workplaceRights": 73,
       "healthcareAccess": 50,
       "housingSecurity": 50,
       "consumerProtection": 50,
       "governmentResponsiveness": 50,
-      "socialInclusion": 68
+      "socialInclusion": 73
+    },
+    "sourcesUsed": 3,
+    "population": 0.6,
+    "gdpPerCapita": 5155,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (75%)"
+    ]
+  },
+  {
+    "iso3": "SLB",
+    "name": "Solomon Islands",
+    "region": "oceania",
+    "subregion": "melanesia",
+    "fairnessScore": 61,
+    "dimensions": {
+      "democraticVoice": 78,
+      "pressFreedom": 73,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 73,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 73
+    },
+    "sourcesUsed": 3,
+    "population": 0.7,
+    "gdpPerCapita": 2379,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (78%)"
+    ]
+  },
+  {
+    "iso3": "TON",
+    "name": "Tonga",
+    "region": "oceania",
+    "subregion": "polynesia",
+    "fairnessScore": 61,
+    "dimensions": {
+      "democraticVoice": 75,
+      "pressFreedom": 73,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 73,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 73
+    },
+    "sourcesUsed": 3,
+    "population": 0.1,
+    "gdpPerCapita": 4903,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (75%)"
+    ]
+  },
+  {
+    "iso3": "NRU",
+    "name": "Nauru",
+    "region": "oceania",
+    "subregion": "micronesia",
+    "fairnessScore": 61,
+    "dimensions": {
+      "democraticVoice": 75,
+      "pressFreedom": 73,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 73,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 73
+    },
+    "sourcesUsed": 3,
+    "population": 0.01,
+    "gdpPerCapita": 10220,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (75%)"
+    ]
+  },
+  {
+    "iso3": "BLZ",
+    "name": "Belize",
+    "region": "americas",
+    "subregion": "central",
+    "fairnessScore": 60,
+    "dimensions": {
+      "democraticVoice": 72,
+      "pressFreedom": 80,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 71,
+      "healthcareAccess": 42,
+      "housingSecurity": 49,
+      "consumerProtection": 44,
+      "governmentResponsiveness": 52,
+      "socialInclusion": 71
+    },
+    "sourcesUsed": 7,
+    "population": 0.4,
+    "gdpPerCapita": 6094,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong press freedom (80%)"
+    ]
+  },
+  {
+    "iso3": "HUN",
+    "name": "Hungary",
+    "region": "europe",
+    "subregion": "central",
+    "fairnessScore": 59,
+    "dimensions": {
+      "democraticVoice": 60,
+      "pressFreedom": 66,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 60,
+      "healthcareAccess": 76,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 72
+    },
+    "sourcesUsed": 7,
+    "population": 9.7,
+    "gdpPerCapita": 18728,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong healthcare access (76%)"
+    ]
+  },
+  {
+    "iso3": "LSO",
+    "name": "Lesotho",
+    "region": "africa",
+    "subregion": "southern",
+    "fairnessScore": 57,
+    "dimensions": {
+      "democraticVoice": 65,
+      "pressFreedom": 67,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 67,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 67
+    },
+    "sourcesUsed": 3,
+    "population": 2.2,
+    "gdpPerCapita": 1118,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Overall fairness score: 57%"
+    ]
+  },
+  {
+    "iso3": "XKX",
+    "name": "Kosovo",
+    "region": "europe",
+    "subregion": "balkans",
+    "fairnessScore": 57,
+    "dimensions": {
+      "democraticVoice": 63,
+      "pressFreedom": 67,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 67,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 67
+    },
+    "sourcesUsed": 3,
+    "population": 1.8,
+    "gdpPerCapita": 5016,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Overall fairness score: 57%"
+    ]
+  },
+  {
+    "iso3": "GEO",
+    "name": "Georgia",
+    "region": "europe",
+    "subregion": "caucasus",
+    "fairnessScore": 56,
+    "dimensions": {
+      "democraticVoice": 53,
+      "pressFreedom": 58,
+      "justiceAccess": 53,
+      "economicOpportunity": 50,
+      "workplaceRights": 58,
+      "healthcareAccess": 66,
+      "housingSecurity": 53,
+      "consumerProtection": 53,
+      "governmentResponsiveness": 53,
+      "socialInclusion": 62
+    },
+    "sourcesUsed": 7,
+    "population": 3.7,
+    "gdpPerCapita": 6673,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Overall fairness score: 56%"
+    ]
+  },
+  {
+    "iso3": "BEN",
+    "name": "Benin",
+    "region": "africa",
+    "subregion": "west",
+    "fairnessScore": 56,
+    "dimensions": {
+      "democraticVoice": 58,
+      "pressFreedom": 70,
+      "justiceAccess": 48,
+      "economicOpportunity": 59,
+      "workplaceRights": 58,
+      "healthcareAccess": 43,
+      "housingSecurity": 57,
+      "consumerProtection": 48,
+      "governmentResponsiveness": 46,
+      "socialInclusion": 58
+    },
+    "sourcesUsed": 8,
+    "population": 13,
+    "gdpPerCapita": 1319,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong press freedom (70%)"
+    ]
+  },
+  {
+    "iso3": "FJI",
+    "name": "Fiji",
+    "region": "oceania",
+    "subregion": "melanesia",
+    "fairnessScore": 56,
+    "dimensions": {
+      "democraticVoice": 60,
+      "pressFreedom": 63,
+      "justiceAccess": 52,
+      "economicOpportunity": 50,
+      "workplaceRights": 63,
+      "healthcareAccess": 50,
+      "housingSecurity": 52,
+      "consumerProtection": 52,
+      "governmentResponsiveness": 52,
+      "socialInclusion": 63
     },
     "sourcesUsed": 4,
+    "population": 0.9,
+    "gdpPerCapita": 5316,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Overall fairness score: 56%"
+    ]
+  },
+  {
+    "iso3": "MKD",
+    "name": "North Macedonia",
+    "region": "europe",
+    "subregion": "balkans",
+    "fairnessScore": 55,
+    "dimensions": {
+      "democraticVoice": 65,
+      "pressFreedom": 60,
+      "justiceAccess": 43,
+      "economicOpportunity": 50,
+      "workplaceRights": 59,
+      "healthcareAccess": 70,
+      "housingSecurity": 43,
+      "consumerProtection": 43,
+      "governmentResponsiveness": 43,
+      "socialInclusion": 68
+    },
+    "sourcesUsed": 7,
+    "population": 2.1,
+    "gdpPerCapita": 6722,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong healthcare access (70%)"
+    ]
+  },
+  {
+    "iso3": "ALB",
+    "name": "Albania",
+    "region": "europe",
+    "subregion": "balkans",
+    "fairnessScore": 55,
+    "dimensions": {
+      "democraticVoice": 59,
+      "pressFreedom": 60,
+      "justiceAccess": 41,
+      "economicOpportunity": 69,
+      "workplaceRights": 44,
+      "healthcareAccess": 63,
+      "housingSecurity": 60,
+      "consumerProtection": 41,
+      "governmentResponsiveness": 48,
+      "socialInclusion": 61
+    },
+    "sourcesUsed": 11,
+    "population": 2.9,
+    "gdpPerCapita": 6494,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Overall fairness score: 55%"
+    ]
+  },
+  {
+    "iso3": "GHA",
+    "name": "Ghana",
+    "region": "africa",
+    "subregion": "west",
+    "fairnessScore": 55,
+    "dimensions": {
+      "democraticVoice": 78,
+      "pressFreedom": 70,
+      "justiceAccess": 33,
+      "economicOpportunity": 50,
+      "workplaceRights": 78,
+      "healthcareAccess": 50,
+      "housingSecurity": 33,
+      "consumerProtection": 33,
+      "governmentResponsiveness": 33,
+      "socialInclusion": 77
+    },
+    "sourcesUsed": 7,
+    "population": 32,
+    "gdpPerCapita": 2363,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (78%)",
+      "Challenges in government responsiveness (33%)"
+    ]
+  },
+  {
+    "iso3": "LBR",
+    "name": "Liberia",
+    "region": "africa",
+    "subregion": "west",
+    "fairnessScore": 55,
+    "dimensions": {
+      "democraticVoice": 65,
+      "pressFreedom": 63,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 63,
+      "healthcareAccess": 37,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 63
+    },
+    "sourcesUsed": 4,
+    "population": 5.2,
+    "gdpPerCapita": 672,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in healthcare access (37%)"
+    ]
+  },
+  {
+    "iso3": "MDV",
+    "name": "Maldives",
+    "region": "asia",
+    "subregion": "south",
+    "fairnessScore": 55,
+    "dimensions": {
+      "democraticVoice": 60,
+      "pressFreedom": 60,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 60,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 60
+    },
+    "sourcesUsed": 3,
+    "population": 0.5,
+    "gdpPerCapita": 10366,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Overall fairness score: 55%"
+    ]
+  },
+  {
+    "iso3": "MYS",
+    "name": "Malaysia",
+    "region": "asia",
+    "subregion": "southeast",
+    "fairnessScore": 54,
+    "dimensions": {
+      "democraticVoice": 55,
+      "pressFreedom": 45,
+      "justiceAccess": 53,
+      "economicOpportunity": 50,
+      "workplaceRights": 57,
+      "healthcareAccess": 73,
+      "housingSecurity": 53,
+      "consumerProtection": 53,
+      "governmentResponsiveness": 53,
+      "socialInclusion": 58
+    },
+    "sourcesUsed": 7,
+    "population": 32,
+    "gdpPerCapita": 11399,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong healthcare access (73%)"
+    ]
+  },
+  {
+    "iso3": "GMB",
+    "name": "Gambia",
+    "region": "africa",
+    "subregion": "west",
+    "fairnessScore": 54,
+    "dimensions": {
+      "democraticVoice": 60,
+      "pressFreedom": 57,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 57,
+      "healthcareAccess": 50,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 57
+    },
+    "sourcesUsed": 3,
+    "population": 2.5,
+    "gdpPerCapita": 751,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Overall fairness score: 54%"
+    ]
+  },
+  {
+    "iso3": "ARM",
+    "name": "Armenia",
+    "region": "europe",
+    "subregion": "caucasus",
+    "fairnessScore": 54,
+    "dimensions": {
+      "democraticVoice": 51,
+      "pressFreedom": 60,
+      "justiceAccess": 47,
+      "economicOpportunity": 69,
+      "workplaceRights": 42,
+      "healthcareAccess": 59,
+      "housingSecurity": 60,
+      "consumerProtection": 45,
+      "governmentResponsiveness": 46,
+      "socialInclusion": 56
+    },
+    "sourcesUsed": 10,
+    "population": 3,
+    "gdpPerCapita": 4966,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Overall fairness score: 54%"
+    ]
+  },
+  {
+    "iso3": "SRB",
+    "name": "Serbia",
+    "region": "europe",
+    "subregion": "balkans",
+    "fairnessScore": 53,
+    "dimensions": {
+      "democraticVoice": 55,
+      "pressFreedom": 63,
+      "justiceAccess": 44,
+      "economicOpportunity": 50,
+      "workplaceRights": 41,
+      "healthcareAccess": 71,
+      "housingSecurity": 44,
+      "consumerProtection": 44,
+      "governmentResponsiveness": 44,
+      "socialInclusion": 65
+    },
+    "sourcesUsed": 7,
+    "population": 6.9,
+    "gdpPerCapita": 9230,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong healthcare access (71%)"
+    ]
+  },
+  {
+    "iso3": "MNE",
+    "name": "Montenegro",
+    "region": "europe",
+    "subregion": "balkans",
+    "fairnessScore": 53,
+    "dimensions": {
+      "democraticVoice": 63,
+      "pressFreedom": 63,
+      "justiceAccess": 42,
+      "economicOpportunity": 50,
+      "workplaceRights": 42,
+      "healthcareAccess": 70,
+      "housingSecurity": 42,
+      "consumerProtection": 42,
+      "governmentResponsiveness": 42,
+      "socialInclusion": 67
+    },
+    "sourcesUsed": 7,
+    "population": 0.62,
+    "gdpPerCapita": 9466,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong healthcare access (70%)"
+    ]
+  },
+  {
+    "iso3": "PER",
+    "name": "Peru",
+    "region": "americas",
+    "subregion": "south",
+    "fairnessScore": 53,
+    "dimensions": {
+      "democraticVoice": 70,
+      "pressFreedom": 53,
+      "justiceAccess": 38,
+      "economicOpportunity": 50,
+      "workplaceRights": 60,
+      "healthcareAccess": 65,
+      "housingSecurity": 38,
+      "consumerProtection": 38,
+      "governmentResponsiveness": 38,
+      "socialInclusion": 70
+    },
+    "sourcesUsed": 7,
+    "population": 33,
+    "gdpPerCapita": 6644,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (70%)",
+      "Challenges in government responsiveness (38%)"
+    ]
+  },
+  {
+    "iso3": "IDN",
+    "name": "Indonesia",
+    "region": "asia",
+    "subregion": "southeast",
+    "fairnessScore": 53,
+    "dimensions": {
+      "democraticVoice": 70,
+      "pressFreedom": 56,
+      "justiceAccess": 40,
+      "economicOpportunity": 50,
+      "workplaceRights": 59,
+      "healthcareAccess": 61,
+      "housingSecurity": 40,
+      "consumerProtection": 40,
+      "governmentResponsiveness": 40,
+      "socialInclusion": 67
+    },
+    "sourcesUsed": 7,
+    "population": 274,
+    "gdpPerCapita": 4333,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (70%)",
+      "Challenges in government responsiveness (40%)"
+    ]
+  },
+  {
+    "iso3": "SEN",
+    "name": "Senegal",
+    "region": "africa",
+    "subregion": "west",
+    "fairnessScore": 53,
+    "dimensions": {
+      "democraticVoice": 70,
+      "pressFreedom": 57,
+      "justiceAccess": 43,
+      "economicOpportunity": 50,
+      "workplaceRights": 59,
+      "healthcareAccess": 49,
+      "housingSecurity": 43,
+      "consumerProtection": 43,
+      "governmentResponsiveness": 43,
+      "socialInclusion": 68
+    },
+    "sourcesUsed": 7,
     "population": 17,
     "gdpPerCapita": 1637,
     "trend": "stable",
@@ -1247,365 +2597,69 @@
     ]
   },
   {
-    "iso3": "MKD",
-    "name": "North Macedonia",
-    "region": "europe",
-    "subregion": "balkans",
-    "fairnessScore": 56,
+    "iso3": "SLE",
+    "name": "Sierra Leone",
+    "region": "africa",
+    "subregion": "west",
+    "fairnessScore": 53,
     "dimensions": {
-      "democraticVoice": 65,
+      "democraticVoice": 60,
       "pressFreedom": 60,
       "justiceAccess": 50,
       "economicOpportunity": 50,
-      "workplaceRights": 68,
-      "healthcareAccess": 50,
+      "workplaceRights": 60,
+      "healthcareAccess": 36,
       "housingSecurity": 50,
       "consumerProtection": 50,
       "governmentResponsiveness": 50,
+      "socialInclusion": 60
+    },
+    "sourcesUsed": 4,
+    "population": 8.4,
+    "gdpPerCapita": 516,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in healthcare access (36%)"
+    ]
+  },
+  {
+    "iso3": "DOM",
+    "name": "Dominican Republic",
+    "region": "americas",
+    "subregion": "caribbean",
+    "fairnessScore": 53,
+    "dimensions": {
+      "democraticVoice": 73,
+      "pressFreedom": 68,
+      "justiceAccess": 33,
+      "economicOpportunity": 50,
+      "workplaceRights": 59,
+      "healthcareAccess": 64,
+      "housingSecurity": 33,
+      "consumerProtection": 33,
+      "governmentResponsiveness": 33,
       "socialInclusion": 68
     },
-    "sourcesUsed": 4,
-    "population": 2.1,
-    "gdpPerCapita": 6722,
+    "sourcesUsed": 6,
+    "population": 11,
+    "gdpPerCapita": 9700,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Overall fairness score: 56%"
+      "Strong democratic institutions (73%)",
+      "Challenges in government responsiveness (33%)"
     ]
   },
   {
-    "iso3": "MNE",
-    "name": "Montenegro",
-    "region": "europe",
-    "subregion": "balkans",
-    "fairnessScore": 56,
-    "dimensions": {
-      "democraticVoice": 63,
-      "pressFreedom": 63,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 67,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 67
-    },
-    "sourcesUsed": 4,
-    "population": 0.62,
-    "gdpPerCapita": 9466,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Overall fairness score: 56%"
-    ]
-  },
-  {
-    "iso3": "PER",
-    "name": "Peru",
-    "region": "americas",
-    "subregion": "south",
-    "fairnessScore": 56,
-    "dimensions": {
-      "democraticVoice": 70,
-      "pressFreedom": 53,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 70,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 70
-    },
-    "sourcesUsed": 4,
-    "population": 33,
-    "gdpPerCapita": 6644,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Strong democratic institutions (70%)"
-    ]
-  },
-  {
-    "iso3": "IDN",
-    "name": "Indonesia",
-    "region": "asia",
-    "subregion": "southeast",
-    "fairnessScore": 56,
-    "dimensions": {
-      "democraticVoice": 70,
-      "pressFreedom": 56,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 67,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 67
-    },
-    "sourcesUsed": 4,
-    "population": 274,
-    "gdpPerCapita": 4333,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Strong democratic institutions (70%)"
-    ]
-  },
-  {
-    "iso3": "ISR",
-    "name": "Israel",
-    "region": "asia",
-    "subregion": "middle-east",
-    "fairnessScore": 56,
-    "dimensions": {
-      "democraticVoice": 70,
-      "pressFreedom": 53,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 70,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 70
-    },
-    "sourcesUsed": 4,
-    "population": 9.3,
-    "gdpPerCapita": 54930,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Strong democratic institutions (70%)"
-    ]
-  },
-  {
-    "iso3": "UKR",
-    "name": "Ukraine",
-    "region": "europe",
-    "subregion": "eastern",
-    "fairnessScore": 55,
-    "dimensions": {
-      "democraticVoice": 55,
-      "pressFreedom": 61,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 65,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 65
-    },
-    "sourcesUsed": 4,
-    "population": 44,
-    "gdpPerCapita": 4835,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Overall fairness score: 55%"
-    ]
-  },
-  {
-    "iso3": "MDA",
-    "name": "Moldova",
-    "region": "europe",
-    "subregion": "eastern",
-    "fairnessScore": 55,
-    "dimensions": {
-      "democraticVoice": 60,
-      "pressFreedom": 60,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 63,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 63
-    },
-    "sourcesUsed": 4,
-    "population": 2.6,
-    "gdpPerCapita": 5563,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Overall fairness score: 55%"
-    ]
-  },
-  {
-    "iso3": "SRB",
-    "name": "Serbia",
-    "region": "europe",
-    "subregion": "balkans",
-    "fairnessScore": 55,
-    "dimensions": {
-      "democraticVoice": 55,
-      "pressFreedom": 63,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 65,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 65
-    },
-    "sourcesUsed": 4,
-    "population": 6.9,
-    "gdpPerCapita": 9230,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Overall fairness score: 55%"
-    ]
-  },
-  {
-    "iso3": "IND",
-    "name": "India",
-    "region": "asia",
-    "subregion": "south",
-    "fairnessScore": 55,
-    "dimensions": {
-      "democraticVoice": 65,
-      "pressFreedom": 54,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 67,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 67
-    },
-    "sourcesUsed": 4,
-    "population": 1380,
-    "gdpPerCapita": 2257,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Overall fairness score: 55%"
-    ]
-  },
-  {
-    "iso3": "PHL",
-    "name": "Philippines",
-    "region": "asia",
-    "subregion": "southeast",
-    "fairnessScore": 55,
-    "dimensions": {
-      "democraticVoice": 65,
-      "pressFreedom": 52,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 63,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 63
-    },
-    "sourcesUsed": 4,
-    "population": 110,
-    "gdpPerCapita": 3461,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Overall fairness score: 55%"
-    ]
-  },
-  {
-    "iso3": "MEX",
-    "name": "Mexico",
-    "region": "americas",
-    "subregion": "north",
-    "fairnessScore": 54,
-    "dimensions": {
-      "democraticVoice": 68,
-      "pressFreedom": 48,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 58,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 58
-    },
-    "sourcesUsed": 4,
-    "population": 128,
-    "gdpPerCapita": 10046,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Overall fairness score: 54%"
-    ]
-  },
-  {
-    "iso3": "GEO",
-    "name": "Georgia",
-    "region": "europe",
-    "subregion": "caucasus",
-    "fairnessScore": 53,
-    "dimensions": {
-      "democraticVoice": 53,
-      "pressFreedom": 58,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 62,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 62
-    },
-    "sourcesUsed": 4,
-    "population": 3.7,
-    "gdpPerCapita": 6673,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Overall fairness score: 53%"
-    ]
-  },
-  {
-    "iso3": "ECU",
-    "name": "Ecuador",
-    "region": "americas",
-    "subregion": "south",
-    "fairnessScore": 53,
-    "dimensions": {
-      "democraticVoice": 60,
-      "pressFreedom": 46,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 62,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 62
-    },
-    "sourcesUsed": 4,
-    "population": 18,
-    "gdpPerCapita": 6181,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Overall fairness score: 53%"
-    ]
-  },
-  {
-    "iso3": "KEN",
-    "name": "Kenya",
+    "iso3": "COM",
+    "name": "Comoros",
     "region": "africa",
     "subregion": "east",
     "fairnessScore": 53,
     "dimensions": {
-      "democraticVoice": 60,
-      "pressFreedom": 54,
+      "democraticVoice": 55,
+      "pressFreedom": 58,
       "justiceAccess": 50,
       "economicOpportunity": 50,
       "workplaceRights": 58,
@@ -1615,9 +2669,9 @@
       "governmentResponsiveness": 50,
       "socialInclusion": 58
     },
-    "sourcesUsed": 4,
-    "population": 54,
-    "gdpPerCapita": 2007,
+    "sourcesUsed": 3,
+    "population": 0.9,
+    "gdpPerCapita": 1402,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
@@ -1631,117 +2685,394 @@
     "subregion": "south",
     "fairnessScore": 52,
     "dimensions": {
-      "democraticVoice": 70,
+      "democraticVoice": 68,
       "pressFreedom": 59,
-      "justiceAccess": 49,
+      "justiceAccess": 44,
       "economicOpportunity": 34,
-      "workplaceRights": 65,
-      "healthcareAccess": 39,
-      "housingSecurity": 35,
+      "workplaceRights": 60,
+      "healthcareAccess": 61,
+      "housingSecurity": 36,
       "consumerProtection": 40,
-      "governmentResponsiveness": 47,
+      "governmentResponsiveness": 46,
       "socialInclusion": 65
     },
-    "sourcesUsed": 8,
+    "sourcesUsed": 11,
     "population": 214,
     "gdpPerCapita": 8918,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Strong democratic institutions (70%)",
       "Challenges in economic opportunity (34%)"
     ]
   },
   {
-    "iso3": "MYS",
-    "name": "Malaysia",
+    "iso3": "COL",
+    "name": "Colombia",
+    "region": "americas",
+    "subregion": "south",
+    "fairnessScore": 52,
+    "dimensions": {
+      "democraticVoice": 75,
+      "pressFreedom": 56,
+      "justiceAccess": 39,
+      "economicOpportunity": 50,
+      "workplaceRights": 41,
+      "healthcareAccess": 67,
+      "housingSecurity": 39,
+      "consumerProtection": 39,
+      "governmentResponsiveness": 39,
+      "socialInclusion": 63
+    },
+    "sourcesUsed": 7,
+    "population": 51,
+    "gdpPerCapita": 6104,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (75%)",
+      "Challenges in government responsiveness (39%)"
+    ]
+  },
+  {
+    "iso3": "IND",
+    "name": "India",
+    "region": "asia",
+    "subregion": "south",
+    "fairnessScore": 52,
+    "dimensions": {
+      "democraticVoice": 65,
+      "pressFreedom": 54,
+      "justiceAccess": 42,
+      "economicOpportunity": 50,
+      "workplaceRights": 59,
+      "healthcareAccess": 54,
+      "housingSecurity": 42,
+      "consumerProtection": 42,
+      "governmentResponsiveness": 42,
+      "socialInclusion": 67
+    },
+    "sourcesUsed": 7,
+    "population": 1380,
+    "gdpPerCapita": 2257,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Overall fairness score: 52%"
+    ]
+  },
+  {
+    "iso3": "MWI",
+    "name": "Malawi",
+    "region": "africa",
+    "subregion": "southern",
+    "fairnessScore": 52,
+    "dimensions": {
+      "democraticVoice": 70,
+      "pressFreedom": 67,
+      "justiceAccess": 33,
+      "economicOpportunity": 50,
+      "workplaceRights": 67,
+      "healthcareAccess": 46,
+      "housingSecurity": 33,
+      "consumerProtection": 33,
+      "governmentResponsiveness": 33,
+      "socialInclusion": 67
+    },
+    "sourcesUsed": 5,
+    "population": 20,
+    "gdpPerCapita": 625,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (70%)",
+      "Challenges in government responsiveness (33%)"
+    ]
+  },
+  {
+    "iso3": "NPL",
+    "name": "Nepal",
+    "region": "asia",
+    "subregion": "south",
+    "fairnessScore": 52,
+    "dimensions": {
+      "democraticVoice": 65,
+      "pressFreedom": 67,
+      "justiceAccess": 35,
+      "economicOpportunity": 50,
+      "workplaceRights": 59,
+      "healthcareAccess": 54,
+      "housingSecurity": 35,
+      "consumerProtection": 35,
+      "governmentResponsiveness": 35,
+      "socialInclusion": 67
+    },
+    "sourcesUsed": 6,
+    "population": 30,
+    "gdpPerCapita": 1208,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in government responsiveness (35%)"
+    ]
+  },
+  {
+    "iso3": "BRN",
+    "name": "Brunei",
     "region": "asia",
     "subregion": "southeast",
+    "fairnessScore": 52,
+    "dimensions": {
+      "democraticVoice": 26,
+      "pressFreedom": 27,
+      "justiceAccess": 63,
+      "economicOpportunity": 78,
+      "workplaceRights": 32,
+      "healthcareAccess": 78,
+      "housingSecurity": 78,
+      "consumerProtection": 77,
+      "governmentResponsiveness": 57,
+      "socialInclusion": 32
+    },
+    "sourcesUsed": 7,
+    "population": 0.4,
+    "gdpPerCapita": 31449,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong economic opportunity (78%)",
+      "Challenges in democratic institutions (26%)"
+    ]
+  },
+  {
+    "iso3": "UKR",
+    "name": "Ukraine",
+    "region": "europe",
+    "subregion": "eastern",
     "fairnessScore": 51,
     "dimensions": {
       "democraticVoice": 55,
-      "pressFreedom": 45,
-      "justiceAccess": 50,
+      "pressFreedom": 61,
+      "justiceAccess": 37,
       "economicOpportunity": 50,
       "workplaceRights": 58,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 58
+      "healthcareAccess": 62,
+      "housingSecurity": 37,
+      "consumerProtection": 37,
+      "governmentResponsiveness": 37,
+      "socialInclusion": 65
     },
-    "sourcesUsed": 4,
-    "population": 32,
-    "gdpPerCapita": 11399,
+    "sourcesUsed": 7,
+    "population": 44,
+    "gdpPerCapita": 4835,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Overall fairness score: 51%"
+      "Challenges in government responsiveness (37%)"
     ]
   },
   {
-    "iso3": "NGA",
-    "name": "Nigeria",
-    "region": "africa",
-    "subregion": "west",
+    "iso3": "MEX",
+    "name": "Mexico",
+    "region": "americas",
+    "subregion": "north",
     "fairnessScore": 51,
     "dimensions": {
-      "democraticVoice": 55,
-      "pressFreedom": 45,
-      "justiceAccess": 50,
+      "democraticVoice": 68,
+      "pressFreedom": 48,
+      "justiceAccess": 36,
       "economicOpportunity": 50,
-      "workplaceRights": 55,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 55
+      "workplaceRights": 57,
+      "healthcareAccess": 71,
+      "housingSecurity": 36,
+      "consumerProtection": 36,
+      "governmentResponsiveness": 36,
+      "socialInclusion": 58
     },
-    "sourcesUsed": 4,
-    "population": 213,
-    "gdpPerCapita": 2066,
+    "sourcesUsed": 7,
+    "population": 128,
+    "gdpPerCapita": 10046,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Overall fairness score: 51%"
+      "Strong healthcare access (71%)",
+      "Challenges in government responsiveness (36%)"
     ]
   },
   {
-    "iso3": "LBN",
-    "name": "Lebanon",
+    "iso3": "HKG",
+    "name": "Hong Kong",
     "region": "asia",
-    "subregion": "middle-east",
+    "subregion": "east",
+    "fairnessScore": 51,
+    "dimensions": {
+      "democraticVoice": 15,
+      "pressFreedom": 30,
+      "justiceAccess": 75,
+      "economicOpportunity": 50,
+      "workplaceRights": 32,
+      "healthcareAccess": 83,
+      "housingSecurity": 75,
+      "consumerProtection": 75,
+      "governmentResponsiveness": 75,
+      "socialInclusion": 30
+    },
+    "sourcesUsed": 6,
+    "population": 7.5,
+    "gdpPerCapita": 48983,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong healthcare access (83%)",
+      "Challenges in democratic institutions (15%)"
+    ]
+  },
+  {
+    "iso3": "PRY",
+    "name": "Paraguay",
+    "region": "americas",
+    "subregion": "south",
     "fairnessScore": 50,
     "dimensions": {
-      "democraticVoice": 55,
-      "pressFreedom": 41,
-      "justiceAccess": 50,
+      "democraticVoice": 70,
+      "pressFreedom": 67,
+      "justiceAccess": 30,
       "economicOpportunity": 50,
-      "workplaceRights": 55,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 55
+      "workplaceRights": 42,
+      "healthcareAccess": 63,
+      "housingSecurity": 30,
+      "consumerProtection": 30,
+      "governmentResponsiveness": 30,
+      "socialInclusion": 67
     },
-    "sourcesUsed": 4,
-    "population": 5.5,
-    "gdpPerCapita": 4136,
+    "sourcesUsed": 6,
+    "population": 7.2,
+    "gdpPerCapita": 5414,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Overall fairness score: 50%"
+      "Strong democratic institutions (70%)",
+      "Challenges in government responsiveness (30%)"
     ]
   },
   {
-    "iso3": "THA",
-    "name": "Thailand",
+    "iso3": "PNG",
+    "name": "Papua New Guinea",
+    "region": "oceania",
+    "subregion": "melanesia",
+    "fairnessScore": 50,
+    "dimensions": {
+      "democraticVoice": 70,
+      "pressFreedom": 70,
+      "justiceAccess": 25,
+      "economicOpportunity": 50,
+      "workplaceRights": 70,
+      "healthcareAccess": 50,
+      "housingSecurity": 25,
+      "consumerProtection": 25,
+      "governmentResponsiveness": 25,
+      "socialInclusion": 70
+    },
+    "sourcesUsed": 4,
+    "population": 9.1,
+    "gdpPerCapita": 2845,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong democratic institutions (70%)",
+      "Challenges in government responsiveness (25%)"
+    ]
+  },
+  {
+    "iso3": "PHL",
+    "name": "Philippines",
     "region": "asia",
     "subregion": "southeast",
-    "fairnessScore": 48,
+    "fairnessScore": 49,
     "dimensions": {
-      "democraticVoice": 40,
-      "pressFreedom": 44,
+      "democraticVoice": 65,
+      "pressFreedom": 52,
+      "justiceAccess": 38,
+      "economicOpportunity": 50,
+      "workplaceRights": 41,
+      "healthcareAccess": 61,
+      "housingSecurity": 38,
+      "consumerProtection": 38,
+      "governmentResponsiveness": 38,
+      "socialInclusion": 63
+    },
+    "sourcesUsed": 7,
+    "population": 110,
+    "gdpPerCapita": 3461,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in government responsiveness (38%)"
+    ]
+  },
+  {
+    "iso3": "ARE",
+    "name": "United Arab Emirates",
+    "region": "asia",
+    "subregion": "middle-east",
+    "fairnessScore": 49,
+    "dimensions": {
+      "democraticVoice": 13,
+      "pressFreedom": 31,
+      "justiceAccess": 70,
+      "economicOpportunity": 50,
+      "workplaceRights": 32,
+      "healthcareAccess": 80,
+      "housingSecurity": 70,
+      "consumerProtection": 70,
+      "governmentResponsiveness": 70,
+      "socialInclusion": 27
+    },
+    "sourcesUsed": 7,
+    "population": 10,
+    "gdpPerCapita": 43103,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong healthcare access (80%)",
+      "Challenges in democratic institutions (13%)"
+    ]
+  },
+  {
+    "iso3": "BOL",
+    "name": "Bolivia",
+    "region": "americas",
+    "subregion": "south",
+    "fairnessScore": 49,
+    "dimensions": {
+      "democraticVoice": 54,
+      "pressFreedom": 65,
+      "justiceAccess": 34,
+      "economicOpportunity": 45,
+      "workplaceRights": 56,
+      "healthcareAccess": 55,
+      "housingSecurity": 41,
+      "consumerProtection": 32,
+      "governmentResponsiveness": 38,
+      "socialInclusion": 55
+    },
+    "sourcesUsed": 10,
+    "population": 12,
+    "gdpPerCapita": 3500,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in consumer protection (32%)"
+    ]
+  },
+  {
+    "iso3": "GNB",
+    "name": "Guinea-Bissau",
+    "region": "africa",
+    "subregion": "west",
+    "fairnessScore": 49,
+    "dimensions": {
+      "democraticVoice": 45,
+      "pressFreedom": 50,
       "justiceAccess": 50,
       "economicOpportunity": 50,
       "workplaceRights": 50,
@@ -1751,175 +3082,203 @@
       "governmentResponsiveness": 50,
       "socialInclusion": 50
     },
-    "sourcesUsed": 4,
-    "population": 70,
-    "gdpPerCapita": 7066,
+    "sourcesUsed": 3,
+    "population": 2,
+    "gdpPerCapita": 778,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Challenges in democratic institutions (40%)"
+      "Overall fairness score: 49%"
     ]
   },
   {
-    "iso3": "SGP",
-    "name": "Singapore",
-    "region": "asia",
-    "subregion": "southeast",
+    "iso3": "MDA",
+    "name": "Moldova",
+    "region": "europe",
+    "subregion": "eastern",
     "fairnessScore": 48,
     "dimensions": {
-      "democraticVoice": 43,
-      "pressFreedom": 41,
-      "justiceAccess": 50,
+      "democraticVoice": 60,
+      "pressFreedom": 60,
+      "justiceAccess": 28,
       "economicOpportunity": 50,
-      "workplaceRights": 53,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 53
+      "workplaceRights": 58,
+      "healthcareAccess": 62,
+      "housingSecurity": 28,
+      "consumerProtection": 28,
+      "governmentResponsiveness": 28,
+      "socialInclusion": 63
     },
-    "sourcesUsed": 4,
-    "population": 5.5,
-    "gdpPerCapita": 64103,
+    "sourcesUsed": 7,
+    "population": 2.6,
+    "gdpPerCapita": 5563,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Overall fairness score: 48%"
+      "Challenges in government responsiveness (28%)"
     ]
   },
   {
-    "iso3": "TZA",
-    "name": "Tanzania",
+    "iso3": "ECU",
+    "name": "Ecuador",
+    "region": "americas",
+    "subregion": "south",
+    "fairnessScore": 48,
+    "dimensions": {
+      "democraticVoice": 60,
+      "pressFreedom": 46,
+      "justiceAccess": 37,
+      "economicOpportunity": 50,
+      "workplaceRights": 40,
+      "healthcareAccess": 67,
+      "housingSecurity": 37,
+      "consumerProtection": 37,
+      "governmentResponsiveness": 37,
+      "socialInclusion": 62
+    },
+    "sourcesUsed": 7,
+    "population": 18,
+    "gdpPerCapita": 6181,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in government responsiveness (37%)"
+    ]
+  },
+  {
+    "iso3": "ZMB",
+    "name": "Zambia",
+    "region": "africa",
+    "subregion": "southern",
+    "fairnessScore": 48,
+    "dimensions": {
+      "democraticVoice": 65,
+      "pressFreedom": 63,
+      "justiceAccess": 34,
+      "economicOpportunity": 50,
+      "workplaceRights": 41,
+      "healthcareAccess": 48,
+      "housingSecurity": 34,
+      "consumerProtection": 34,
+      "governmentResponsiveness": 34,
+      "socialInclusion": 63
+    },
+    "sourcesUsed": 6,
+    "population": 19,
+    "gdpPerCapita": 1095,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in government responsiveness (34%)"
+    ]
+  },
+  {
+    "iso3": "LKA",
+    "name": "Sri Lanka",
+    "region": "asia",
+    "subregion": "south",
+    "fairnessScore": 48,
+    "dimensions": {
+      "democraticVoice": 53,
+      "pressFreedom": 55,
+      "justiceAccess": 36,
+      "economicOpportunity": 50,
+      "workplaceRights": 56,
+      "healthcareAccess": 61,
+      "housingSecurity": 36,
+      "consumerProtection": 36,
+      "governmentResponsiveness": 36,
+      "socialInclusion": 55
+    },
+    "sourcesUsed": 6,
+    "population": 22,
+    "gdpPerCapita": 3815,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in government responsiveness (36%)"
+    ]
+  },
+  {
+    "iso3": "KEN",
+    "name": "Kenya",
     "region": "africa",
     "subregion": "east",
     "fairnessScore": 47,
     "dimensions": {
-      "democraticVoice": 43,
-      "pressFreedom": 40,
-      "justiceAccess": 50,
+      "democraticVoice": 60,
+      "pressFreedom": 54,
+      "justiceAccess": 32,
       "economicOpportunity": 50,
-      "workplaceRights": 48,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 48
-    },
-    "sourcesUsed": 4,
-    "population": 62,
-    "gdpPerCapita": 1136,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Challenges in press freedom (40%)"
-    ]
-  },
-  {
-    "iso3": "TUN",
-    "name": "Tunisia",
-    "region": "africa",
-    "subregion": "north",
-    "fairnessScore": 46,
-    "dimensions": {
-      "democraticVoice": 40,
-      "pressFreedom": 31,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 55,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 55
-    },
-    "sourcesUsed": 4,
-    "population": 12,
-    "gdpPerCapita": 3807,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Challenges in press freedom (31%)"
-    ]
-  },
-  {
-    "iso3": "MAR",
-    "name": "Morocco",
-    "region": "africa",
-    "subregion": "north",
-    "fairnessScore": 44,
-    "dimensions": {
-      "democraticVoice": 30,
-      "pressFreedom": 36,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 42,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 42
-    },
-    "sourcesUsed": 4,
-    "population": 37,
-    "gdpPerCapita": 3795,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Challenges in democratic institutions (30%)"
-    ]
-  },
-  {
-    "iso3": "IRQ",
-    "name": "Iraq",
-    "region": "asia",
-    "subregion": "middle-east",
-    "fairnessScore": 44,
-    "dimensions": {
-      "democraticVoice": 43,
-      "pressFreedom": 22,
-      "justiceAccess": 50,
-      "economicOpportunity": 50,
-      "workplaceRights": 43,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 43
-    },
-    "sourcesUsed": 4,
-    "population": 42,
-    "gdpPerCapita": 4775,
-    "trend": "stable",
-    "trendChange": 0,
-    "keyFacts": [
-      "Challenges in press freedom (22%)"
-    ]
-  },
-  {
-    "iso3": "BIH",
-    "name": "Bosnia and Herzegovina",
-    "region": "europe",
-    "subregion": "balkans",
-    "fairnessScore": 43,
-    "dimensions": {
-      "democraticVoice": 51,
-      "pressFreedom": 52,
-      "justiceAccess": 41,
-      "economicOpportunity": 31,
-      "workplaceRights": 53,
-      "healthcareAccess": 31,
-      "housingSecurity": 31,
-      "consumerProtection": 35,
-      "governmentResponsiveness": 38,
-      "socialInclusion": 53
+      "workplaceRights": 57,
+      "healthcareAccess": 49,
+      "housingSecurity": 32,
+      "consumerProtection": 32,
+      "governmentResponsiveness": 32,
+      "socialInclusion": 58
     },
     "sourcesUsed": 7,
-    "population": 3.3,
-    "gdpPerCapita": 7585,
+    "population": 54,
+    "gdpPerCapita": 2007,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Challenges in housing security (31%)"
+      "Challenges in government responsiveness (32%)"
+    ]
+  },
+  {
+    "iso3": "KWT",
+    "name": "Kuwait",
+    "region": "asia",
+    "subregion": "middle-east",
+    "fairnessScore": 47,
+    "dimensions": {
+      "democraticVoice": 35,
+      "pressFreedom": 42,
+      "justiceAccess": 49,
+      "economicOpportunity": 50,
+      "workplaceRights": 35,
+      "healthcareAccess": 76,
+      "housingSecurity": 49,
+      "consumerProtection": 49,
+      "governmentResponsiveness": 49,
+      "socialInclusion": 42
+    },
+    "sourcesUsed": 6,
+    "population": 4.3,
+    "gdpPerCapita": 24812,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong healthcare access (76%)",
+      "Challenges in workplace rights (35%)"
+    ]
+  },
+  {
+    "iso3": "SLV",
+    "name": "El Salvador",
+    "region": "americas",
+    "subregion": "central",
+    "fairnessScore": 47,
+    "dimensions": {
+      "democraticVoice": 50,
+      "pressFreedom": 57,
+      "justiceAccess": 36,
+      "economicOpportunity": 50,
+      "workplaceRights": 39,
+      "healthcareAccess": 63,
+      "housingSecurity": 36,
+      "consumerProtection": 36,
+      "governmentResponsiveness": 36,
+      "socialInclusion": 57
+    },
+    "sourcesUsed": 6,
+    "population": 6.5,
+    "gdpPerCapita": 4551,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in government responsiveness (36%)"
     ]
   },
   {
@@ -1927,20 +3286,20 @@
     "name": "Jordan",
     "region": "asia",
     "subregion": "middle-east",
-    "fairnessScore": 42,
+    "fairnessScore": 46,
     "dimensions": {
       "democraticVoice": 28,
       "pressFreedom": 34,
-      "justiceAccess": 50,
+      "justiceAccess": 51,
       "economicOpportunity": 50,
-      "workplaceRights": 37,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
+      "workplaceRights": 51,
+      "healthcareAccess": 67,
+      "housingSecurity": 51,
+      "consumerProtection": 51,
+      "governmentResponsiveness": 51,
       "socialInclusion": 37
     },
-    "sourcesUsed": 4,
+    "sourcesUsed": 7,
     "population": 10,
     "gdpPerCapita": 4103,
     "trend": "stable",
@@ -1950,26 +3309,407 @@
     ]
   },
   {
-    "iso3": "ETH",
-    "name": "Ethiopia",
+    "iso3": "CIV",
+    "name": "Côte d'Ivoire",
+    "region": "africa",
+    "subregion": "west",
+    "fairnessScore": 46,
+    "dimensions": {
+      "democraticVoice": 55,
+      "pressFreedom": 60,
+      "justiceAccess": 35,
+      "economicOpportunity": 50,
+      "workplaceRights": 40,
+      "healthcareAccess": 45,
+      "housingSecurity": 35,
+      "consumerProtection": 35,
+      "governmentResponsiveness": 35,
+      "socialInclusion": 60
+    },
+    "sourcesUsed": 6,
+    "population": 27,
+    "gdpPerCapita": 2549,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in government responsiveness (35%)"
+    ]
+  },
+  {
+    "iso3": "QAT",
+    "name": "Qatar",
+    "region": "asia",
+    "subregion": "middle-east",
+    "fairnessScore": 46,
+    "dimensions": {
+      "democraticVoice": 15,
+      "pressFreedom": 28,
+      "justiceAccess": 62,
+      "economicOpportunity": 50,
+      "workplaceRights": 32,
+      "healthcareAccess": 80,
+      "housingSecurity": 62,
+      "consumerProtection": 62,
+      "governmentResponsiveness": 62,
+      "socialInclusion": 28
+    },
+    "sourcesUsed": 6,
+    "population": 2.9,
+    "gdpPerCapita": 66838,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong healthcare access (80%)",
+      "Challenges in democratic institutions (15%)"
+    ]
+  },
+  {
+    "iso3": "THA",
+    "name": "Thailand",
+    "region": "asia",
+    "subregion": "southeast",
+    "fairnessScore": 44,
+    "dimensions": {
+      "democraticVoice": 40,
+      "pressFreedom": 44,
+      "justiceAccess": 39,
+      "economicOpportunity": 50,
+      "workplaceRights": 37,
+      "healthcareAccess": 70,
+      "housingSecurity": 39,
+      "consumerProtection": 39,
+      "governmentResponsiveness": 39,
+      "socialInclusion": 50
+    },
+    "sourcesUsed": 7,
+    "population": 70,
+    "gdpPerCapita": 7066,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong healthcare access (70%)",
+      "Challenges in workplace rights (37%)"
+    ]
+  },
+  {
+    "iso3": "TUN",
+    "name": "Tunisia",
+    "region": "africa",
+    "subregion": "north",
+    "fairnessScore": 44,
+    "dimensions": {
+      "democraticVoice": 40,
+      "pressFreedom": 31,
+      "justiceAccess": 39,
+      "economicOpportunity": 50,
+      "workplaceRights": 56,
+      "healthcareAccess": 65,
+      "housingSecurity": 39,
+      "consumerProtection": 39,
+      "governmentResponsiveness": 39,
+      "socialInclusion": 55
+    },
+    "sourcesUsed": 7,
+    "population": 12,
+    "gdpPerCapita": 3807,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in press freedom (31%)"
+    ]
+  },
+  {
+    "iso3": "TGO",
+    "name": "Togo",
+    "region": "africa",
+    "subregion": "west",
+    "fairnessScore": 44,
+    "dimensions": {
+      "democraticVoice": 33,
+      "pressFreedom": 40,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 40,
+      "healthcareAccess": 41,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 40
+    },
+    "sourcesUsed": 4,
+    "population": 8.6,
+    "gdpPerCapita": 915,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in democratic institutions (33%)"
+    ]
+  },
+  {
+    "iso3": "TUR",
+    "name": "Turkey",
+    "region": "asia",
+    "subregion": "middle-east",
+    "fairnessScore": 44,
+    "dimensions": {
+      "democraticVoice": 30,
+      "pressFreedom": 37,
+      "justiceAccess": 46,
+      "economicOpportunity": 50,
+      "workplaceRights": 35,
+      "healthcareAccess": 73,
+      "housingSecurity": 46,
+      "consumerProtection": 46,
+      "governmentResponsiveness": 46,
+      "socialInclusion": 40
+    },
+    "sourcesUsed": 7,
+    "population": 85,
+    "gdpPerCapita": 9586,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong healthcare access (73%)",
+      "Challenges in democratic institutions (30%)"
+    ]
+  },
+  {
+    "iso3": "GTM",
+    "name": "Guatemala",
+    "region": "americas",
+    "subregion": "central",
+    "fairnessScore": 44,
+    "dimensions": {
+      "democraticVoice": 57,
+      "pressFreedom": 58,
+      "justiceAccess": 27,
+      "economicOpportunity": 50,
+      "workplaceRights": 39,
+      "healthcareAccess": 56,
+      "housingSecurity": 27,
+      "consumerProtection": 27,
+      "governmentResponsiveness": 27,
+      "socialInclusion": 58
+    },
+    "sourcesUsed": 6,
+    "population": 18,
+    "gdpPerCapita": 5025,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in government responsiveness (27%)"
+    ]
+  },
+  {
+    "iso3": "LBN",
+    "name": "Lebanon",
+    "region": "asia",
+    "subregion": "middle-east",
+    "fairnessScore": 43,
+    "dimensions": {
+      "democraticVoice": 55,
+      "pressFreedom": 41,
+      "justiceAccess": 30,
+      "economicOpportunity": 50,
+      "workplaceRights": 39,
+      "healthcareAccess": 61,
+      "housingSecurity": 30,
+      "consumerProtection": 30,
+      "governmentResponsiveness": 30,
+      "socialInclusion": 55
+    },
+    "sourcesUsed": 7,
+    "population": 5.5,
+    "gdpPerCapita": 4136,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in government responsiveness (30%)"
+    ]
+  },
+  {
+    "iso3": "MDG",
+    "name": "Madagascar",
     "region": "africa",
     "subregion": "east",
+    "fairnessScore": 43,
+    "dimensions": {
+      "democraticVoice": 57,
+      "pressFreedom": 58,
+      "justiceAccess": 25,
+      "economicOpportunity": 50,
+      "workplaceRights": 58,
+      "healthcareAccess": 35,
+      "housingSecurity": 25,
+      "consumerProtection": 25,
+      "governmentResponsiveness": 25,
+      "socialInclusion": 58
+    },
+    "sourcesUsed": 5,
+    "population": 29,
+    "gdpPerCapita": 515,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in government responsiveness (25%)"
+    ]
+  },
+  {
+    "iso3": "KGZ",
+    "name": "Kyrgyzstan",
+    "region": "asia",
+    "subregion": "central",
+    "fairnessScore": 43,
+    "dimensions": {
+      "democraticVoice": 25,
+      "pressFreedom": 43,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 19,
+      "healthcareAccess": 58,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 43
+    },
+    "sourcesUsed": 5,
+    "population": 6.7,
+    "gdpPerCapita": 1276,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in workplace rights (19%)"
+    ]
+  },
+  {
+    "iso3": "MAR",
+    "name": "Morocco",
+    "region": "africa",
+    "subregion": "north",
+    "fairnessScore": 42,
+    "dimensions": {
+      "democraticVoice": 30,
+      "pressFreedom": 36,
+      "justiceAccess": 38,
+      "economicOpportunity": 50,
+      "workplaceRights": 53,
+      "healthcareAccess": 60,
+      "housingSecurity": 38,
+      "consumerProtection": 38,
+      "governmentResponsiveness": 38,
+      "socialInclusion": 42
+    },
+    "sourcesUsed": 7,
+    "population": 37,
+    "gdpPerCapita": 3795,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in democratic institutions (30%)"
+    ]
+  },
+  {
+    "iso3": "NGA",
+    "name": "Nigeria",
+    "region": "africa",
+    "subregion": "west",
+    "fairnessScore": 42,
+    "dimensions": {
+      "democraticVoice": 55,
+      "pressFreedom": 45,
+      "justiceAccess": 32,
+      "economicOpportunity": 50,
+      "workplaceRights": 39,
+      "healthcareAccess": 43,
+      "housingSecurity": 32,
+      "consumerProtection": 32,
+      "governmentResponsiveness": 32,
+      "socialInclusion": 55
+    },
+    "sourcesUsed": 7,
+    "population": 213,
+    "gdpPerCapita": 2066,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in government responsiveness (32%)"
+    ]
+  },
+  {
+    "iso3": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "region": "europe",
+    "subregion": "balkans",
+    "fairnessScore": 41,
+    "dimensions": {
+      "democraticVoice": 50,
+      "pressFreedom": 52,
+      "justiceAccess": 39,
+      "economicOpportunity": 31,
+      "workplaceRights": 41,
+      "healthcareAccess": 31,
+      "housingSecurity": 33,
+      "consumerProtection": 37,
+      "governmentResponsiveness": 38,
+      "socialInclusion": 53
+    },
+    "sourcesUsed": 9,
+    "population": 3.3,
+    "gdpPerCapita": 7585,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in healthcare access (31%)"
+    ]
+  },
+  {
+    "iso3": "NER",
+    "name": "Niger",
+    "region": "africa",
+    "subregion": "west",
+    "fairnessScore": 41,
+    "dimensions": {
+      "democraticVoice": 45,
+      "pressFreedom": 50,
+      "justiceAccess": 30,
+      "economicOpportunity": 50,
+      "workplaceRights": 50,
+      "healthcareAccess": 38,
+      "housingSecurity": 30,
+      "consumerProtection": 30,
+      "governmentResponsiveness": 30,
+      "socialInclusion": 50
+    },
+    "sourcesUsed": 5,
+    "population": 26,
+    "gdpPerCapita": 554,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in government responsiveness (30%)"
+    ]
+  },
+  {
+    "iso3": "MRT",
+    "name": "Mauritania",
+    "region": "africa",
+    "subregion": "west",
     "fairnessScore": 41,
     "dimensions": {
       "democraticVoice": 25,
-      "pressFreedom": 31,
+      "pressFreedom": 37,
       "justiceAccess": 50,
       "economicOpportunity": 50,
       "workplaceRights": 37,
-      "healthcareAccess": 50,
+      "healthcareAccess": 38,
       "housingSecurity": 50,
       "consumerProtection": 50,
       "governmentResponsiveness": 50,
       "socialInclusion": 37
     },
     "sourcesUsed": 4,
-    "population": 118,
-    "gdpPerCapita": 944,
+    "population": 4.8,
+    "gdpPerCapita": 1679,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
@@ -1977,57 +3717,248 @@
     ]
   },
   {
-    "iso3": "ARE",
-    "name": "United Arab Emirates",
-    "region": "asia",
-    "subregion": "middle-east",
-    "fairnessScore": 38,
+    "iso3": "TZA",
+    "name": "Tanzania",
+    "region": "africa",
+    "subregion": "east",
+    "fairnessScore": 40,
     "dimensions": {
-      "democraticVoice": 13,
-      "pressFreedom": 31,
-      "justiceAccess": 50,
+      "democraticVoice": 43,
+      "pressFreedom": 40,
+      "justiceAccess": 35,
       "economicOpportunity": 50,
-      "workplaceRights": 27,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 27
+      "workplaceRights": 37,
+      "healthcareAccess": 47,
+      "housingSecurity": 35,
+      "consumerProtection": 35,
+      "governmentResponsiveness": 35,
+      "socialInclusion": 48
     },
-    "sourcesUsed": 4,
-    "population": 10,
-    "gdpPerCapita": 43103,
+    "sourcesUsed": 7,
+    "population": 62,
+    "gdpPerCapita": 1136,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Challenges in democratic institutions (13%)"
+      "Challenges in government responsiveness (35%)"
     ]
   },
   {
-    "iso3": "VNM",
-    "name": "Vietnam",
-    "region": "asia",
-    "subregion": "southeast",
-    "fairnessScore": 36,
+    "iso3": "BFA",
+    "name": "Burkina Faso",
+    "region": "africa",
+    "subregion": "west",
+    "fairnessScore": 40,
     "dimensions": {
-      "democraticVoice": 8,
-      "pressFreedom": 20,
-      "justiceAccess": 50,
+      "democraticVoice": 36,
+      "pressFreedom": 47,
+      "justiceAccess": 36,
       "economicOpportunity": 50,
-      "workplaceRights": 27,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 27
+      "workplaceRights": 41,
+      "healthcareAccess": 37,
+      "housingSecurity": 43,
+      "consumerProtection": 34,
+      "governmentResponsiveness": 32,
+      "socialInclusion": 41
     },
-    "sourcesUsed": 4,
-    "population": 98,
-    "gdpPerCapita": 3756,
+    "sourcesUsed": 9,
+    "population": 22,
+    "gdpPerCapita": 831,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Challenges in democratic institutions (8%)"
+      "Challenges in government responsiveness (32%)"
+    ]
+  },
+  {
+    "iso3": "MOZ",
+    "name": "Mozambique",
+    "region": "africa",
+    "subregion": "southern",
+    "fairnessScore": 40,
+    "dimensions": {
+      "democraticVoice": 53,
+      "pressFreedom": 53,
+      "justiceAccess": 26,
+      "economicOpportunity": 50,
+      "workplaceRights": 38,
+      "healthcareAccess": 39,
+      "housingSecurity": 26,
+      "consumerProtection": 26,
+      "governmentResponsiveness": 26,
+      "socialInclusion": 53
+    },
+    "sourcesUsed": 6,
+    "population": 32,
+    "gdpPerCapita": 504,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in government responsiveness (26%)"
+    ]
+  },
+  {
+    "iso3": "BHR",
+    "name": "Bahrain",
+    "region": "asia",
+    "subregion": "middle-east",
+    "fairnessScore": 40,
+    "dimensions": {
+      "democraticVoice": 16,
+      "pressFreedom": 22,
+      "justiceAccess": 44,
+      "economicOpportunity": 64,
+      "workplaceRights": 29,
+      "healthcareAccess": 71,
+      "housingSecurity": 58,
+      "consumerProtection": 52,
+      "governmentResponsiveness": 44,
+      "socialInclusion": 22
+    },
+    "sourcesUsed": 9,
+    "population": 1.5,
+    "gdpPerCapita": 25293,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong healthcare access (71%)",
+      "Challenges in democratic institutions (16%)"
+    ]
+  },
+  {
+    "iso3": "OMN",
+    "name": "Oman",
+    "region": "asia",
+    "subregion": "middle-east",
+    "fairnessScore": 40,
+    "dimensions": {
+      "democraticVoice": 15,
+      "pressFreedom": 28,
+      "justiceAccess": 46,
+      "economicOpportunity": 50,
+      "workplaceRights": 32,
+      "healthcareAccess": 75,
+      "housingSecurity": 46,
+      "consumerProtection": 46,
+      "governmentResponsiveness": 46,
+      "socialInclusion": 28
+    },
+    "sourcesUsed": 6,
+    "population": 5.2,
+    "gdpPerCapita": 19509,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong healthcare access (75%)",
+      "Challenges in democratic institutions (15%)"
+    ]
+  },
+  {
+    "iso3": "HND",
+    "name": "Honduras",
+    "region": "americas",
+    "subregion": "central",
+    "fairnessScore": 40,
+    "dimensions": {
+      "democraticVoice": 53,
+      "pressFreedom": 55,
+      "justiceAccess": 20,
+      "economicOpportunity": 50,
+      "workplaceRights": 39,
+      "healthcareAccess": 56,
+      "housingSecurity": 20,
+      "consumerProtection": 20,
+      "governmentResponsiveness": 20,
+      "socialInclusion": 55
+    },
+    "sourcesUsed": 6,
+    "population": 10,
+    "gdpPerCapita": 2831,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in government responsiveness (20%)"
+    ]
+  },
+  {
+    "iso3": "GIN",
+    "name": "Guinea",
+    "region": "africa",
+    "subregion": "west",
+    "fairnessScore": 39,
+    "dimensions": {
+      "democraticVoice": 20,
+      "pressFreedom": 30,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 30,
+      "healthcareAccess": 40,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 30
+    },
+    "sourcesUsed": 4,
+    "population": 14,
+    "gdpPerCapita": 1166,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in democratic institutions (20%)"
+    ]
+  },
+  {
+    "iso3": "GAB",
+    "name": "Gabon",
+    "region": "africa",
+    "subregion": "central",
+    "fairnessScore": 39,
+    "dimensions": {
+      "democraticVoice": 20,
+      "pressFreedom": 30,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 30,
+      "healthcareAccess": 41,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 30
+    },
+    "sourcesUsed": 4,
+    "population": 2.3,
+    "gdpPerCapita": 8017,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in democratic institutions (20%)"
+    ]
+  },
+  {
+    "iso3": "BGD",
+    "name": "Bangladesh",
+    "region": "asia",
+    "subregion": "south",
+    "fairnessScore": 39,
+    "dimensions": {
+      "democraticVoice": 38,
+      "pressFreedom": 35,
+      "justiceAccess": 31,
+      "economicOpportunity": 60,
+      "workplaceRights": 23,
+      "healthcareAccess": 47,
+      "housingSecurity": 51,
+      "consumerProtection": 32,
+      "governmentResponsiveness": 34,
+      "socialInclusion": 41
+    },
+    "sourcesUsed": 11,
+    "population": 170,
+    "gdpPerCapita": 2458,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in workplace rights (23%)"
     ]
   },
   {
@@ -2035,20 +3966,20 @@
     "name": "Rwanda",
     "region": "africa",
     "subregion": "east",
-    "fairnessScore": 36,
+    "fairnessScore": 38,
     "dimensions": {
       "democraticVoice": 18,
       "pressFreedom": 14,
-      "justiceAccess": 50,
+      "justiceAccess": 55,
       "economicOpportunity": 50,
       "workplaceRights": 25,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
+      "healthcareAccess": 49,
+      "housingSecurity": 55,
+      "consumerProtection": 55,
+      "governmentResponsiveness": 55,
       "socialInclusion": 25
     },
-    "sourcesUsed": 4,
+    "sourcesUsed": 6,
     "population": 13,
     "gdpPerCapita": 822,
     "trend": "stable",
@@ -2058,45 +3989,180 @@
     ]
   },
   {
-    "iso3": "RUS",
-    "name": "Russia",
-    "region": "europe",
-    "subregion": "eastern",
-    "fairnessScore": 35,
+    "iso3": "COG",
+    "name": "Congo",
+    "region": "africa",
+    "subregion": "central",
+    "fairnessScore": 38,
     "dimensions": {
-      "democraticVoice": 13,
-      "pressFreedom": 22,
+      "democraticVoice": 20,
+      "pressFreedom": 28,
       "justiceAccess": 50,
       "economicOpportunity": 50,
-      "workplaceRights": 18,
-      "healthcareAccess": 50,
+      "workplaceRights": 28,
+      "healthcareAccess": 41,
       "housingSecurity": 50,
       "consumerProtection": 50,
       "governmentResponsiveness": 50,
-      "socialInclusion": 18
+      "socialInclusion": 28
     },
     "sourcesUsed": 4,
-    "population": 144,
-    "gdpPerCapita": 12195,
+    "population": 5.8,
+    "gdpPerCapita": 2280,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Challenges in democratic institutions (13%)",
-      "Significant fairness challenges"
+      "Challenges in democratic institutions (20%)"
     ]
   },
   {
-    "iso3": "VEN",
-    "name": "Venezuela",
-    "region": "americas",
+    "iso3": "MLI",
+    "name": "Mali",
+    "region": "africa",
+    "subregion": "west",
+    "fairnessScore": 37,
+    "dimensions": {
+      "democraticVoice": 30,
+      "pressFreedom": 43,
+      "justiceAccess": 29,
+      "economicOpportunity": 50,
+      "workplaceRights": 43,
+      "healthcareAccess": 40,
+      "housingSecurity": 29,
+      "consumerProtection": 29,
+      "governmentResponsiveness": 29,
+      "socialInclusion": 43
+    },
+    "sourcesUsed": 5,
+    "population": 22,
+    "gdpPerCapita": 918,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in government responsiveness (29%)"
+    ]
+  },
+  {
+    "iso3": "PAK",
+    "name": "Pakistan",
+    "region": "asia",
     "subregion": "south",
+    "fairnessScore": 37,
+    "dimensions": {
+      "democraticVoice": 30,
+      "pressFreedom": 33,
+      "justiceAccess": 36,
+      "economicOpportunity": 50,
+      "workplaceRights": 35,
+      "healthcareAccess": 43,
+      "housingSecurity": 36,
+      "consumerProtection": 36,
+      "governmentResponsiveness": 36,
+      "socialInclusion": 40
+    },
+    "sourcesUsed": 7,
+    "population": 231,
+    "gdpPerCapita": 1505,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in democratic institutions (30%)"
+    ]
+  },
+  {
+    "iso3": "PSE",
+    "name": "Palestine",
+    "region": "asia",
+    "subregion": "middle-east",
+    "fairnessScore": 37,
+    "dimensions": {
+      "democraticVoice": 18,
+      "pressFreedom": 30,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 8,
+      "healthcareAccess": 52,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 30
+    },
+    "sourcesUsed": 5,
+    "population": 5.2,
+    "gdpPerCapita": 3664,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in workplace rights (8%)"
+    ]
+  },
+  {
+    "iso3": "SAU",
+    "name": "Saudi Arabia",
+    "region": "asia",
+    "subregion": "middle-east",
+    "fairnessScore": 36,
+    "dimensions": {
+      "democraticVoice": 3,
+      "pressFreedom": 15,
+      "justiceAccess": 49,
+      "economicOpportunity": 50,
+      "workplaceRights": 28,
+      "healthcareAccess": 75,
+      "housingSecurity": 49,
+      "consumerProtection": 49,
+      "governmentResponsiveness": 49,
+      "socialInclusion": 12
+    },
+    "sourcesUsed": 7,
+    "population": 35,
+    "gdpPerCapita": 23186,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong healthcare access (75%)",
+      "Challenges in democratic institutions (3%)"
+    ]
+  },
+  {
+    "iso3": "UGA",
+    "name": "Uganda",
+    "region": "africa",
+    "subregion": "east",
+    "fairnessScore": 36,
+    "dimensions": {
+      "democraticVoice": 35,
+      "pressFreedom": 43,
+      "justiceAccess": 26,
+      "economicOpportunity": 50,
+      "workplaceRights": 35,
+      "healthcareAccess": 46,
+      "housingSecurity": 26,
+      "consumerProtection": 26,
+      "governmentResponsiveness": 26,
+      "socialInclusion": 43
+    },
+    "sourcesUsed": 6,
+    "population": 47,
+    "gdpPerCapita": 883,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in government responsiveness (26%)"
+    ]
+  },
+  {
+    "iso3": "SWZ",
+    "name": "Eswatini",
+    "region": "africa",
+    "subregion": "southern",
     "fairnessScore": 35,
     "dimensions": {
       "democraticVoice": 10,
-      "pressFreedom": 20,
+      "pressFreedom": 23,
       "justiceAccess": 50,
       "economicOpportunity": 50,
-      "workplaceRights": 23,
+      "workplaceRights": 14,
       "healthcareAccess": 50,
       "housingSecurity": 50,
       "consumerProtection": 50,
@@ -2104,8 +4170,8 @@
       "socialInclusion": 23
     },
     "sourcesUsed": 4,
-    "population": 28,
-    "gdpPerCapita": 3740,
+    "population": 1.2,
+    "gdpPerCapita": 3987,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
@@ -2114,24 +4180,278 @@
     ]
   },
   {
+    "iso3": "VNM",
+    "name": "Vietnam",
+    "region": "asia",
+    "subregion": "southeast",
+    "fairnessScore": 34,
+    "dimensions": {
+      "democraticVoice": 8,
+      "pressFreedom": 20,
+      "justiceAccess": 39,
+      "economicOpportunity": 50,
+      "workplaceRights": 32,
+      "healthcareAccess": 65,
+      "housingSecurity": 39,
+      "consumerProtection": 39,
+      "governmentResponsiveness": 39,
+      "socialInclusion": 27
+    },
+    "sourcesUsed": 7,
+    "population": 98,
+    "gdpPerCapita": 3756,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in democratic institutions (8%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "ETH",
+    "name": "Ethiopia",
+    "region": "africa",
+    "subregion": "east",
+    "fairnessScore": 34,
+    "dimensions": {
+      "democraticVoice": 25,
+      "pressFreedom": 31,
+      "justiceAccess": 34,
+      "economicOpportunity": 50,
+      "workplaceRights": 34,
+      "healthcareAccess": 39,
+      "housingSecurity": 34,
+      "consumerProtection": 34,
+      "governmentResponsiveness": 34,
+      "socialInclusion": 37
+    },
+    "sourcesUsed": 7,
+    "population": 118,
+    "gdpPerCapita": 944,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in democratic institutions (25%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "KAZ",
+    "name": "Kazakhstan",
+    "region": "asia",
+    "subregion": "central",
+    "fairnessScore": 34,
+    "dimensions": {
+      "democraticVoice": 10,
+      "pressFreedom": 30,
+      "justiceAccess": 34,
+      "economicOpportunity": 50,
+      "workplaceRights": 32,
+      "healthcareAccess": 59,
+      "housingSecurity": 34,
+      "consumerProtection": 34,
+      "governmentResponsiveness": 34,
+      "socialInclusion": 30
+    },
+    "sourcesUsed": 6,
+    "population": 19,
+    "gdpPerCapita": 10373,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in democratic institutions (10%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "CHN",
+    "name": "China",
+    "region": "asia",
+    "subregion": "east",
+    "fairnessScore": 33,
+    "dimensions": {
+      "democraticVoice": 0,
+      "pressFreedom": 12,
+      "justiceAccess": 45,
+      "economicOpportunity": 50,
+      "workplaceRights": 29,
+      "healthcareAccess": 70,
+      "housingSecurity": 45,
+      "consumerProtection": 45,
+      "governmentResponsiveness": 45,
+      "socialInclusion": 15
+    },
+    "sourcesUsed": 7,
+    "population": 1412,
+    "gdpPerCapita": 12720,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong healthcare access (70%)",
+      "Challenges in democratic institutions (0%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "AGO",
+    "name": "Angola",
+    "region": "africa",
+    "subregion": "southern",
+    "fairnessScore": 33,
+    "dimensions": {
+      "democraticVoice": 32,
+      "pressFreedom": 37,
+      "justiceAccess": 31,
+      "economicOpportunity": 30,
+      "workplaceRights": 34,
+      "healthcareAccess": 38,
+      "housingSecurity": 29,
+      "consumerProtection": 29,
+      "governmentResponsiveness": 30,
+      "socialInclusion": 36
+    },
+    "sourcesUsed": 10,
+    "population": 34,
+    "gdpPerCapita": 1896,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in consumer protection (29%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "DZA",
+    "name": "Algeria",
+    "region": "africa",
+    "subregion": "north",
+    "fairnessScore": 33,
+    "dimensions": {
+      "democraticVoice": 25,
+      "pressFreedom": 27,
+      "justiceAccess": 33,
+      "economicOpportunity": 37,
+      "workplaceRights": 31,
+      "healthcareAccess": 56,
+      "housingSecurity": 35,
+      "consumerProtection": 34,
+      "governmentResponsiveness": 32,
+      "socialInclusion": 29
+    },
+    "sourcesUsed": 9,
+    "population": 45,
+    "gdpPerCapita": 3691,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in democratic institutions (25%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "UZB",
+    "name": "Uzbekistan",
+    "region": "asia",
+    "subregion": "central",
+    "fairnessScore": 33,
+    "dimensions": {
+      "democraticVoice": 5,
+      "pressFreedom": 15,
+      "justiceAccess": 50,
+      "economicOpportunity": 50,
+      "workplaceRights": 12,
+      "healthcareAccess": 58,
+      "housingSecurity": 50,
+      "consumerProtection": 50,
+      "governmentResponsiveness": 50,
+      "socialInclusion": 15
+    },
+    "sourcesUsed": 5,
+    "population": 34,
+    "gdpPerCapita": 1983,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in democratic institutions (5%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "RUS",
+    "name": "Russia",
+    "region": "europe",
+    "subregion": "eastern",
+    "fairnessScore": 32,
+    "dimensions": {
+      "democraticVoice": 13,
+      "pressFreedom": 22,
+      "justiceAccess": 30,
+      "economicOpportunity": 50,
+      "workplaceRights": 29,
+      "healthcareAccess": 70,
+      "housingSecurity": 30,
+      "consumerProtection": 30,
+      "governmentResponsiveness": 30,
+      "socialInclusion": 18
+    },
+    "sourcesUsed": 7,
+    "population": 144,
+    "gdpPerCapita": 12195,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong healthcare access (70%)",
+      "Challenges in democratic institutions (13%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "BLR",
+    "name": "Belarus",
+    "region": "europe",
+    "subregion": "eastern",
+    "fairnessScore": 32,
+    "dimensions": {
+      "democraticVoice": 11,
+      "pressFreedom": 18,
+      "justiceAccess": 31,
+      "economicOpportunity": 66,
+      "workplaceRights": 12,
+      "healthcareAccess": 59,
+      "housingSecurity": 54,
+      "consumerProtection": 33,
+      "governmentResponsiveness": 26,
+      "socialInclusion": 14
+    },
+    "sourcesUsed": 11,
+    "population": 9.4,
+    "gdpPerCapita": 7302,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in democratic institutions (11%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
     "iso3": "EGY",
     "name": "Egypt",
     "region": "africa",
     "subregion": "north",
-    "fairnessScore": 35,
+    "fairnessScore": 32,
     "dimensions": {
       "democraticVoice": 15,
       "pressFreedom": 17,
-      "justiceAccess": 50,
+      "justiceAccess": 35,
       "economicOpportunity": 50,
-      "workplaceRights": 20,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
+      "workplaceRights": 30,
+      "healthcareAccess": 62,
+      "housingSecurity": 35,
+      "consumerProtection": 35,
+      "governmentResponsiveness": 35,
       "socialInclusion": 20
     },
-    "sourcesUsed": 4,
+    "sourcesUsed": 7,
     "population": 104,
     "gdpPerCapita": 3548,
     "trend": "stable",
@@ -2142,24 +4462,192 @@
     ]
   },
   {
+    "iso3": "IRQ",
+    "name": "Iraq",
+    "region": "asia",
+    "subregion": "middle-east",
+    "fairnessScore": 32,
+    "dimensions": {
+      "democraticVoice": 43,
+      "pressFreedom": 22,
+      "justiceAccess": 21,
+      "economicOpportunity": 50,
+      "workplaceRights": 19,
+      "healthcareAccess": 60,
+      "housingSecurity": 21,
+      "consumerProtection": 21,
+      "governmentResponsiveness": 21,
+      "socialInclusion": 43
+    },
+    "sourcesUsed": 7,
+    "population": 42,
+    "gdpPerCapita": 4775,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in workplace rights (19%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "ZWE",
+    "name": "Zimbabwe",
+    "region": "africa",
+    "subregion": "southern",
+    "fairnessScore": 32,
+    "dimensions": {
+      "democraticVoice": 25,
+      "pressFreedom": 33,
+      "justiceAccess": 25,
+      "economicOpportunity": 50,
+      "workplaceRights": 33,
+      "healthcareAccess": 44,
+      "housingSecurity": 25,
+      "consumerProtection": 25,
+      "governmentResponsiveness": 25,
+      "socialInclusion": 33
+    },
+    "sourcesUsed": 6,
+    "population": 16,
+    "gdpPerCapita": 1464,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in government responsiveness (25%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "AZE",
+    "name": "Azerbaijan",
+    "region": "europe",
+    "subregion": "caucasus",
+    "fairnessScore": 31,
+    "dimensions": {
+      "democraticVoice": 14,
+      "pressFreedom": 18,
+      "justiceAccess": 27,
+      "economicOpportunity": 49,
+      "workplaceRights": 27,
+      "healthcareAccess": 60,
+      "housingSecurity": 43,
+      "consumerProtection": 33,
+      "governmentResponsiveness": 34,
+      "socialInclusion": 18
+    },
+    "sourcesUsed": 10,
+    "population": 10.1,
+    "gdpPerCapita": 6054,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in democratic institutions (14%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "CMR",
+    "name": "Cameroon",
+    "region": "africa",
+    "subregion": "central",
+    "fairnessScore": 31,
+    "dimensions": {
+      "democraticVoice": 26,
+      "pressFreedom": 32,
+      "justiceAccess": 27,
+      "economicOpportunity": 32,
+      "workplaceRights": 32,
+      "healthcareAccess": 41,
+      "housingSecurity": 30,
+      "consumerProtection": 27,
+      "governmentResponsiveness": 29,
+      "socialInclusion": 31
+    },
+    "sourcesUsed": 9,
+    "population": 28,
+    "gdpPerCapita": 1662,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in democratic institutions (26%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "KHM",
+    "name": "Cambodia",
+    "region": "asia",
+    "subregion": "southeast",
+    "fairnessScore": 31,
+    "dimensions": {
+      "democraticVoice": 19,
+      "pressFreedom": 30,
+      "justiceAccess": 22,
+      "economicOpportunity": 44,
+      "workplaceRights": 31,
+      "healthcareAccess": 49,
+      "housingSecurity": 36,
+      "consumerProtection": 26,
+      "governmentResponsiveness": 29,
+      "socialInclusion": 27
+    },
+    "sourcesUsed": 9,
+    "population": 17,
+    "gdpPerCapita": 1625,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in democratic institutions (19%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "HTI",
+    "name": "Haiti",
+    "region": "americas",
+    "subregion": "caribbean",
+    "fairnessScore": 30,
+    "dimensions": {
+      "democraticVoice": 40,
+      "pressFreedom": 43,
+      "justiceAccess": 12,
+      "economicOpportunity": 50,
+      "workplaceRights": 35,
+      "healthcareAccess": 30,
+      "housingSecurity": 12,
+      "consumerProtection": 12,
+      "governmentResponsiveness": 12,
+      "socialInclusion": 43
+    },
+    "sourcesUsed": 6,
+    "population": 11,
+    "gdpPerCapita": 1653,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in government responsiveness (12%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
     "iso3": "IRN",
     "name": "Iran",
     "region": "asia",
     "subregion": "middle-east",
-    "fairnessScore": 34,
+    "fairnessScore": 29,
     "dimensions": {
       "democraticVoice": 10,
       "pressFreedom": 14,
-      "justiceAccess": 50,
+      "justiceAccess": 29,
       "economicOpportunity": 50,
-      "workplaceRights": 17,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
+      "workplaceRights": 29,
+      "healthcareAccess": 69,
+      "housingSecurity": 29,
+      "consumerProtection": 29,
+      "governmentResponsiveness": 29,
       "socialInclusion": 17
     },
-    "sourcesUsed": 4,
+    "sourcesUsed": 7,
     "population": 87,
     "gdpPerCapita": 4071,
     "trend": "stable",
@@ -2170,30 +4658,30 @@
     ]
   },
   {
-    "iso3": "CUB",
-    "name": "Cuba",
-    "region": "americas",
-    "subregion": "caribbean",
-    "fairnessScore": 33,
+    "iso3": "DJI",
+    "name": "Djibouti",
+    "region": "africa",
+    "subregion": "east",
+    "fairnessScore": 27,
     "dimensions": {
-      "democraticVoice": 3,
-      "pressFreedom": 14,
-      "justiceAccess": 50,
+      "democraticVoice": 13,
+      "pressFreedom": 23,
+      "justiceAccess": 22,
       "economicOpportunity": 50,
-      "workplaceRights": 18,
+      "workplaceRights": 23,
       "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 18
+      "housingSecurity": 22,
+      "consumerProtection": 22,
+      "governmentResponsiveness": 22,
+      "socialInclusion": 23
     },
     "sourcesUsed": 4,
-    "population": 11,
-    "gdpPerCapita": 9478,
+    "population": 1,
+    "gdpPerCapita": 3428,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Challenges in democratic institutions (3%)",
+      "Challenges in democratic institutions (13%)",
       "Significant fairness challenges"
     ]
   },
@@ -2202,20 +4690,20 @@
     "name": "Nicaragua",
     "region": "americas",
     "subregion": "central",
-    "fairnessScore": 33,
+    "fairnessScore": 26,
     "dimensions": {
       "democraticVoice": 10,
       "pressFreedom": 10,
-      "justiceAccess": 50,
+      "justiceAccess": 24,
       "economicOpportunity": 50,
-      "workplaceRights": 17,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
+      "workplaceRights": 29,
+      "healthcareAccess": 55,
+      "housingSecurity": 24,
+      "consumerProtection": 24,
+      "governmentResponsiveness": 24,
       "socialInclusion": 17
     },
-    "sourcesUsed": 4,
+    "sourcesUsed": 7,
     "population": 6.6,
     "gdpPerCapita": 2029,
     "trend": "stable",
@@ -2226,30 +4714,86 @@
     ]
   },
   {
-    "iso3": "CHN",
-    "name": "China",
-    "region": "asia",
-    "subregion": "east",
-    "fairnessScore": 32,
+    "iso3": "COD",
+    "name": "DR Congo",
+    "region": "africa",
+    "subregion": "central",
+    "fairnessScore": 26,
     "dimensions": {
-      "democraticVoice": 0,
-      "pressFreedom": 12,
-      "justiceAccess": 50,
+      "democraticVoice": 20,
+      "pressFreedom": 30,
+      "justiceAccess": 21,
       "economicOpportunity": 50,
-      "workplaceRights": 15,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 15
+      "workplaceRights": 16,
+      "healthcareAccess": 35,
+      "housingSecurity": 21,
+      "consumerProtection": 21,
+      "governmentResponsiveness": 21,
+      "socialInclusion": 30
     },
-    "sourcesUsed": 4,
-    "population": 1412,
-    "gdpPerCapita": 12720,
+    "sourcesUsed": 6,
+    "population": 95,
+    "gdpPerCapita": 577,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Challenges in democratic institutions (0%)",
+      "Challenges in workplace rights (16%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "BDI",
+    "name": "Burundi",
+    "region": "africa",
+    "subregion": "east",
+    "fairnessScore": 26,
+    "dimensions": {
+      "democraticVoice": 19,
+      "pressFreedom": 22,
+      "justiceAccess": 19,
+      "economicOpportunity": 47,
+      "workplaceRights": 23,
+      "healthcareAccess": 26,
+      "housingSecurity": 38,
+      "consumerProtection": 19,
+      "governmentResponsiveness": 22,
+      "socialInclusion": 23
+    },
+    "sourcesUsed": 8,
+    "population": 12,
+    "gdpPerCapita": 259,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in consumer protection (19%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "LAO",
+    "name": "Laos",
+    "region": "asia",
+    "subregion": "southeast",
+    "fairnessScore": 26,
+    "dimensions": {
+      "democraticVoice": 5,
+      "pressFreedom": 17,
+      "justiceAccess": 26,
+      "economicOpportunity": 50,
+      "workplaceRights": 29,
+      "healthcareAccess": 51,
+      "housingSecurity": 26,
+      "consumerProtection": 26,
+      "governmentResponsiveness": 26,
+      "socialInclusion": 17
+    },
+    "sourcesUsed": 6,
+    "population": 7.4,
+    "gdpPerCapita": 2551,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in democratic institutions (5%)",
       "Significant fairness challenges"
     ]
   },
@@ -2258,20 +4802,20 @@
     "name": "Myanmar",
     "region": "asia",
     "subregion": "southeast",
-    "fairnessScore": 32,
+    "fairnessScore": 24,
     "dimensions": {
       "democraticVoice": 3,
       "pressFreedom": 12,
-      "justiceAccess": 50,
+      "justiceAccess": 28,
       "economicOpportunity": 50,
-      "workplaceRights": 15,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
+      "workplaceRights": 12,
+      "healthcareAccess": 47,
+      "housingSecurity": 28,
+      "consumerProtection": 28,
+      "governmentResponsiveness": 28,
       "socialInclusion": 15
     },
-    "sourcesUsed": 4,
+    "sourcesUsed": 7,
     "population": 54,
     "gdpPerCapita": 1210,
     "trend": "stable",
@@ -2282,54 +4826,111 @@
     ]
   },
   {
-    "iso3": "SAU",
-    "name": "Saudi Arabia",
-    "region": "asia",
-    "subregion": "middle-east",
-    "fairnessScore": 32,
+    "iso3": "CAF",
+    "name": "Central African Republic",
+    "region": "africa",
+    "subregion": "central",
+    "fairnessScore": 24,
     "dimensions": {
-      "democraticVoice": 3,
-      "pressFreedom": 15,
-      "justiceAccess": 50,
+      "democraticVoice": 25,
+      "pressFreedom": 27,
+      "justiceAccess": 20,
       "economicOpportunity": 50,
-      "workplaceRights": 12,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 12
+      "workplaceRights": 7,
+      "healthcareAccess": 23,
+      "housingSecurity": 20,
+      "consumerProtection": 20,
+      "governmentResponsiveness": 20,
+      "socialInclusion": 27
     },
-    "sourcesUsed": 4,
-    "population": 35,
-    "gdpPerCapita": 23186,
+    "sourcesUsed": 6,
+    "population": 5,
+    "gdpPerCapita": 461,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
+      "Challenges in workplace rights (7%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "TJK",
+    "name": "Tajikistan",
+    "region": "asia",
+    "subregion": "central",
+    "fairnessScore": 24,
+    "dimensions": {
+      "democraticVoice": 8,
+      "pressFreedom": 17,
+      "justiceAccess": 22,
+      "economicOpportunity": 50,
+      "workplaceRights": 13,
+      "healthcareAccess": 57,
+      "housingSecurity": 22,
+      "consumerProtection": 22,
+      "governmentResponsiveness": 22,
+      "socialInclusion": 17
+    },
+    "sourcesUsed": 6,
+    "population": 10,
+    "gdpPerCapita": 894,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in democratic institutions (8%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "CUB",
+    "name": "Cuba",
+    "region": "americas",
+    "subregion": "caribbean",
+    "fairnessScore": 23,
+    "dimensions": {
+      "democraticVoice": 3,
+      "pressFreedom": 14,
+      "justiceAccess": 17,
+      "economicOpportunity": 50,
+      "workplaceRights": 13,
+      "healthcareAccess": 75,
+      "housingSecurity": 17,
+      "consumerProtection": 17,
+      "governmentResponsiveness": 17,
+      "socialInclusion": 18
+    },
+    "sourcesUsed": 7,
+    "population": 11,
+    "gdpPerCapita": 9478,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Strong healthcare access (75%)",
       "Challenges in democratic institutions (3%)",
       "Significant fairness challenges"
     ]
   },
   {
-    "iso3": "BLR",
-    "name": "Belarus",
-    "region": "europe",
-    "subregion": "eastern",
-    "fairnessScore": 29,
+    "iso3": "TCD",
+    "name": "Chad",
+    "region": "africa",
+    "subregion": "central",
+    "fairnessScore": 23,
     "dimensions": {
       "democraticVoice": 10,
       "pressFreedom": 18,
-      "justiceAccess": 27,
-      "economicOpportunity": 66,
-      "workplaceRights": 14,
-      "healthcareAccess": 30,
-      "housingSecurity": 60,
-      "consumerProtection": 34,
-      "governmentResponsiveness": 27,
-      "socialInclusion": 14
+      "justiceAccess": 18,
+      "economicOpportunity": 50,
+      "workplaceRights": 18,
+      "healthcareAccess": 50,
+      "housingSecurity": 18,
+      "consumerProtection": 18,
+      "governmentResponsiveness": 18,
+      "socialInclusion": 18
     },
-    "sourcesUsed": 8,
-    "population": 9.4,
-    "gdpPerCapita": 7302,
+    "sourcesUsed": 4,
+    "population": 17,
+    "gdpPerCapita": 710,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
@@ -2338,30 +4939,142 @@
     ]
   },
   {
-    "iso3": "AZE",
-    "name": "Azerbaijan",
-    "region": "europe",
-    "subregion": "caucasus",
-    "fairnessScore": 29,
+    "iso3": "VEN",
+    "name": "Venezuela",
+    "region": "americas",
+    "subregion": "south",
+    "fairnessScore": 21,
     "dimensions": {
-      "democraticVoice": 12,
-      "pressFreedom": 18,
-      "justiceAccess": 24,
-      "economicOpportunity": 49,
-      "workplaceRights": 18,
-      "healthcareAccess": 49,
-      "housingSecurity": 49,
-      "consumerProtection": 38,
-      "governmentResponsiveness": 31,
-      "socialInclusion": 18
+      "democraticVoice": 10,
+      "pressFreedom": 20,
+      "justiceAccess": 10,
+      "economicOpportunity": 50,
+      "workplaceRights": 14,
+      "healthcareAccess": 50,
+      "housingSecurity": 10,
+      "consumerProtection": 10,
+      "governmentResponsiveness": 10,
+      "socialInclusion": 23
     },
     "sourcesUsed": 7,
-    "population": 10.1,
-    "gdpPerCapita": 6054,
+    "population": 28,
+    "gdpPerCapita": 3740,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Challenges in democratic institutions (12%)",
+      "Challenges in government responsiveness (10%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "LBY",
+    "name": "Libya",
+    "region": "africa",
+    "subregion": "north",
+    "fairnessScore": 19,
+    "dimensions": {
+      "democraticVoice": 5,
+      "pressFreedom": 12,
+      "justiceAccess": 14,
+      "economicOpportunity": 50,
+      "workplaceRights": 3,
+      "healthcareAccess": 55,
+      "housingSecurity": 14,
+      "consumerProtection": 14,
+      "governmentResponsiveness": 14,
+      "socialInclusion": 12
+    },
+    "sourcesUsed": 6,
+    "population": 7,
+    "gdpPerCapita": 6018,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in workplace rights (3%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "TKM",
+    "name": "Turkmenistan",
+    "region": "asia",
+    "subregion": "central",
+    "fairnessScore": 18,
+    "dimensions": {
+      "democraticVoice": 0,
+      "pressFreedom": 3,
+      "justiceAccess": 17,
+      "economicOpportunity": 50,
+      "workplaceRights": 9,
+      "healthcareAccess": 56,
+      "housingSecurity": 17,
+      "consumerProtection": 17,
+      "governmentResponsiveness": 17,
+      "socialInclusion": 3
+    },
+    "sourcesUsed": 6,
+    "population": 6.1,
+    "gdpPerCapita": 7612,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in democratic institutions (0%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "GNQ",
+    "name": "Equatorial Guinea",
+    "region": "africa",
+    "subregion": "central",
+    "fairnessScore": 17,
+    "dimensions": {
+      "democraticVoice": 3,
+      "pressFreedom": 8,
+      "justiceAccess": 13,
+      "economicOpportunity": 50,
+      "workplaceRights": 8,
+      "healthcareAccess": 50,
+      "housingSecurity": 13,
+      "consumerProtection": 13,
+      "governmentResponsiveness": 13,
+      "socialInclusion": 8
+    },
+    "sourcesUsed": 4,
+    "population": 1.5,
+    "gdpPerCapita": 7273,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in democratic institutions (3%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "SDN",
+    "name": "Sudan",
+    "region": "africa",
+    "subregion": "north",
+    "fairnessScore": 17,
+    "dimensions": {
+      "democraticVoice": 5,
+      "pressFreedom": 12,
+      "justiceAccess": 11,
+      "economicOpportunity": 50,
+      "workplaceRights": 11,
+      "healthcareAccess": 34,
+      "housingSecurity": 11,
+      "consumerProtection": 11,
+      "governmentResponsiveness": 11,
+      "socialInclusion": 12
+    },
+    "sourcesUsed": 6,
+    "population": 45,
+    "gdpPerCapita": 449,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in democratic institutions (5%)",
       "Significant fairness challenges"
     ]
   },
@@ -2370,20 +5083,20 @@
     "name": "North Korea",
     "region": "asia",
     "subregion": "east",
-    "fairnessScore": 29,
+    "fairnessScore": 16,
     "dimensions": {
       "democraticVoice": 0,
       "pressFreedom": 6,
-      "justiceAccess": 50,
+      "justiceAccess": 15,
       "economicOpportunity": 50,
-      "workplaceRights": 5,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
+      "workplaceRights": 1,
+      "healthcareAccess": 45,
+      "housingSecurity": 15,
+      "consumerProtection": 15,
+      "governmentResponsiveness": 15,
       "socialInclusion": 5
     },
-    "sourcesUsed": 4,
+    "sourcesUsed": 7,
     "population": 26,
     "gdpPerCapita": 1800,
     "trend": "stable",
@@ -2394,24 +5107,136 @@
     ]
   },
   {
+    "iso3": "YEM",
+    "name": "Yemen",
+    "region": "asia",
+    "subregion": "middle-east",
+    "fairnessScore": 16,
+    "dimensions": {
+      "democraticVoice": 5,
+      "pressFreedom": 15,
+      "justiceAccess": 11,
+      "economicOpportunity": 50,
+      "workplaceRights": 4,
+      "healthcareAccess": 32,
+      "housingSecurity": 11,
+      "consumerProtection": 11,
+      "governmentResponsiveness": 11,
+      "socialInclusion": 15
+    },
+    "sourcesUsed": 6,
+    "population": 32,
+    "gdpPerCapita": 691,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in workplace rights (4%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "ERI",
+    "name": "Eritrea",
+    "region": "africa",
+    "subregion": "east",
+    "fairnessScore": 15,
+    "dimensions": {
+      "democraticVoice": 0,
+      "pressFreedom": 4,
+      "justiceAccess": 16,
+      "economicOpportunity": 50,
+      "workplaceRights": 1,
+      "healthcareAccess": 35,
+      "housingSecurity": 16,
+      "consumerProtection": 16,
+      "governmentResponsiveness": 16,
+      "socialInclusion": 3
+    },
+    "sourcesUsed": 7,
+    "population": 3.6,
+    "gdpPerCapita": 643,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in democratic institutions (0%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "SOM",
+    "name": "Somalia",
+    "region": "africa",
+    "subregion": "east",
+    "fairnessScore": 15,
+    "dimensions": {
+      "democraticVoice": 10,
+      "pressFreedom": 13,
+      "justiceAccess": 9,
+      "economicOpportunity": 50,
+      "workplaceRights": 3,
+      "healthcareAccess": 25,
+      "housingSecurity": 9,
+      "consumerProtection": 9,
+      "governmentResponsiveness": 9,
+      "socialInclusion": 13
+    },
+    "sourcesUsed": 6,
+    "population": 17,
+    "gdpPerCapita": 447,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in workplace rights (3%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
+    "iso3": "AFG",
+    "name": "Afghanistan",
+    "region": "asia",
+    "subregion": "south",
+    "fairnessScore": 15,
+    "dimensions": {
+      "democraticVoice": 11,
+      "pressFreedom": 13,
+      "justiceAccess": 21,
+      "economicOpportunity": 10,
+      "workplaceRights": 5,
+      "healthcareAccess": 27,
+      "housingSecurity": 13,
+      "consumerProtection": 19,
+      "governmentResponsiveness": 13,
+      "socialInclusion": 13
+    },
+    "sourcesUsed": 9,
+    "population": 40,
+    "gdpPerCapita": 364,
+    "trend": "stable",
+    "trendChange": 0,
+    "keyFacts": [
+      "Challenges in workplace rights (5%)",
+      "Significant fairness challenges"
+    ]
+  },
+  {
     "iso3": "SYR",
     "name": "Syria",
     "region": "asia",
     "subregion": "middle-east",
-    "fairnessScore": 29,
+    "fairnessScore": 14,
     "dimensions": {
       "democraticVoice": 0,
       "pressFreedom": 5,
-      "justiceAccess": 50,
+      "justiceAccess": 11,
       "economicOpportunity": 50,
-      "workplaceRights": 2,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
+      "workplaceRights": 1,
+      "healthcareAccess": 40,
+      "housingSecurity": 11,
+      "consumerProtection": 11,
+      "governmentResponsiveness": 11,
       "socialInclusion": 2
     },
-    "sourcesUsed": 4,
+    "sourcesUsed": 7,
     "population": 22,
     "gdpPerCapita": 533,
     "trend": "stable",
@@ -2422,30 +5247,30 @@
     ]
   },
   {
-    "iso3": "ERI",
-    "name": "Eritrea",
+    "iso3": "SSD",
+    "name": "South Sudan",
     "region": "africa",
     "subregion": "east",
-    "fairnessScore": 29,
+    "fairnessScore": 14,
     "dimensions": {
-      "democraticVoice": 0,
-      "pressFreedom": 4,
-      "justiceAccess": 50,
+      "democraticVoice": 8,
+      "pressFreedom": 13,
+      "justiceAccess": 8,
       "economicOpportunity": 50,
       "workplaceRights": 3,
-      "healthcareAccess": 50,
-      "housingSecurity": 50,
-      "consumerProtection": 50,
-      "governmentResponsiveness": 50,
-      "socialInclusion": 3
+      "healthcareAccess": 24,
+      "housingSecurity": 8,
+      "consumerProtection": 8,
+      "governmentResponsiveness": 8,
+      "socialInclusion": 13
     },
-    "sourcesUsed": 4,
-    "population": 3.6,
-    "gdpPerCapita": 643,
+    "sourcesUsed": 6,
+    "population": 11,
+    "gdpPerCapita": 393,
     "trend": "stable",
     "trendChange": 0,
     "keyFacts": [
-      "Challenges in democratic institutions (0%)",
+      "Challenges in workplace rights (3%)",
       "Significant fairness challenges"
     ]
   }

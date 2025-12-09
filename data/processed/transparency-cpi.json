@@ -1,0 +1,878 @@
+[
+  {
+    "countryIso3": "DNK",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 90
+  },
+  {
+    "countryIso3": "FIN",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 88
+  },
+  {
+    "countryIso3": "NZL",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 87
+  },
+  {
+    "countryIso3": "NOR",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 84
+  },
+  {
+    "countryIso3": "SGP",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 84
+  },
+  {
+    "countryIso3": "SWE",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 82
+  },
+  {
+    "countryIso3": "CHE",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 82
+  },
+  {
+    "countryIso3": "NLD",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 80
+  },
+  {
+    "countryIso3": "DEU",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 79
+  },
+  {
+    "countryIso3": "LUX",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 78
+  },
+  {
+    "countryIso3": "IRL",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 77
+  },
+  {
+    "countryIso3": "AUS",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 75
+  },
+  {
+    "countryIso3": "AUT",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 75
+  },
+  {
+    "countryIso3": "HKG",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 75
+  },
+  {
+    "countryIso3": "BEL",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 74
+  },
+  {
+    "countryIso3": "EST",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 74
+  },
+  {
+    "countryIso3": "JPN",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 73
+  },
+  {
+    "countryIso3": "GBR",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 72
+  },
+  {
+    "countryIso3": "CAN",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 72
+  },
+  {
+    "countryIso3": "FRA",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 71
+  },
+  {
+    "countryIso3": "ARE",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 70
+  },
+  {
+    "countryIso3": "ISL",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 70
+  },
+  {
+    "countryIso3": "USA",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 67
+  },
+  {
+    "countryIso3": "TWN",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 67
+  },
+  {
+    "countryIso3": "BHS",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 65
+  },
+  {
+    "countryIso3": "PRT",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 64
+  },
+  {
+    "countryIso3": "ISR",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 63
+  },
+  {
+    "countryIso3": "CHL",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 63
+  },
+  {
+    "countryIso3": "LTU",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 62
+  },
+  {
+    "countryIso3": "SVN",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 61
+  },
+  {
+    "countryIso3": "KOR",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 60
+  },
+  {
+    "countryIso3": "CZE",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 58
+  },
+  {
+    "countryIso3": "LVA",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 58
+  },
+  {
+    "countryIso3": "POL",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 55
+  },
+  {
+    "countryIso3": "GRC",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 54
+  },
+  {
+    "countryIso3": "HRV",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 54
+  },
+  {
+    "countryIso3": "MYS",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 53
+  },
+  {
+    "countryIso3": "ITA",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 53
+  },
+  {
+    "countryIso3": "ROU",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 52
+  },
+  {
+    "countryIso3": "SVK",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 51
+  },
+  {
+    "countryIso3": "JOR",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 51
+  },
+  {
+    "countryIso3": "HUN",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 50
+  },
+  {
+    "countryIso3": "SAU",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 49
+  },
+  {
+    "countryIso3": "TUR",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 46
+  },
+  {
+    "countryIso3": "ZAF",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 45
+  },
+  {
+    "countryIso3": "CHN",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 45
+  },
+  {
+    "countryIso3": "SRB",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 44
+  },
+  {
+    "countryIso3": "IND",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 42
+  },
+  {
+    "countryIso3": "BRA",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 41
+  },
+  {
+    "countryIso3": "ARG",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 41
+  },
+  {
+    "countryIso3": "IDN",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 40
+  },
+  {
+    "countryIso3": "MNG",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 40
+  },
+  {
+    "countryIso3": "THA",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 39
+  },
+  {
+    "countryIso3": "VNM",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 39
+  },
+  {
+    "countryIso3": "COL",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 39
+  },
+  {
+    "countryIso3": "PHL",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 38
+  },
+  {
+    "countryIso3": "PER",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 38
+  },
+  {
+    "countryIso3": "ECU",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 37
+  },
+  {
+    "countryIso3": "UKR",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 37
+  },
+  {
+    "countryIso3": "MEX",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 36
+  },
+  {
+    "countryIso3": "PAK",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 36
+  },
+  {
+    "countryIso3": "EGY",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 35
+  },
+  {
+    "countryIso3": "NPL",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 35
+  },
+  {
+    "countryIso3": "ETH",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 34
+  },
+  {
+    "countryIso3": "ALB",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 34
+  },
+  {
+    "countryIso3": "KAZ",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 34
+  },
+  {
+    "countryIso3": "GHA",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 33
+  },
+  {
+    "countryIso3": "NGA",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 32
+  },
+  {
+    "countryIso3": "KEN",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 32
+  },
+  {
+    "countryIso3": "BGD",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 32
+  },
+  {
+    "countryIso3": "BLR",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 31
+  },
+  {
+    "countryIso3": "RUS",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 30
+  },
+  {
+    "countryIso3": "LBN",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 30
+  },
+  {
+    "countryIso3": "IRN",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 29
+  },
+  {
+    "countryIso3": "MDA",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 28
+  },
+  {
+    "countryIso3": "MMR",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 28
+  },
+  {
+    "countryIso3": "GTM",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 27
+  },
+  {
+    "countryIso3": "LAO",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 26
+  },
+  {
+    "countryIso3": "UGA",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 26
+  },
+  {
+    "countryIso3": "ZWE",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 25
+  },
+  {
+    "countryIso3": "CMR",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 25
+  },
+  {
+    "countryIso3": "NIC",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 24
+  },
+  {
+    "countryIso3": "AGO",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 23
+  },
+  {
+    "countryIso3": "TJK",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 22
+  },
+  {
+    "countryIso3": "DJI",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 22
+  },
+  {
+    "countryIso3": "IRQ",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 21
+  },
+  {
+    "countryIso3": "COD",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 21
+  },
+  {
+    "countryIso3": "HND",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 20
+  },
+  {
+    "countryIso3": "KHM",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 19
+  },
+  {
+    "countryIso3": "AFG",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 18
+  },
+  {
+    "countryIso3": "TKM",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 17
+  },
+  {
+    "countryIso3": "CUB",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 17
+  },
+  {
+    "countryIso3": "PRK",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 15
+  },
+  {
+    "countryIso3": "LBY",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 14
+  },
+  {
+    "countryIso3": "GNQ",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 13
+  },
+  {
+    "countryIso3": "HTI",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 12
+  },
+  {
+    "countryIso3": "SDN",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 11
+  },
+  {
+    "countryIso3": "SYR",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 11
+  },
+  {
+    "countryIso3": "VEN",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 10
+  },
+  {
+    "countryIso3": "SOM",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 9
+  },
+  {
+    "countryIso3": "SSD",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 8
+  },
+  {
+    "countryIso3": "BWA",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 59
+  },
+  {
+    "countryIso3": "CPV",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 58
+  },
+  {
+    "countryIso3": "RWA",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 55
+  },
+  {
+    "countryIso3": "NAM",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 54
+  },
+  {
+    "countryIso3": "MUS",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 53
+  },
+  {
+    "countryIso3": "CRI",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 58
+  },
+  {
+    "countryIso3": "URY",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 70
+  },
+  {
+    "countryIso3": "GEO",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 53
+  },
+  {
+    "countryIso3": "ARM",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 40
+  },
+  {
+    "countryIso3": "AZE",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 30
+  },
+  {
+    "countryIso3": "MKD",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 43
+  },
+  {
+    "countryIso3": "BIH",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 38
+  },
+  {
+    "countryIso3": "MNE",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 42
+  },
+  {
+    "countryIso3": "LKA",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 36
+  },
+  {
+    "countryIso3": "QAT",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 62
+  },
+  {
+    "countryIso3": "KWT",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 49
+  },
+  {
+    "countryIso3": "BHR",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 45
+  },
+  {
+    "countryIso3": "OMN",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 46
+  },
+  {
+    "countryIso3": "MAR",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 38
+  },
+  {
+    "countryIso3": "TUN",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 39
+  },
+  {
+    "countryIso3": "DZA",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 30
+  },
+  {
+    "countryIso3": "SEN",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 43
+  },
+  {
+    "countryIso3": "CIV",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 35
+  },
+  {
+    "countryIso3": "MLI",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 29
+  },
+  {
+    "countryIso3": "BFA",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 27
+  },
+  {
+    "countryIso3": "NER",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 30
+  },
+  {
+    "countryIso3": "TCD",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 18
+  },
+  {
+    "countryIso3": "CAF",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 20
+  },
+  {
+    "countryIso3": "TZA",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 35
+  },
+  {
+    "countryIso3": "MOZ",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 26
+  },
+  {
+    "countryIso3": "MDG",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 25
+  },
+  {
+    "countryIso3": "ZMB",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 34
+  },
+  {
+    "countryIso3": "MWI",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 33
+  },
+  {
+    "countryIso3": "JAM",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 43
+  },
+  {
+    "countryIso3": "TTO",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 45
+  },
+  {
+    "countryIso3": "DOM",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 33
+  },
+  {
+    "countryIso3": "PAN",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 36
+  },
+  {
+    "countryIso3": "BOL",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 30
+  },
+  {
+    "countryIso3": "PRY",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 30
+  },
+  {
+    "countryIso3": "SLV",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 36
+  },
+  {
+    "countryIso3": "FJI",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 52
+  },
+  {
+    "countryIso3": "PNG",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 25
+  },
+  {
+    "countryIso3": "YEM",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 11
+  },
+  {
+    "countryIso3": "ERI",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 16
+  },
+  {
+    "countryIso3": "BDI",
+    "sourceId": "transparency_cpi",
+    "year": 2024,
+    "value": 17
+  }
+]

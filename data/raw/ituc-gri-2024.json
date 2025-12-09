@@ -1,0 +1,526 @@
+{
+  "DNK": {
+    "rating": 1,
+    "category": "Sporadic violations"
+  },
+  "FIN": {
+    "rating": 1,
+    "category": "Sporadic violations"
+  },
+  "NOR": {
+    "rating": 1,
+    "category": "Sporadic violations"
+  },
+  "SWE": {
+    "rating": 1,
+    "category": "Sporadic violations"
+  },
+  "ISL": {
+    "rating": 1,
+    "category": "Sporadic violations"
+  },
+  "IRL": {
+    "rating": 1,
+    "category": "Sporadic violations"
+  },
+  "NLD": {
+    "rating": 1,
+    "category": "Sporadic violations"
+  },
+  "URY": {
+    "rating": 1,
+    "category": "Sporadic violations"
+  },
+  "DEU": {
+    "rating": 1,
+    "category": "Sporadic violations"
+  },
+  "AUT": {
+    "rating": 1,
+    "category": "Sporadic violations"
+  },
+  "ITA": {
+    "rating": 1,
+    "category": "Sporadic violations"
+  },
+  "BEL": {
+    "rating": 2,
+    "category": "Repeated violations"
+  },
+  "FRA": {
+    "rating": 2,
+    "category": "Repeated violations"
+  },
+  "CAN": {
+    "rating": 2,
+    "category": "Repeated violations"
+  },
+  "JPN": {
+    "rating": 2,
+    "category": "Repeated violations"
+  },
+  "AUS": {
+    "rating": 2,
+    "category": "Repeated violations"
+  },
+  "NZL": {
+    "rating": 2,
+    "category": "Repeated violations"
+  },
+  "CHE": {
+    "rating": 2,
+    "category": "Repeated violations"
+  },
+  "ESP": {
+    "rating": 2,
+    "category": "Repeated violations"
+  },
+  "PRT": {
+    "rating": 2,
+    "category": "Repeated violations"
+  },
+  "CZE": {
+    "rating": 2,
+    "category": "Repeated violations"
+  },
+  "SVK": {
+    "rating": 2,
+    "category": "Repeated violations"
+  },
+  "SVN": {
+    "rating": 2,
+    "category": "Repeated violations"
+  },
+  "CHL": {
+    "rating": 2,
+    "category": "Repeated violations"
+  },
+  "ARG": {
+    "rating": 2,
+    "category": "Repeated violations"
+  },
+  "ZAF": {
+    "rating": 2,
+    "category": "Repeated violations"
+  },
+  "GHA": {
+    "rating": 2,
+    "category": "Repeated violations"
+  },
+  "BWA": {
+    "rating": 2,
+    "category": "Repeated violations"
+  },
+  "MUS": {
+    "rating": 2,
+    "category": "Repeated violations"
+  },
+  "JAM": {
+    "rating": 2,
+    "category": "Repeated violations"
+  },
+  "TTO": {
+    "rating": 2,
+    "category": "Repeated violations"
+  },
+  "USA": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "GBR": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "POL": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "HUN": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "GRC": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "ROU": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "BGR": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "HRV": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "MKD": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "MEX": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "BRA": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "PER": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "BOL": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "DOM": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "SEN": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "KEN": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "IND": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "IDN": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "MYS": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "KOR": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "TWN": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "JOR": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "MAR": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "TUN": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "GEO": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "MDA": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "UKR": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "MNG": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "LKA": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "NPL": {
+    "rating": 3,
+    "category": "Regular violations"
+  },
+  "CHN": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "RUS": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "TUR": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "IRN": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "PAK": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "VNM": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "THA": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "PHL": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "COL": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "GTM": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "HND": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "SLV": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "NIC": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "ECU": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "PRY": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "HTI": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "NGA": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "CIV": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "CMR": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "UGA": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "TZA": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "ETH": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "ZWE": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "ZMB": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "MOZ": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "AGO": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "DZA": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "EGY": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "SAU": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "ARE": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "QAT": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "KWT": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "BHR": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "OMN": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "KAZ": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "AZE": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "KHM": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "LAO": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "BRN": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "SGP": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "HKG": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "ARM": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "SRB": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "ALB": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "BIH": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "MNE": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "LBN": {
+    "rating": 4,
+    "category": "Systematic violations"
+  },
+  "BGD": {
+    "rating": 5,
+    "category": "No guarantee of rights"
+  },
+  "MMR": {
+    "rating": 5,
+    "category": "No guarantee of rights"
+  },
+  "BLR": {
+    "rating": 5,
+    "category": "No guarantee of rights"
+  },
+  "VEN": {
+    "rating": 5,
+    "category": "No guarantee of rights"
+  },
+  "IRQ": {
+    "rating": 5,
+    "category": "No guarantee of rights"
+  },
+  "SDN": {
+    "rating": 5,
+    "category": "No guarantee of rights"
+  },
+  "COD": {
+    "rating": 5,
+    "category": "No guarantee of rights"
+  },
+  "SWZ": {
+    "rating": 5,
+    "category": "No guarantee of rights"
+  },
+  "TKM": {
+    "rating": 5,
+    "category": "No guarantee of rights"
+  },
+  "UZB": {
+    "rating": 5,
+    "category": "No guarantee of rights"
+  },
+  "TJK": {
+    "rating": 5,
+    "category": "No guarantee of rights"
+  },
+  "KGZ": {
+    "rating": 5,
+    "category": "No guarantee of rights"
+  },
+  "AFG": {
+    "rating": 5.5,
+    "category": "No guarantee - breakdown of rule of law"
+  },
+  "SYR": {
+    "rating": 5.5,
+    "category": "No guarantee - breakdown of rule of law"
+  },
+  "YEM": {
+    "rating": 5.5,
+    "category": "No guarantee - breakdown of rule of law"
+  },
+  "LBY": {
+    "rating": 5.5,
+    "category": "No guarantee - breakdown of rule of law"
+  },
+  "SOM": {
+    "rating": 5.5,
+    "category": "No guarantee - breakdown of rule of law"
+  },
+  "SSD": {
+    "rating": 5.5,
+    "category": "No guarantee - breakdown of rule of law"
+  },
+  "CAF": {
+    "rating": 5.5,
+    "category": "No guarantee - breakdown of rule of law"
+  },
+  "ERI": {
+    "rating": 5.5,
+    "category": "No guarantee - breakdown of rule of law"
+  },
+  "PRK": {
+    "rating": 5.5,
+    "category": "No guarantee - breakdown of rule of law"
+  },
+  "CUB": {
+    "rating": 5,
+    "category": "No guarantee of rights"
+  },
+  "PSE": {
+    "rating": 5.5,
+    "category": "No guarantee - breakdown of rule of law"
+  }
+}

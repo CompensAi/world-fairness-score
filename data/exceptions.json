@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "description": "Exceptions and estimates for countries/dimensions where real data is unavailable",
+    "lastUpdated": "2025-01-09",
+    "methodology": "When no real data exists, we estimate based on regional averages, GDP correlation, or expert assessments. All estimates are marked with low confidence."
+  },
+  "exceptions": [
+    {
+      "countryIso3": "PRK",
+      "countryName": "North Korea",
+      "dimensions": {
+        "healthcareAccess": {
+          "estimatedValue": 35,
+          "reason": "No WHO UHC data - country does not participate in international health surveys",
+          "methodology": "Estimated based on reports from defectors, NGOs, and satellite imagery analysis of healthcare facilities",
+          "confidence": "very_low",
+          "sources": ["WHO estimates", "Human Rights Watch reports"]
+        },
+        "economicOpportunity": {
+          "estimatedValue": 20,
+          "reason": "No World Bank GINI data - closed economy with no international reporting",
+          "methodology": "Estimated based on centrally planned economy characteristics and reports of severe inequality",
+          "confidence": "very_low",
+          "sources": ["Academic research on DPRK economy"]
+        }
+      }
+    },
+    {
+      "countryIso3": "ERI",
+      "countryName": "Eritrea",
+      "dimensions": {
+        "healthcareAccess": {
+          "estimatedValue": 30,
+          "reason": "Limited WHO data available",
+          "methodology": "Estimated based on regional East African averages adjusted for GDP and isolation",
+          "confidence": "low",
+          "sources": ["Regional WHO data", "UNDP estimates"]
+        }
+      }
+    },
+    {
+      "countryIso3": "SOM",
+      "countryName": "Somalia",
+      "dimensions": {
+        "justiceAccess": {
+          "estimatedValue": 15,
+          "reason": "No WJP Rule of Law Index coverage due to ongoing conflict",
+          "methodology": "Estimated based on fragile state indicators and regional assessments",
+          "confidence": "low",
+          "sources": ["Fragile States Index", "UN reports"]
+        },
+        "governmentResponsiveness": {
+          "estimatedValue": 20,
+          "reason": "Limited central government control over territory",
+          "methodology": "Estimated based on territorial control data and governance reports",
+          "confidence": "low",
+          "sources": ["UN Somalia reports", "World Bank fragility assessments"]
+        }
+      }
+    },
+    {
+      "countryIso3": "SSD",
+      "countryName": "South Sudan",
+      "dimensions": {
+        "economicOpportunity": {
+          "estimatedValue": 15,
+          "reason": "No recent GINI data due to ongoing conflict and displacement",
+          "methodology": "Estimated based on conflict economy characteristics and humanitarian reports",
+          "confidence": "low",
+          "sources": ["World Bank poverty assessments", "UNHCR reports"]
+        }
+      }
+    },
+    {
+      "countryIso3": "SYR",
+      "countryName": "Syria",
+      "dimensions": {
+        "healthcareAccess": {
+          "estimatedValue": 25,
+          "reason": "Healthcare system severely damaged by civil war",
+          "methodology": "Pre-war baseline adjusted for documented destruction of healthcare infrastructure",
+          "confidence": "low",
+          "sources": ["WHO Syria reports", "MSF assessments"]
+        },
+        "housingSecurity": {
+          "estimatedValue": 15,
+          "reason": "Massive displacement and housing destruction",
+          "methodology": "Estimated based on UN displacement figures and infrastructure damage assessments",
+          "confidence": "low",
+          "sources": ["UNHCR Syria data", "UN-Habitat reports"]
+        }
+      }
+    },
+    {
+      "countryIso3": "YEM",
+      "countryName": "Yemen",
+      "dimensions": {
+        "healthcareAccess": {
+          "estimatedValue": 20,
+          "reason": "Healthcare system collapsed due to ongoing conflict",
+          "methodology": "Estimated based on humanitarian crisis indicators",
+          "confidence": "low",
+          "sources": ["WHO Yemen emergency reports", "OCHA assessments"]
+        }
+      }
+    },
+    {
+      "countryIso3": "AFG",
+      "countryName": "Afghanistan",
+      "dimensions": {
+        "socialInclusion": {
+          "estimatedValue": 10,
+          "reason": "Severe restrictions on women's rights under Taliban rule since 2021",
+          "methodology": "Based on documented restrictions on women's education, employment, and movement",
+          "confidence": "high",
+          "sources": ["UN Women reports", "Human Rights Watch", "Amnesty International"]
+        },
+        "workplaceRights": {
+          "estimatedValue": 15,
+          "reason": "Women banned from most employment, unions prohibited",
+          "methodology": "Based on Taliban edicts and documented labor restrictions",
+          "confidence": "high",
+          "sources": ["ILO reports", "Human Rights Watch"]
+        }
+      }
+    },
+    {
+      "countryIso3": "TKM",
+      "countryName": "Turkmenistan",
+      "dimensions": {
+        "pressFreedom": {
+          "estimatedValue": 5,
+          "reason": "One of the most closed media environments globally",
+          "methodology": "RSF consistently ranks among worst; no independent media exists",
+          "confidence": "high",
+          "sources": ["RSF Press Freedom Index", "CPJ reports"]
+        }
+      }
+    }
+  ],
+  "confidenceLevels": {
+    "high": "Multiple reliable sources confirm this estimate",
+    "medium": "Based on partial data and reasonable extrapolation",
+    "low": "Limited data available, significant uncertainty",
+    "very_low": "Almost no verifiable data, rough estimate only"
+  },
+  "defaultValues": {
+    "description": "When no data exists and no specific exception is documented, we use regional averages",
+    "methodology": "Calculate average of neighboring countries with available data, adjusted for GDP per capita correlation",
+    "defaultConfidence": "low"
+  }
+}
